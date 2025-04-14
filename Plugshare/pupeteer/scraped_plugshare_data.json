@@ -1,0 +1,1808 @@
+[
+  {
+    "url": "https://www.plugshare.com/location/486300",
+    "locationName": "Route du Manoir",
+    "address": "Route du Manoir , 76480 Le Mesnil-sous-Jumièges, FR",
+    "plugTypes": [
+      "Type 2,",
+      "Wall (Euro)"
+    ],
+    "networkProvider": "",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "2 Plugs",
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": "486300"
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486301",
+    "locationName": "Rue Théophile Pourhomme",
+    "address": "Rue Théophile Pourhomme , 76480 Yainville, FR",
+    "plugTypes": [
+      "Type 2,",
+      "Wall (Euro)"
+    ],
+    "networkProvider": "",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "2 Plugs",
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": "486301"
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      },
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486302",
+    "locationName": "Place de l'Amiral Ronarch",
+    "address": "Place de l'Amiral Ronarch , 76580 Le Trait, FR",
+    "plugTypes": [
+      "Type 2,",
+      "Wall (Euro)"
+    ],
+    "networkProvider": "",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "2 Plugs",
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": "486302"
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      },
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486303",
+    "locationName": "15 Rue des Écoles",
+    "address": "15 Rue des Écoles , 76330 Norville, FR",
+    "plugTypes": [
+      "Type 2,",
+      "Wall (Euro)"
+    ],
+    "networkProvider": "",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "1 Plug",
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": "486303"
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      },
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486304",
+    "locationName": "Route de Betteville",
+    "address": "Route de Betteville , 76480 Épinay-sur-Duclair, FR",
+    "plugTypes": [
+      "Type 2,",
+      "Wall (Euro)"
+    ],
+    "networkProvider": "",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "2 Plugs",
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": "486304"
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      },
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486305",
+    "locationName": "Chemin de la Messe",
+    "address": "Chemin de la Messe , 76480 Saint-Pierre-de-Varengeville, FR",
+    "plugTypes": [
+      "Type 2,",
+      "Wall (Euro)"
+    ],
+    "networkProvider": "",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "2 Plugs",
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": "486305"
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      },
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486306",
+    "locationName": "Rue du Stade",
+    "address": "Rue du Stade , 76840 Hénouville, FR",
+    "plugTypes": [
+      "Type 2,",
+      "Wall (Euro)"
+    ],
+    "networkProvider": "",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "2 Plugs",
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": "486306"
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      },
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486307",
+    "locationName": "",
+    "address": "",
+    "plugTypes": [],
+    "networkProvider": "Networks (34 of 34)",
+    "chargingSpeed": "kW",
+    "numberOfChargers": null,
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": ""
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486308",
+    "locationName": "1 Rue de l’École",
+    "address": "1 Rue de l’École , 76360 Pissy-Pôville, FR",
+    "plugTypes": [
+      "Type 2,",
+      "Wall (Euro)"
+    ],
+    "networkProvider": "",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "1 Plug",
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": "486308"
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486309",
+    "locationName": "850 Rue Pasteur",
+    "address": "850 Rue Pasteur , 76360 Villers-Écalles, FR",
+    "plugTypes": [
+      "Type 2,",
+      "Wall (Euro)"
+    ],
+    "networkProvider": "",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "1 Plug",
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": "486309"
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      },
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486310",
+    "locationName": "",
+    "address": "",
+    "plugTypes": [],
+    "networkProvider": "Networks (0 of 1)",
+    "chargingSpeed": "kW",
+    "numberOfChargers": null,
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": ""
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486311",
+    "locationName": "57 Route du Houlme",
+    "address": "57 Route du Houlme , 76570 Fresquiennes, FR",
+    "plugTypes": [
+      "Type 2,",
+      "Wall (Euro)"
+    ],
+    "networkProvider": "",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "2 Plugs",
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": "486311"
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      },
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486312",
+    "locationName": "1 Place du Général de Gaulle",
+    "address": "1 Place du Général de Gaulle , 76570 Pavilly, FR",
+    "plugTypes": [
+      "Type 2,",
+      "Wall (Euro)"
+    ],
+    "networkProvider": "",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "2 Plugs",
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": "486312"
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486313",
+    "locationName": "4 Place du Président d'Esneval",
+    "address": "4 Place du Président d'Esneval , 76570 Pavilly, FR",
+    "plugTypes": [
+      "Type 2,",
+      "Wall (Euro)"
+    ],
+    "networkProvider": "",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "2 Plugs",
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": "486313"
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      },
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486314",
+    "locationName": "43 Route de Yerville",
+    "address": "43 Route de Yerville , 76570 Limésy, FR",
+    "plugTypes": [
+      "Type 2,",
+      "Wall (Euro)"
+    ],
+    "networkProvider": "",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "1 Plug",
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": "486314"
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      },
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486315",
+    "locationName": "Place Maintenon",
+    "address": "Place Maintenon , 76680 Saint-Saëns, FR",
+    "plugTypes": [
+      "Type 2,",
+      "Wall (Euro)"
+    ],
+    "networkProvider": "",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "5 Plugs",
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": "486315"
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      },
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486316",
+    "locationName": "",
+    "address": "",
+    "plugTypes": [],
+    "networkProvider": "Networks (34 of 34)",
+    "chargingSpeed": "kW",
+    "numberOfChargers": null,
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": ""
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486317",
+    "locationName": "",
+    "address": "",
+    "plugTypes": [],
+    "networkProvider": "Networks (34 of 34)",
+    "chargingSpeed": "kW",
+    "numberOfChargers": null,
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": ""
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486318",
+    "locationName": "Agora Apartments",
+    "address": "800 New Jersey Ave SE, Washington, DC 20003, USA",
+    "plugTypes": [
+      "J-1772",
+      "Blink"
+    ],
+    "networkProvider": "Blink",
+    "chargingSpeed": "6.24 kW",
+    "numberOfChargers": "13 Plugs",
+    "poiType": "Residential",
+    "amenities": [
+      "Grocery,",
+      "Lodging,",
+      "EV Parking,",
+      "Dining"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": "486318"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      },
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486319",
+    "locationName": "Avec on H St Apartments",
+    "address": "901 H Street NE, Washington, DC 20002",
+    "plugTypes": [
+      "J-1772",
+      "Blink"
+    ],
+    "networkProvider": "Blink",
+    "chargingSpeed": "6.24 kW",
+    "numberOfChargers": "4 Plugs",
+    "poiType": "Residential",
+    "amenities": [
+      "EV Parking,",
+      "Dining,",
+      "Shopping"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": "486319"
+    },
+    "parking": "Parking: Pay",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486320",
+    "locationName": "Sai World City Panvel",
+    "address": "Sai world city, Palaspe Phata, Panvel, Navi Mumbai, Maharashtra 410221, India",
+    "plugTypes": [
+      "Type 2,",
+      "Wall (BS1363)"
+    ],
+    "networkProvider": "",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "1 Plug",
+    "poiType": "",
+    "amenities": [],
+    "hours": "8am to 10 pm",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486320"
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      },
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486321",
+    "locationName": "The Garrett at The Collective",
+    "address": "150 I St SE, Washington, DC 20003, USA",
+    "plugTypes": [
+      "J-1772",
+      "Blink"
+    ],
+    "networkProvider": "Blink",
+    "chargingSpeed": "6.24 kW",
+    "numberOfChargers": "7 Plugs",
+    "poiType": "Residential",
+    "amenities": [
+      "Dining,",
+      "Grocery,",
+      "Lodging,",
+      "EV Parking"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": "486321"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      },
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486322",
+    "locationName": "",
+    "address": "",
+    "plugTypes": [],
+    "networkProvider": "Networks (34 of 34)",
+    "chargingSpeed": "kW",
+    "numberOfChargers": null,
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": ""
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486323",
+    "locationName": "Riverplace Building",
+    "address": "159 S North S, Seaford, DE 19973",
+    "plugTypes": [
+      "J-1772",
+      "Blink"
+    ],
+    "networkProvider": "Blink",
+    "chargingSpeed": "6.24 kW",
+    "numberOfChargers": "2 Plugs",
+    "poiType": "Parking Garage/Lot",
+    "amenities": [
+      "EV Parking,",
+      "Dining,",
+      "Shopping"
+    ],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486323"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": "Jul 13, 2024",
+        "user": "dbf87",
+        "vehicle": "Polestar 2 2024",
+        "rating": "Positive",
+        "comment": "This doesn’t exist, or at least it isn’t where the map says it is! Fortunately there’s a few others in town."
+      },
+      {
+        "date": "Jul 13, 2024",
+        "user": "dbf87",
+        "vehicle": "Polestar 2 2024",
+        "rating": "Neutral",
+        "comment": "This doesn’t exist, or at least it isn’t where the map says it is! Fortunately there’s a few others in town."
+      },
+      {
+        "date": "Jul 13, 2024",
+        "user": "dbf87",
+        "vehicle": "Polestar 2 2024",
+        "rating": "Positive",
+        "comment": "This doesn’t exist, or at least it isn’t where the map says it is! Fortunately there’s a few others in town."
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486324",
+    "locationName": "",
+    "address": "",
+    "plugTypes": [],
+    "networkProvider": "Networks (34 of 34)",
+    "chargingSpeed": "kW",
+    "numberOfChargers": null,
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": ""
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486325",
+    "locationName": "Boulder Springs of Columbia - Leasing Office",
+    "address": "2260 Bennett Springs Dr, Columbia, MO 65201, USA",
+    "plugTypes": [
+      "J-1772",
+      "Blink"
+    ],
+    "networkProvider": "Blink",
+    "chargingSpeed": "6.24 - 10.4 kW",
+    "numberOfChargers": "2 Plugs",
+    "poiType": "Residential",
+    "amenities": [
+      "EV Parking"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486325"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": "Mar 29, 2024",
+        "user": "Brent Wilton",
+        "vehicle": "Tesla Model 3",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Mar 29, 2024",
+        "user": "Brent Wilton",
+        "vehicle": "Tesla Model 3",
+        "rating": "Neutral",
+        "comment": ""
+      },
+      {
+        "date": "Mar 29, 2024",
+        "user": "Brent Wilton",
+        "vehicle": "Tesla Model 3",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Mar 29, 2024",
+        "user": "Brent Wilton",
+        "vehicle": "Tesla Model 3",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Mar 29, 2024",
+        "user": "Brent Wilton",
+        "vehicle": "Tesla Model 3",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Mar 29, 2024",
+        "user": "Brent Wilton",
+        "vehicle": "Tesla Model 3",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Mar 29, 2024",
+        "user": "Brent Wilton",
+        "vehicle": "Tesla Model 3",
+        "rating": "Positive",
+        "comment": ""
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486326",
+    "locationName": "The Halden",
+    "address": "1137 Westchester Ave, White Plains, NY 10605, USA",
+    "plugTypes": [
+      "J-1772",
+      "Blink"
+    ],
+    "networkProvider": "Blink",
+    "chargingSpeed": "6.24 - 6.656 kW",
+    "numberOfChargers": "14 Plugs",
+    "poiType": "Residential",
+    "amenities": [
+      "EV Parking"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486326"
+    },
+    "parking": "Parking: Pay",
+    "reviews": [
+      {
+        "date": "Jan 12, 2024",
+        "user": "Eat My Voltage",
+        "vehicle": "Toyota RAV4 Prime 2022",
+        "rating": "Positive",
+        "comment": "Multiple spots blocked by non EVs, the usual ... Rare open ones not functioning. But it looks like there may be opportunity for others to be installed under the new solar awnings in the upper parking lot? 🤞"
+      },
+      {
+        "date": "Jan 12, 2024",
+        "user": "Eat My Voltage",
+        "vehicle": "Toyota RAV4 Prime 2022",
+        "rating": "Neutral",
+        "comment": "Multiple spots blocked by non EVs, the usual ... Rare open ones not functioning. But it looks like there may be opportunity for others to be installed under the new solar awnings in the upper parking lot? 🤞"
+      },
+      {
+        "date": "Jan 12, 2024",
+        "user": "Eat My Voltage",
+        "vehicle": "Toyota RAV4 Prime 2022",
+        "rating": "Positive",
+        "comment": "Multiple spots blocked by non EVs, the usual ... Rare open ones not functioning. But it looks like there may be opportunity for others to be installed under the new solar awnings in the upper parking lot? 🤞"
+      },
+      {
+        "date": "Jan 12, 2024",
+        "user": "Eat My Voltage",
+        "vehicle": "Toyota RAV4 Prime 2022",
+        "rating": "Positive",
+        "comment": "Multiple spots blocked by non EVs, the usual ... Rare open ones not functioning. But it looks like there may be opportunity for others to be installed under the new solar awnings in the upper parking lot? 🤞"
+      },
+      {
+        "date": "Jan 12, 2024",
+        "user": "Eat My Voltage",
+        "vehicle": "Toyota RAV4 Prime 2022",
+        "rating": "Positive",
+        "comment": "Multiple spots blocked by non EVs, the usual ... Rare open ones not functioning. But it looks like there may be opportunity for others to be installed under the new solar awnings in the upper parking lot? 🤞"
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1091836.jpg"
+    ]
+  },
+  {
+    "url": "https://www.plugshare.com/location/486327",
+    "locationName": "",
+    "address": "",
+    "plugTypes": [],
+    "networkProvider": "Networks (34 of 34)",
+    "chargingSpeed": "kW",
+    "numberOfChargers": null,
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": ""
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486328",
+    "locationName": "Station Park Union Towers (Coming Soon)",
+    "address": "5 Wellington St S, Kitchener, ON",
+    "plugTypes": [
+      "J-1772"
+    ],
+    "networkProvider": "",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "6 Plugs",
+    "poiType": "",
+    "amenities": [],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486328"
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": "Nov 23, 2023",
+        "user": "Rudolf",
+        "vehicle": "Tesla Model 3",
+        "rating": "Positive",
+        "comment": "checkin created before location officially marked open"
+      },
+      {
+        "date": "Nov 23, 2023",
+        "user": "Rudolf",
+        "vehicle": "Tesla Model 3",
+        "rating": "Neutral",
+        "comment": "checkin created before location officially marked open"
+      },
+      {
+        "date": "Nov 23, 2023",
+        "user": "Rudolf",
+        "vehicle": "Tesla Model 3",
+        "rating": "Positive",
+        "comment": "checkin created before location officially marked open"
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1068892.jpg"
+    ]
+  },
+  {
+    "url": "https://www.plugshare.com/location/486329",
+    "locationName": "Rathaus Lage",
+    "address": "St.-Johann-Straße, 32791 Lage",
+    "plugTypes": [
+      "Type 2"
+    ],
+    "networkProvider": "",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "2 Plugs",
+    "poiType": "",
+    "amenities": [
+      "WiFi,",
+      "Shopping,",
+      "Dining,",
+      "Grocery"
+    ],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": "486329"
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      },
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486330",
+    "locationName": "Au Bureau Angoulême",
+    "address": "ZAC des Montagnes, 29 Les Montagnes, 16430 Angoulême, France",
+    "plugTypes": [
+      "CCS2,",
+      "Type 2",
+      "Allego"
+    ],
+    "networkProvider": "Allego",
+    "chargingSpeed": "22 - 300 kW",
+    "numberOfChargers": "4 Plugs",
+    "poiType": "Restaurant",
+    "amenities": [
+      "Dining,",
+      "EV Parking"
+    ],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486330"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      },
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486331",
+    "locationName": "",
+    "address": "",
+    "plugTypes": [],
+    "networkProvider": "Networks (34 of 34)",
+    "chargingSpeed": "kW",
+    "numberOfChargers": null,
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": ""
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486332",
+    "locationName": "Snavel Van Emekamp Parkeren",
+    "address": "Snavel van Emekamp 25, 8014 CW Zwolle, Netherlands",
+    "plugTypes": [
+      "Type 2",
+      "Allego"
+    ],
+    "networkProvider": "Allego",
+    "chargingSpeed": "11 kW",
+    "numberOfChargers": "2 Plugs",
+    "poiType": "Street Parking",
+    "amenities": [
+      "EV Parking"
+    ],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486332"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      },
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486333",
+    "locationName": "",
+    "address": "",
+    "plugTypes": [],
+    "networkProvider": "Networks (34 of 34)",
+    "chargingSpeed": "kW",
+    "numberOfChargers": null,
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": ""
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486334",
+    "locationName": "Tijmpad & Wederikweg Parkeren",
+    "address": "Tijmpad 2, 9753 AJ Haren, Netherlands",
+    "plugTypes": [
+      "Type 2",
+      "Allego"
+    ],
+    "networkProvider": "Allego",
+    "chargingSpeed": "11 kW",
+    "numberOfChargers": "2 Plugs",
+    "poiType": "Street Parking",
+    "amenities": [
+      "EV Parking"
+    ],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486334"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486335",
+    "locationName": "Churchilllaan & Wethouder Rooslaan Parkeren",
+    "address": "Churchilllaan 77, 7741 EB Coevorden, Netherlands",
+    "plugTypes": [
+      "Type 2",
+      "Allego"
+    ],
+    "networkProvider": "Allego",
+    "chargingSpeed": "11 kW",
+    "numberOfChargers": "2 Plugs",
+    "poiType": "Street Parking",
+    "amenities": [
+      "EV Parking"
+    ],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486335"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      },
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486336",
+    "locationName": "Herebinnensingel & Herestraat Parkeren",
+    "address": "Herebinnensingel 2, 9711 GH Groningen, Netherlands",
+    "plugTypes": [
+      "Type 2",
+      "Allego"
+    ],
+    "networkProvider": "Allego",
+    "chargingSpeed": "11 kW",
+    "numberOfChargers": "2 Plugs",
+    "poiType": "Street Parking",
+    "amenities": [
+      "Dining,",
+      "EV Parking,",
+      "Shopping"
+    ],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486336"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      },
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486337",
+    "locationName": "Oppenheimstraat & Reigerstraat Parkeren",
+    "address": "Oppenheimstraat 70A, 9714 ET Groningen, Netherlands",
+    "plugTypes": [
+      "Type 2",
+      "Allego"
+    ],
+    "networkProvider": "Allego",
+    "chargingSpeed": "11 kW",
+    "numberOfChargers": "2 Plugs",
+    "poiType": "Street Parking",
+    "amenities": [
+      "EV Parking,",
+      "Dining,",
+      "Shopping"
+    ],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486337"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      },
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486338",
+    "locationName": "Rodingsveen Parkeren",
+    "address": "Rodingsveen 61, 's-Heerenberg, 7041VH, Netherlands",
+    "plugTypes": [
+      "Type 2",
+      "Allego"
+    ],
+    "networkProvider": "Allego",
+    "chargingSpeed": "11 kW",
+    "numberOfChargers": "2 Plugs",
+    "poiType": "Street Parking",
+    "amenities": [
+      "Shopping,",
+      "Lodging,",
+      "EV Parking"
+    ],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486338"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      },
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486339",
+    "locationName": "",
+    "address": "",
+    "plugTypes": [],
+    "networkProvider": "Networks (0 of 1)",
+    "chargingSpeed": "kW",
+    "numberOfChargers": null,
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": ""
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486340",
+    "locationName": "",
+    "address": "",
+    "plugTypes": [],
+    "networkProvider": "Networks (34 of 34)",
+    "chargingSpeed": "kW",
+    "numberOfChargers": null,
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": ""
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486342",
+    "locationName": "Ed Morse Kia Rolla",
+    "address": "2600 N Bishop Ave, Rolla, MO 65401",
+    "plugTypes": [
+      "CCS1,",
+      "J-1772"
+    ],
+    "networkProvider": "",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "1 Plug",
+    "poiType": "Dealership",
+    "amenities": [
+      "Restrooms,",
+      "EV Parking,",
+      "Shopping"
+    ],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": "486342"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": "Jul 27, 2024",
+        "user": "Joy Mason",
+        "vehicle": "Tesla Model S",
+        "rating": "Neutral",
+        "comment": "Thank you. Super easy directions to follow."
+      },
+      {
+        "date": "Jul 27, 2024",
+        "user": "Joy Mason",
+        "vehicle": "Tesla Model S",
+        "rating": "Positive",
+        "comment": "Thank you. Super easy directions to follow."
+      },
+      {
+        "date": "Jul 27, 2024",
+        "user": "Joy Mason",
+        "vehicle": "Tesla Model S",
+        "rating": "Positive",
+        "comment": "Thank you. Super easy directions to follow."
+      },
+      {
+        "date": "Jul 27, 2024",
+        "user": "Joy Mason",
+        "vehicle": "Tesla Model S",
+        "rating": "Positive",
+        "comment": "Thank you. Super easy directions to follow."
+      },
+      {
+        "date": "Jul 27, 2024",
+        "user": "Joy Mason",
+        "vehicle": "Tesla Model S",
+        "rating": "Positive",
+        "comment": "Thank you. Super easy directions to follow."
+      },
+      {
+        "date": "Jul 27, 2024",
+        "user": "Joy Mason",
+        "vehicle": "Tesla Model S",
+        "rating": "Positive",
+        "comment": "Thank you. Super easy directions to follow."
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1316516.jpg"
+    ]
+  },
+  {
+    "url": "https://www.plugshare.com/location/486344",
+    "locationName": "PRATT Chevrolet Buick GMC",
+    "address": "143 S River Rd, Calais, ME 04619, USA",
+    "plugTypes": [
+      "CCS1",
+      "EV Connect"
+    ],
+    "networkProvider": "EV Connect",
+    "chargingSpeed": "50 kW",
+    "numberOfChargers": "1 Plug",
+    "poiType": "Dealership",
+    "amenities": [
+      "Restrooms,",
+      "Shopping,",
+      "EV Parking"
+    ],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486344"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": "Oct 4, 2024",
+        "user": "Tarkus",
+        "vehicle": "Rivian R1S 2023",
+        "rating": "Positive",
+        "comment": "Morning Juice-Break for Tarkus 😎 Wish Tesla would open thier DCFC station in nearby Bailyville, ME to non-teslas s00n 🤗"
+      },
+      {
+        "date": "Oct 4, 2024",
+        "user": "Tarkus",
+        "vehicle": "Rivian R1S 2023",
+        "rating": "Neutral",
+        "comment": "Morning Juice-Break for Tarkus 😎 Wish Tesla would open thier DCFC station in nearby Bailyville, ME to non-teslas s00n 🤗"
+      },
+      {
+        "date": "Oct 4, 2024",
+        "user": "Tarkus",
+        "vehicle": "Rivian R1S 2023",
+        "rating": "Positive",
+        "comment": "Morning Juice-Break for Tarkus 😎 Wish Tesla would open thier DCFC station in nearby Bailyville, ME to non-teslas s00n 🤗"
+      },
+      {
+        "date": "Oct 4, 2024",
+        "user": "Tarkus",
+        "vehicle": "Rivian R1S 2023",
+        "rating": "Positive",
+        "comment": "Morning Juice-Break for Tarkus 😎 Wish Tesla would open thier DCFC station in nearby Bailyville, ME to non-teslas s00n 🤗"
+      },
+      {
+        "date": "Oct 4, 2024",
+        "user": "Tarkus",
+        "vehicle": "Rivian R1S 2023",
+        "rating": "Positive",
+        "comment": "Morning Juice-Break for Tarkus 😎 Wish Tesla would open thier DCFC station in nearby Bailyville, ME to non-teslas s00n 🤗"
+      },
+      {
+        "date": "Oct 4, 2024",
+        "user": "Tarkus",
+        "vehicle": "Rivian R1S 2023",
+        "rating": "Positive",
+        "comment": "Morning Juice-Break for Tarkus 😎 Wish Tesla would open thier DCFC station in nearby Bailyville, ME to non-teslas s00n 🤗"
+      },
+      {
+        "date": "Oct 4, 2024",
+        "user": "Tarkus",
+        "vehicle": "Rivian R1S 2023",
+        "rating": "Positive",
+        "comment": "Morning Juice-Break for Tarkus 😎 Wish Tesla would open thier DCFC station in nearby Bailyville, ME to non-teslas s00n 🤗"
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1443480.jpg",
+      "https://photos.plugshare.com/photos/1339923.jpg",
+      "https://photos.plugshare.com/photos/1319638.jpg"
+    ]
+  },
+  {
+    "url": "https://www.plugshare.com/location/486345",
+    "locationName": "Bjørn Funch's Home Charger",
+    "address": null,
+    "plugTypes": [],
+    "networkProvider": null,
+    "chargingSpeed": null,
+    "numberOfChargers": null,
+    "poiType": null,
+    "amenities": [],
+    "hours": null,
+    "pricing": {
+      "paymentRequired": null,
+      "rate": null
+    },
+    "parking": null,
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486347",
+    "locationName": "",
+    "address": "",
+    "plugTypes": [],
+    "networkProvider": "Networks (0 of 1)",
+    "chargingSpeed": "kW",
+    "numberOfChargers": null,
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": ""
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486348",
+    "locationName": "",
+    "address": "",
+    "plugTypes": [],
+    "networkProvider": "Networks (0 of 1)",
+    "chargingSpeed": "kW",
+    "numberOfChargers": null,
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": ""
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": null,
+        "user": null,
+        "vehicle": null,
+        "rating": "Neutral",
+        "comment": null
+      }
+    ],
+    "photos": []
+  },
+  {
+    "url": "https://www.plugshare.com/location/486349",
+    "locationName": "Hotel Highway King Shahpura (2)",
+    "address": "Milestone, Hotel Highway King ,Main, NH-8 185, Delhi - Jaipur Expy, Shahpura, Rajasthan 303119",
+    "plugTypes": [
+      "CCS2",
+      "Statiq"
+    ],
+    "networkProvider": "Statiq",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "1 Plug",
+    "poiType": "Lodging",
+    "amenities": [
+      "Restrooms,",
+      "EV Parking,",
+      "Dining,",
+      "Lodging"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486349"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": "Jul 14, 2024",
+        "user": "Aviral",
+        "vehicle": "Tata Nexon EV 2023",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Jul 14, 2024",
+        "user": "Aviral",
+        "vehicle": "Tata Nexon EV 2023",
+        "rating": "Neutral",
+        "comment": ""
+      },
+      {
+        "date": "Jul 14, 2024",
+        "user": "Aviral",
+        "vehicle": "Tata Nexon EV 2023",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Jul 14, 2024",
+        "user": "Aviral",
+        "vehicle": "Tata Nexon EV 2023",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Jul 14, 2024",
+        "user": "Aviral",
+        "vehicle": "Tata Nexon EV 2023",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Jul 14, 2024",
+        "user": "Aviral",
+        "vehicle": "Tata Nexon EV 2023",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Jul 14, 2024",
+        "user": "Aviral",
+        "vehicle": "Tata Nexon EV 2023",
+        "rating": "Positive",
+        "comment": ""
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1379383.jpg",
+      "https://photos.plugshare.com/photos/1342005.jpg",
+      "https://photos.plugshare.com/photos/1332091.jpg"
+    ]
+  }
+]

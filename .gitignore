@@ -1,0 +1,17 @@
+# Ignore Python virtual environment
+myenv/
+venv/
+
+# Ignore output folders and large generated files
+output/
+Misc/*.csv
+Vehicle VIN Webscraping/*.csv
+Plugshare/**/*.csv
+Sankey/*.xlsx
+*.log
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+
+# System files
+.DS_Store

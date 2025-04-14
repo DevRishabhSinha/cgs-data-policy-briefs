@@ -1,0 +1,635 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Industrial Park Name": "Kawasan Industri Aceh - Ladong",
+                "Latitude": 5.646268673,
+                "Longitude": 95.45808993,
+                "Nickel": 0,
+                "Aluminum": 0,
+                "Copper": 0,
+                "Palm Oil": 1,
+                "Iron and Steel": 0,
+                "Sources": "https://regionalinvestment.bkpm.go.id/pir/peluang-investasi/detail/?id=864\nhttps://kemenperin.go.id/artikel/22941/Kemenperin-Dorong-Masuknya-Investor-ke-Kawasan-Industri-Ladong_x_tr_sl=id&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc \nhttps://www-acehportal-com.translate.goog/news/kawasan-industri-aceh-kia-ladong-jadi-magnet-pengembangan-industri-di-aceh/index.html?_x_tr_sl=id&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc\nhttps://www.acehportal.com/news/kawasan-industri-aceh-kia-ladong-jadi-magnet-pengembangan-industri-di-aceh/index.html \nhttps://kemenperin.go.id/artikel/22941/Kemenperin-Dorong-Masuknya-Investor-ke-Kawasan-Industri-Ladong\nhttps://www.youtube.com/watch?v=QtTH5HiZNc0\nhttps://humas.acehprov.go.id/24697-2/\nhttps://kemenperin.go.id/kawasan\nhttps://regionalinvestment.bkpm.go.id/pir/peluang-investasi/detail/?id=864#areaPeta\n"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    95.45808993,
+                    5.646268673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Industrial Park Name": "Maspion Industrial Estate",
+                "Latitude": -7.127024,
+                "Longitude": 112.612219,
+                "Nickel": 0,
+                "Aluminum": 0,
+                "Copper": 0,
+                "Palm Oil": 1,
+                "Iron and Steel": 0,
+                "Sources": "https://kemenperin.go.id/kawasan\nhttps://business-indonesia.org/data-estate\nhttp://www.maspionindustrialestate.com/\nhttps://point.jatimprov.go.id/public-kawasan-detail/4648"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.612219,
+                    -7.127024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Industrial Park Name": "Java Integrated Industrial and Port Estate",
+                "Latitude": -7.086298,
+                "Longitude": 112.607293,
+                "Nickel": 0,
+                "Aluminum": 0,
+                "Copper": 1,
+                "Palm Oil": 1,
+                "Iron and Steel": 0,
+                "Sources": "https://www.jiipe.com/asset/brochure/729a46dc81Desktop%20Version%20Revisi-08.pdf\nhttps://en.wikipedia.org/wiki/Java_Integrated_Industrial_and_Port_Estate\nhttps://jakartaglobe.id/special-updates/freeports-manyar-smelter-to-pave-way-for-indonesias-ev-ecosystem\nhttps://www.marketscreener.com/quote/stock/PT-AKR-CORPORINDO-TBK-9059246/news/PT-AKR-Corporindo-Tbk-Hebang-Group-to-invest-USD-800-Million-in-SEZ-JIIPE-Term-Sheet-signed-for-Jo-44748486/\nhttps://www.akr.co.id/news-detail/pt-hailiang-nova-material-indonesia-signs-binding-land-sale-and-purchase-agreement-for-building-copper-foil-production-factory-in-jiipe-sez\nhttps://en.prnasia.com/releases/apac/indonesia-4-0-jiipe-designated-special-economic-zone-by-president-widodo-324504.shtml\nhttps://kemenperin.go.id/kawasan\nhttps://business-indonesia.org/data-estate\nhttp://www.jiipe.com\nhttps://www.energytransitionpartnership.org/uploads/2022/09/The-Electricity-Infrastructure-Planning-and-Investment-Needs-to-Support-Energy-Transition.pdf\nhttps://en.antaranews.com/news/279936/minister-urges-freeport-to-expedite-smelter-construction\nhttps://www.akr.co.id/storage/reports/vzxx0YyhHxPwT4D0zRid38rjE2LEfkgfqkLEKC3r.pdf\nhttps://www.gem.wiki/Gresik_AKR_Estate_power_station\nhttps://www.jiipe.com/home/blogDetail/364 "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.607293,
+                    -7.086298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Industrial Park Name": "Kawasan Industri Sei Mangkei (KEK)",
+                "Latitude": 3.133285993,
+                "Longitude": 99.34053489,
+                "Nickel": 0,
+                "Aluminum": 0,
+                "Copper": 0,
+                "Palm Oil": 1,
+                "Iron and Steel": 0,
+                "Sources": "https://en.antaranews.com/news/185126/pltbg-power-plant-using-palm-oil-liquid-waste-to-generate-electricity\nhttps://dinsights.katadata.co.id/read/2021/07/26/sei-mangkei-solar-farm-now-89-complete\nhttps://seimangkeisez.com/utilitas-detail.php?id=UTI03\nhttps://kemenperin.go.id/kawasan\nhttps://www.seimangkeisez.com/en/#popup\nhttps://kek.go.id/kawasan/KEK-Sei-Mangkei\nhttps://medan.tribunnews.com/2023/02/14/pengembangan-kek-sei-mangkei-gagal-kini-justru-merugi-karena-overstock-listrik\nhttps://www.gem.wiki/PT_Harkat_Sejahtera_power_station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.34053489,
+                    3.133285993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Industrial Park Name": "Kawasan Industri Medan (KIM)",
+                "Latitude": 3.672802,
+                "Longitude": 98.68205,
+                "Nickel": 0,
+                "Aluminum": 0,
+                "Copper": 0,
+                "Palm Oil": 1,
+                "Iron and Steel": 0,
+                "Sources": "https://madeinindonesia.com/images/minisite/itpc_uae/MEDAN%20INDUSTRIAL%20ESTATE.pdf\nhttps://directorsdirectory.com/medan-industrial-estate/\nhttps://danareksa.co.id/en/service/industrial-estate/pt-kawasan-industri-medan\nhttps://kemenperin.go.id/kawasan\nhttp://www.kim.co.id\nhttps://kim.co.id/laman/mitra-industri/ \nhttps://business-indonesia.org/files/estates/zXVjPj3KtN9rno0tUOqg7jmrfYpliiDVDmmqB9pW.pdf\nhttps://id.wikipedia.org/wiki/Kawasan_Industri_Medan\nhttps://sumatra.bisnis.com/read/20230608/534/1663601/pt-kawasan-industri-medan-gencarkan-pembangunan-infrastruktur-dan-layanan-air-bersih\nhttps://www.gem.wiki/Medan_Steel_Mill_power_station\nhttps://www.google.com/maps/place/P.T.+Growth+Sumatra+Industry/@3.6668203,98.6663203,17z/data=!4m6!3m5!1s0x30313284691faea7:0xdf8f34be434e10f3!8m2!3d3.6670666!4d98.6668567!16s%2Fg%2F1hm32g110?entry=ttu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.68205,
+                    3.672802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Industrial Park Name": "Kawasan Industri Ketapang Bangun Sarana (KBS)",
+                "Latitude": -2.242999437,
+                "Longitude": 110.1069565,
+                "Nickel": 0,
+                "Aluminum": 1,
+                "Copper": 0,
+                "Palm Oil": 1,
+                "Iron and Steel": 0,
+                "Sources": "https://kargoku.id/kawasan-industri-terpadu-ketapang/\nhttps://www.youtube.com/watch?v=QX6b1yiXhSM\nhttps://ecc.co.id/company/site/view/2038\nhttps://iopscience.iop.org/article/10.1088/1755-1315/1109/1/012037/pdf\nhttps://kemenperin.go.id/kawasan\nhttps://regionalinvestment.bkpm.go.id/pir/peluang-investasi/detail/?id=1134\nhttps://perusahaan.net/detail/wVy0w/Borneo-Alumindo-Prima/\nhttps://pontianak.tribunnews.com/2016/12/28/inilah-penjelasan-bpmptsp-kalbar-terkait-kawasan-industri-ketapang\nhttps://www.youtube.com/watch?v=isp-IudXlx8\nhttps://www.sinarrayanews.com/diduga-keras-bisa-merugikan-negara-milyaran-rupiah-status-izinnya-belum-pemulihan-pasca-dicabut-pt-bmp-dan-cv-kqp-jual-tanah-urug-ke-pt-kbs/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.1069565,
+                    -2.242999437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Industrial Park Name": "Kawasan Industri Surya Borneo",
+                "Latitude": -2.705130608,
+                "Longitude": 111.7512756,
+                "Nickel": 0,
+                "Aluminum": 0,
+                "Copper": 0,
+                "Palm Oil": 1,
+                "Iron and Steel": 0,
+                "Sources": "https://mmc-kotawaringinbaratkab-go-id.translate.goog/berita/pemerintah-provinsi-kalteng-kunjungi-kawasan-industri-surya-borneo-di-kobar?_x_tr_sl=id&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc\nhttps://mmc.kotawaringinbaratkab.go.id/berita/jadi-bagian-rencana-kawasan-ekonomi-eksklusif-tim-pmo-kemenperin-ri-akan-kunjungi-ksbi-tempenek\nhttps://industri.kontan.co.id/news/permintaan-produk-hilir-sawit-meningkat-produsen-cpo-gencar-ekspansi\nhttps://www.borneonews.co.id/berita/313153-keberadaan-pt-cbut-tbk-di-berikat-pt-sbi-ini-tujuan-pemerintah-menetapkan-kawasan-tersebut\nhttps://kemenperin.go.id/kawasan\nhttps://www.borneonews.co.id/berita/116849-power-plant-milik-pt-surya-borneo-industri-mampu-pasok-energi-listrik-untuk-kawasan-industri\nhttps://www.energytransitionpartnership.org/uploads/2022/09/The-Electricity-Infrastructure-Planning-and-Investment-Needs-to-Support-Energy-Transition.pdf\nhttps://www.google.com/maps/place/2+x7.5+MW+Power+Plant/@-2.7109319,111.7504616,1364m/data=!3m1!1e3!4m14!1m7!3m6!1s0x2e08f15006daf20b:0x8e42c265405e3bf9!2sPT.+Surya+Borneo+Industri!8m2!3d-2.7051519!4d111.7512684!16s%2Fg%2F11h7fs_ysn!3m5!1s0x2e08f15d6a39aa15:0xbf43ba40743d0bc2!8m2!3d-2.7126577!4d111.752523!16s%2Fg%2F11j8_h4bpp?entry=ttu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.7512756,
+                    -2.705130608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Industrial Park Name": "Kawasan Industri Batulicin / Setangga SEZ",
+                "Latitude": -3.284766552,
+                "Longitude": 116.0656929,
+                "Nickel": 1,
+                "Aluminum": 0,
+                "Copper": 0,
+                "Palm Oil": 1,
+                "Iron and Steel": 0,
+                "Sources": "https://indonesia.go.id/kategori/editorial/3432/prospek-cerah-industri-di-atas-batulicin\nhttps://www.researchgate.net/publication/338592175_Permasalahan_Pertanahan_Kawasan_Industri_Batulicin_Perspektif_Perencanaan_Pembangunan\nhttps://kalsel.antaranews.com/berita/341569/pemda-aceh-tertarik-pengelolaan-kawasan-industri-batulicin\nhttps://kppip.go.id/en/national-strategic-projects/s-priority-industry-zone-development-special-economic-zone/batulicin-industrial-zone-south-kalimantan/ \nhttps://indonesia.go.id/kategori/editorial/3432/prospek-cerah-industri-di-atas-batulicin\nhttps://kemenperin.go.id/kawasan\nhttps://voi.id/en/economy/156383 \nhttps://kalsel.antaranews.com/berita/397269/pemkab-tanah-bumbu-optimalkan-potensi-kek-setangga\nhttps://news.metal.com/newscontent/101702125/construction-of-the-south-kalimantan-nickel-smelter-will-begin-in-april-2022\nhttps://swa.co.id/swa/business-strategy/investasi-anugerah-barokah-bangun-smelter-nikel-rp6-triliun-dan-serap-1-200-pekerja\nhttps://www.kanalkalimantan.com/tambahan-3-kapasitor-75-mvar-di-batulicin-pln-perkuat-keandalan-listrik-layani-industri/\nhttps://banjarmasin.apahabar.com/post/jhonlin-group-dukung-pembangunan-sutt-150-kv-batulicin-tarjun-l7cr4686"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.0656929,
+                    -3.284766552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Industrial Park Name": "Kawasan Industri Kariangau",
+                "Latitude": -1.274493,
+                "Longitude": 116.847596,
+                "Nickel": 1,
+                "Aluminum": 0,
+                "Copper": 0,
+                "Palm Oil": 1,
+                "Iron and Steel": 0,
+                "Sources": "https://kalimantan.bisnis.com/read/20220629/408/1549247/kembangkan-kawasan-industri-kariangau-perumda-balikpapan-gandeng-perusahaan-pelat-merah\nhttps://www.kaltimprov.go.id/halaman/kawasan-industri-kariangau\nhttps://bontangpost.id/kawasan-industri-dekat-ikn-perlu-perhatian/\nhttp://dkumkmp.balikpapan.go.id/content/59/kawasan-industri-kariangau\nhttps://kemenperin.go.id/kawasan\nhttp://investasi.balikpapan.go.id/halaman/detail/kawasan-industri-kariangau\nhttps://www.kaltimprov.go.id/berita/industri-smelter-dibangun-di-kariangau-mulai-produksi-tahun-2025-wagub-utamakan-penduduk-lokal\nhttps://kaltim.akurasi.id/pariwara/sambut-perwakilan-kibing-group-dpmptsp-balikpapan-bahas-minat-investasi-di-kariangau/\nhttps://www.energytransitionpartnership.org/uploads/2022/09/The-Electricity-Infrastructure-Planning-and-Investment-Needs-to-Support-Energy-Transition.pdf\nhttps://info.kariangauterminal.co.id/en/kawasan-pendukung/\nhttps://market.bisnis.com/read/20231204/192/1720677/bayan-byan-akuisisi-kariangau-power-milik-orang-terkaya-ri"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.847596,
+                    -1.274493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Industrial Park Name": "Kawasan Industri ATI (Anugrah Tambang Industri)",
+                "Latitude": -3.091978128,
+                "Longitude": 122.3358201,
+                "Nickel": 1,
+                "Aluminum": 0,
+                "Copper": 0,
+                "Palm Oil": 0,
+                "Iron and Steel": 0,
+                "Sources": "https://www.tropongdirgantara.id/sambangi-pt-anugrah-tambang-industri-ati-gubernur-sulteng-dengarkan-feasibility-study-perusahaan-untuk-bangun-kek/\nhttps://dutainfo.com/2022/01/dprd-morowali-gelar-rapat-dengar-pendapat-terkait-masalah-pt-mega-nur-dan-pt-anugrah-tambang-industri/\n(Broken) https://morowalikab.go.id/home/read/peletakan-batu-pertama-pembangunan-mess-pt-ati-bupati-morowali-harapkan-sinergitas-masyarakat-sambalagi-dengan-pihak-perusahaan\nhttps://radarsulteng.id/pt-anugrah-tambang-industri-kerjasama-dengan-perusda/\nhttps://www.nickelmagazine.com/2022/04/smelter-industrial-area.html?m=1\nhttps://oss.go.id/informasi/lokasi-usaha?tab=ki&page=1\nhttps://edisiindonesia.id/2023/01/17/masyarakat-sambalagi-minta-pt-anugrah-tambang-industri-hentikan-aktivitas/\nhttps://palu.tribunnews.com/2023/02/11/olah-nikel-rendah-karbon-pt-vale-perusahaan-tambang-pertama-pakai-green-smelter-di-morowali\nhttps://www.marketscreener.com/quote/stock/SILKROAD-NICKEL-LTD-103505350/news/Silkroad-Nickel-Ltd-completed-the-acquisition-of-99-stake-in-PT-Anugrah-Tambang-Smelter-from-PT-Bi-39639167/\nhttps://media.alkhairaat.id/proyek-pt-vale-blok-bahodopi-dimulai/\nhttps://wikidpr.org/rangkuman/Komisi7-Pengawasan-RDP-Dirjen-ILMATE-KPAII-Kemenperin-IMIP-IWIP-ATI-RBA-Progres-Pembangunan-Kawasan-Industri\nhttps://kumparan.com/kumparanbisnis/pertama-di-ri-smelter-rkef-vale-indonesia-di-morowali-pakai-pltgu-dari-lng-1zoCnjRirGg/full\nhttps://kemenperin.go.id/kawasan\nhttps://www.silkroadnickel.com/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.3358201,
+                    -3.091978128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Industrial Park Name": "Kawasan Industri VDNI / Kawasan Industri Morosi / Delong Industrial Park",
+                "Latitude": -3.875101726,
+                "Longitude": 122.4059487,
+                "Nickel": 1,
+                "Aluminum": 0,
+                "Copper": 0,
+                "Palm Oil": 0,
+                "Iron and Steel": 0,
+                "Sources": "https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/violent-protests-paralyze-china-backed-nickel-smelter-in-indonesia-8211-reports-61772018\nhttps://sultra-antaranews-com.translate.goog/berita/403557/kawasan-industri-smelter-vdni-dan-oss?_x_tr_sl=id&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc \nhttps://www.jakartadaily.id/market-finance/pr-1621712481/obsidian-stainless-steel-to-complete-npi-smelter-expansion-in-sulawesi-next-year\nhttps://ejatlas.org/conflict/delong-nickel-industrial-area-indonesia\nhttps://news.metal.com/newscontent/101240987/xiamen-xiangyu-stainless-steel-smelting-project-in-indonesia-has-been-put-into-production-by-\nhttps://www.uxolo.com/news/30150/xiamen-xiangyu-steel-plant-closes-eca-covered-loan\nhttps://pulitzercenter.org/stories/nickel-profits-flurry-slurry\nhttps://asiatoday.id/read/kawasan-industri-nikel-morosi-bergolak-2-kelompok-buruh-pt-vdni-dan-pt-oss-bentrok\nhttps://www.reuters.com/article/us-indonesia-nickel-protests/equipment-torched-as-worker-protest-paralyses-indonesia-nickel-plant-idUSKBN28Q0WR\nhttps://oss.co.id/\nhttps://news.metal.com/newscontent/101536262/smm-nickel-journey-to-jiangsu---the-sixth-station-jiangsu-delong-nickel-co-ltd\nhttps://www.gem.wiki/Delong_Nickel_Phase_II_power_station\nhttps://www.gem.wiki/Delong_Nickel_Phase_I_power_station\n"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.4059487,
+                    -3.875101726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Industrial Park Name": "Indonesia Morowali Industrial Park (IMIP)",
+                "Latitude": -2.830375288,
+                "Longitude": 122.1619121,
+                "Nickel": 1,
+                "Aluminum": 0,
+                "Copper": 0,
+                "Palm Oil": 0,
+                "Iron and Steel": 0,
+                "Sources": "https://ejatlas.org/conflict/indonesia-morowali-industrial-park-imip1\nhttps://en.wikipedia.org/wiki/Morowali_Industrial_Park#cite_note-15\nhttps://www.gem.wiki/Sulawesi_Mining_power_station\nhttps://www.gem.wiki/Sulawesi_Labota_power_station\nhttps://www.nickelmagazine.com/2022/04/smelter-industrial-area.html?m=1\nhttps://www.rosalux.de/fileadmin/images/publikationen/Studien/Fast_and_Furious_for_Future.pdf\nhttps://www.rosalux.de/en/publication/id/44155/fast-and-furious-for-future\nhttps://asiatimes.com/2023/01/chinas-labor-practices-under-hot-fire-in-indonesia/\nhttps://www.reuters.com/article/us-indonesia-nickel-environment-idUSKBN26N1VZ\nhttps://www.scmp.com/week-asia/people/article/3212109/indonesias-nickel-sector-under-scrutiny-chinese-workers-allege-inhumane-working-conditions\"\nhttps://thepeoplesmap.net/project/indonesia-morowali-industrial-park-imip/\nhttps://chinadialogue.net/en/energy/chinas-no-overseas-coal-power-pledge-15-projects-cancelled/\nhttps://kemenperin.go.id/kawasan\nhttps://business-indonesia.org/data-estate\nhttp://imip.co.id/\nhttps://www.reuters.com/article/china-gem-nickel-indonesia-idUKL1N3780PR/\nhttps://en.antaranews.com/news/285885/government-devising-development-plan-for-morowali-industrial-area\nhttps://industri.kontan.co.id/news/tak-lagi-tambah-tenant-ini-penjelasan-ceo-indonesia-morowali-industrial-park-imip\nhttps://indonesiabusinesspost.com/risks-opportunities/sesna-group-open-collaboration-to-develop-200-mw-solar-farm-for-nickel-mining-industry/\nhttps://www.energytransitionpartnership.org/uploads/2022/09/The-Electricity-Infrastructure-Planning-and-Investment-Needs-to-Support-Energy-Transition.pdf "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.1619121,
+                    -2.830375288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Industrial Park Name": "Kawasan Industri Palu / KEK Palu",
+                "Latitude": -0.7123250772,
+                "Longitude": 119.8702903,
+                "Nickel": 1,
+                "Aluminum": 0,
+                "Copper": 0,
+                "Palm Oil": 0,
+                "Iron and Steel": 0,
+                "Sources": "https://www.youtube.com/watch?v=nMJEgkQVlso&ab_channel=SpecialEconomicZonePalu\nhttps://palu.tribunnews.com/2022/06/29/pt-bpst-minta-27-tenant-segera-realisasikan-investasinya-di-kek-palu\nhttps://palu.tribunnews.com/2022/05/09/neraca-april-2022-pt-bangun-palu-sulawesi-tengah-setahun-tak-ada-pembukuan-transaksi\nhttps://ekonomi.bisnis.com/read/20220321/257/1513068/kawasan-industri-palu-bakal-direvitalisasi-sejak-kena-gempa-2018\nhttps://oss.go.id/informasi/lokasi-usaha?tab=kek&page=2 \nhttps://kppip.go.id/en/national-strategic-projects/s-priority-industry-zone-development-special-economic-zone/palu-tourism-area-central-sulawesi/ \nhttps://indonesia.go.id/kategori/feature/2831/menarik-tenant-ke-kek-palu?lang=1 \nhttps://www.kompas.com/properti/read/2022/02/17/163000221/investor-ogah-masuk-karena-jalan-menuju-kek-palu-buruk \nhttps://www.researchgate.net/publication/325485117_Promotion_Strategy_By_Palu_City_Government_To_Pulling_Investors_Interest_In_Palu_Special_Economic_Zone \nhttps://www.youtube.com/watch?v=rR30qB0g7EI \nhttps://palu.tribunnews.com/2023/06/02/8-perusahaan-teken-mou-bangun-industri-di-kawasan-kek-kota-palu\nhttps://kemenperin.go.id/kawasan\nhttps://kek.go.id/kawasan/KEK-Palu\nhttps://media.alkhairaat.id/5-perusahaan-teken-mou-berinvestasi-di-kek-palu/\nhttps://industri.kontan.co.id/news/trinitan-metals-and-minerals-pure-mulai-pembangunan-smelter-nikel-di-kek-palu\nhttps://channelsulawesi.id/2023/10/09/pemkot-palu-akui-masih-temui-hambatan-dalam-pengembangan-kek-palu/\nhttps://sulteng.antaranews.com/berita/297483/pln-komitmen-bantu-hilirisasi-industri-dan-pembangunan-kek-di-palu \nhttps://industri.kontan.co.id/news/pln-bangun-gardu-dan-jaringan-listrik-tegangan-150-kv-di-sulteng \nhttps://gatrik.esdm.go.id/assets/uploads/download_index/files/568bd-share-2020.02.05-kebutuhan-listrik-kek.pdf \nhttps://paluekspres.com/70875/pt-bpst-dan-pt-energy-china-teken-mou-pembangkit-listrik-tenaga-surya-di-kek-palu/#google_vignette"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.8702903,
+                    -0.7123250772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Industrial Park Name": "Indonesia Weda Bay Industrial Park (IWIP)",
+                "Latitude": 0.4791472208,
+                "Longitude": 127.9849869,
+                "Nickel": 1,
+                "Aluminum": 0,
+                "Copper": 0,
+                "Palm Oil": 0,
+                "Iron and Steel": 0,
+                "Sources": "https://ejatlas.org/print/indonesia-weda-bay-industrial-park-iwip-north-maluku-indonesia\nhttps://www.reuters.com/article/us-indonesia-nickel-idUSKBN22C1UK\nhttps://www.rosalux.de/fileadmin/images/publikationen/Studien/Fast_and_Furious_for_Future.pdf\nhttps://www.gem.wiki/Weda_Bay_power_station\nhttps://www.mongabay.co.id/2023/03/08/cerita-perempuan-adat-tobelo-melawan-kala-hutan-rusak-jadi-tambang/\nhttps://en.wikipedia.org/wiki/Weda_Bay_Industrial_Park\nhttps://www.nsenergybusiness.com/projects/weda-bay-nickel-project/\nhttps://www.eramet.com/en/group/the-success-story-of-weda-bay-nickel/\nhttps://nickelmines.com.au/tsingshan-collaboration/indonesian-weda-bay-industrial-park-iwip/\nhttps://kemenperin.go.id/kawasan\nhttps://iwip.co.id/en/about-iwip/\nhttps://www.energytransitionpartnership.org/uploads/2022/09/The-Electricity-Infrastructure-Planning-and-Investment-Needs-to-Support-Energy-Transition.pdf \n(Broken) https://www.fajarsumbar.com/2021/10/sumbar-siapkan-tim-selesaikan-persoalan.html\n(Broken) https://www.fajarsumbar.com/2021/10/sumbar-siapkan-tim-selesaikan-persoalan.html\nhttps://www.papuatimes.co.id/2021/07/06/presentase-saham-pemprov-sumbar-di-pt-padang-industrial-park-dipertanyakan/\nhttps://kemenperin.go.id/kawasan\nhttps://www.vice.com/en/article/wxj8wm/uncontacted-tribe-threatened-indonesia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.9849869,
+                    0.4791472208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Industrial Park Name": "Kawasan Industri EFI",
+                "Latitude": 1.398333494,
+                "Longitude": 127.9974997,
+                "Nickel": 1,
+                "Aluminum": 0,
+                "Copper": 0,
+                "Palm Oil": 0,
+                "Iron and Steel": 0,
+                "Sources": "https://harianhalmahera.com/halut/300-karyawan-pt-emerald-dirumahkan/\nhttps://harianhalmahera.com/halut/kasus-pt-emerald-masuk-tahap-pembuktian/\nhttps://harianhalmahera.com/halut/pt-emerald-digugat-pengrusakan-lahan/\nhttps://harianhalmahera.com/halut/terancam-bayar-rp3-miliar-pt-emerald-minta-mediasi-ulang/\nhttps://harianhalmahera.com/halut/sengketa-lahan-pt-emerald-tunggu-putusan/\nhttps://harianhalmahera.com/halut/negosiasi-penentu-operasi-pt-emerald/\nhttps://perusahaan.net/detail/mEKj0/Emerald-Ferrochromium-Industry/\nhttps://www.bpkp.go.id/berita/read/36654/0/BPKP-Malut-Kawal-Percepatan-Pelaksanaan-PSN-PT-AMI\nhttps://beritasumbernews.com/2021/07/rapat-kedua-antara-forkopimda-halut-dan-pt-efi-kembali-di-gelar/\nhttps://nikel.co.id/meidy-katrin-lengkey-hulu-dan-hilir-nikel-beroperasi-mendorong-pertumbuhan-ekonomi/\n(Broken) https://www.nickelmagazine.com/2022/04/smelter-industrial-area.html?m=1\nhttps://penamalut.com/2021/08/18/harga-ganti-rugi-lahan-rendah-pt-efi-tidak-manusiawi/\nhttps://www.picuki.com/media/2255264927910919163\nhttps://kemenperin.go.id/kawasan\nhttps://kalesang.id/2023/05/19/kpk-bongkar-kasus-suap-lahan-pt-efi-di-halmahera-utara-maluku-utara/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.9974997,
+                    1.398333494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Industrial Park Name": "Kawasan Industri Dumai",
+                "Latitude": 1.651399,
+                "Longitude": 101.637601,
+                "Nickel": 0,
+                "Aluminum": 0,
+                "Copper": 0,
+                "Palm Oil": 1,
+                "Iron and Steel": 0,
+                "Sources": "https://www.halloriau.com/read-dumai-150496-2021-07-30-pt-wilmar-dumai-belum-kantongi-izin-ini-penjelasan-dpmptsp.html\nhttps://kemenperin.go.id/kawasan\nhttps://kawasanindustridumai.co.id/infrastructure/\nhttps://www.jpnn.com/news/datangi-kawasan-industri-dumai-irjen-iqbal-ultimatum-pengusaha-nakal-migor?page=2\nhttps://ekonomi.bisnis.com/read/20171115/44/709364/pln-memasok-listrik-60-mva-ke-kawasan-industri-dumai"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.637601,
+                    1.651399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Industrial Park Name": "Kawasan Industri Sadai/ Sadai Integrated Industrial and Port Estate (SIIPE)",
+                "Latitude": -3.018004268,
+                "Longitude": 106.7259031,
+                "Nickel": 0,
+                "Aluminum": 0,
+                "Copper": 0,
+                "Palm Oil": 1,
+                "Iron and Steel": 0,
+                "Sources": "https://regional.kompas.com/read/2022/10/26/133737178/dikunjungi-jokowi-pembangunan-kawasan-industri-sadai-di-bangka-selatan?page=all\nhttps://babelterkini.com/2022/04/17/setelah-dua-tahun-begini-rupa-mega-proyek-kawasan-industri-sadai/\nhttps://babelprov.go.id/berita_detil/percepatan-penyiapan-infrastruktur-air-baku-untuk-menunjang-kawasan-industri-sadai\nhttps://forumkeadilanbabel.com/2022/04/18/setelah-dua-tahun-dibangun-begini-rupa-mega-proyek-triliunan-kawasan-industri-sadai-dan-sekitarnya/\nhttps://amka.co.id/amka-turut-berkontribusi-dalam-pembangunan-infrastruktur-di-kawasan-industri-sadai/\nhttps://bisnis.tempo.co/read/1684871/bank-indonesia-catat-aliran-modal-asing-masuk-ri-rp-442-t\nhttps://bppppd.bangkaselatankab.go.id/assets/img/content/PDF/BAHAN%20FGD%20INFRASTRUKTUR%20SADAI.pdf\nhttps://kemenperin.go.id/kawasan\nhttps://ajaib.rcdevgames.net/berita/proyek/sadai-integrated-industrial-and-port-estate-siipe\nhttps://babeltoday.com/apa-kabar-proyek-kawasan-industri-sadai-bernilai-triliunan-miliaran-dana-negara-terancam-bakal-terbuang-percuma/\nhttps://industri.kontan.co.id/news/ini-jurus-maharaksa-biru-oasa-jadi-pemain-utama-energi-bersih-berbasis-biomassa#google_vignette\nhttps://finance.detik.com/foto-bisnis/d-7053313/potret-pembangunan-pltbm-di-bangka-belitung/1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7259031,
+                    -3.018004268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Industrial Park Name": "Pulahan Seruwai Industrial Estate",
+                "Latitude": 2.82406659,
+                "Longitude": 99.56506892,
+                "Nickel": 0,
+                "Aluminum": 0,
+                "Copper": 0,
+                "Palm Oil": 1,
+                "Iron and Steel": 0,
+                "Sources": "https://estate.nikkan.co.jp/info/pulahan-seruai-industrial-estate\nhttps://www.bkpm.go.id/images/uploads/investasi_indonesia/file/Data_of_Major_Indonesia_Industrial_Estate_North_Sumatera.pdf\nhttps://putusan3.mahkamahagung.go.id/search.html/?q=seruwai\nhttps://thegeckoproject.org/articles/six-takeaways-from-our-investigation-into-indonesias-plasma-scheme/\nhttps://orbitdigitaldaily.com/mediasi-gagal-sengketa-lahan-antara-petani-dengan-pt-pulahan-seruai-terus-berlanjut/\nhttps://orbitdigitaldaily.com/dumas-koptan-sejahtera-laporkan-pt-pulahan-seruwai-kapolres-asahan-berjanji-proses-secara-profesional/ \nhttps://sumut.wahananews.co/nusantara/ng-siong-ho-seharusnya-lahan-itu-sudah-di-eksekusi-pengadilan-dan-dikembalikan-ke-pt-pulahan-seruwai-gH1Bol8FLA/1#post_wahana \nhttps://balainews.co.id/2022/04/06/warga-duduki-kembali-lahan-pt-pulahan-seruwai-pasca-pt-pulahan-kalah-gugatan-di-ptun/\nhttps://www.hariansib.com/detail/Marsipature-Hutanabe/Kejari-Asahan-Terima-SPDP-Lima-Tersangka-Terkait-Kasus-PT-Pulahan-Seruwai\nhttps://analisadaily.com/berita/baca/2022/06/27/1031880/masyarakat-hadang-karyawan-pt-pulahan-seruwai-panen-tbs/\nhttps://www.hariansib.com/detail/Headlines/Dihadang-Sekelompok-Masyarakat--Karyawan-PT-Pulahan-Seruwai-Terkendala-Manen-Sawit/3 \nhttps://www.sumut24.co/menang-di-ptun-medan-amad-bandung-cs-kembali-gugat-pt-pulahan-seruwai-di-pn-kisaran/ \nhttps://waspada.co.id/2022/08/kementerian-atr-bpn-tolak-gugatan-pt-pulahan-seruwai/ \nhttps://suarapersada.com/diduga-ada-dukpal-pengusulan-plasma-pt-pulahan-seruwai-maspera-akan-lapor-polisi/\nhttps://www.utamanews.com/sosial-budaya/Pengusulan-Plasma-PT-Pulahan-Seruwai-Diduga-Palsu--Maspera-Akan-Lapor-Polisi \nhttps://www.sumut24.co/konflik-sosial-terkait-upaya-penyerobotan-lahan-di-pt-pulahan-seruwai/\nhttps://business-indonesia.org/data-estate"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.56506892,
+                    2.82406659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Industrial Park Name": "Takalar Integrated Industrial Park (TIIP)",
+                "Latitude": -5.468808,
+                "Longitude": 119.41503,
+                "Nickel": 0,
+                "Aluminum": 1,
+                "Copper": 1,
+                "Palm Oil": 0,
+                "Iron and Steel": 0,
+                "Sources": "http://kbn.co.id/article/kbn-pastikan-takalar-integrated-industrial-park-jalan-terus-NTk2NA==\nhttps://kppip.go.id/proyek-strategis-nasional/s-pembangunan-kawasan-industri-prioritas-kawasan-ekonomi-khusus/kawasan-industri-takalar/ \nhttps://ekonomi.bisnis.com/read/20201119/45/1319946/realisasikan-proyek-kawasan-industri-takalar-kbn-siap-cari-mitra  \nhttps://investor.id/business/249442/kbn-mulai-nego-pembebasan-lahan-di-takalar\nhttps://www.bpkp.go.id/berita/readunit/32/28339/0/BPKP-Sulsel-kawal-pengadaan-lahan-Takalar-Integrated-Industrial-Park-TIIP\nhttps://harian.fajar.co.id/2022/02/03/pemkab-takalar-fokus-wujudkan-industrial-park/\nhttps://www.rri.co.id/bisnis/295179/nasib-kawasan-industri-takalar-jelang-akhir-masa-jabatan-jokowi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.41503,
+                    -5.468808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Industrial Park Name": "Bantaeng Industrial Park (BIP)",
+                "Latitude": -5.57670251,
+                "Longitude": 120.0663106,
+                "Nickel": 1,
+                "Aluminum": 0,
+                "Copper": 0,
+                "Palm Oil": 0,
+                "Iron and Steel": 0,
+                "Sources": "https://www.nickelmagazine.com/2022/04/smelter-industrial-area.html?m=1\nhttps://news.mongabay.com/2022/11/sulawesi-nickel-plant-coats-nearby-homes-in-toxic-dust/\nhttps://www.mongabay.co.id/2022/09/08/nestapa-warga-terdampak-kawasan-industri-bantaeng/\nhttps://www.kabarmakassar.com/posts/view/21080/envision-group-rancang-kawasan-industri-nol-karbon-di-bantaeng.html\nhttps://sulsel.idntimes.com/news/sulsel/sahrul-ramadan-1/warga-protes-dampak-aktivitas-kawasan-industri-bantaeng?page=all\nhttps://redaksibaru.id/2022/03/23/pembangunan-tiga-pembangkit-listrik-di-bantaeng-masuki-tahap-survei-lokasi/\nhttps://business-indonesia.org/files/estates/IKC8n2PC6n5j5dcfYtDWV1WVS0o9bjF9402VhtLI.pdf\nhttps://www.gem.wiki/Banten_BSE_power_station\nhttps://web.pln.co.id/media/2022/08/dukung-industri-pengolahan-mineral-pln-siap-pasok-listrik-80-mva-ke-smelter-di-bantaeng\nhttp://www.bantaeng-industrialpark.com/\nhttps://www.seaisi.org/details/1582?type=technology-steel-applications\nhttps://voi.id/en/economy/197366\nhttps://www.gem.wiki/Bantaeng_LNG_power_station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.0663106,
+                    -5.57670251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Industrial Park Name": "Kalimantan Industrial Park Indonesia (KIPI) / Kawasan Industri Hijau Indonesia (KIHI)",
+                "Latitude": 2.528752567,
+                "Longitude": 117.8590457,
+                "Nickel": 0,
+                "Aluminum": 1,
+                "Copper": 0,
+                "Palm Oil": 0,
+                "Iron and Steel": 0,
+                "Sources": "https://infopublik.id/kategori/nusantara/701822/kunjungi-kipi-wabup-dan-tim-lakukan-evaluasi\nhttps://kilasdaerah.kompas.com/kalimantan-utara/read/2022/10/28/11450601/mengenal-lebih-dekat-perjalanan-kawasan-industri-raksasa-di-kaltara\nhttps://katadata.co.id/happyfajrian/ekonomi-hijau/633ff25058af9/kawasan-industri-akan-dipasok-listrik-ebt-demi-tingkatkan-nilai-produk\nhttps://korankaltara.com/7-investor-dikeluarkan-dari-kipi-tanah-kuning-mangkupadi\nhttps://korankaltara.com/kipi-dan-kihi-memiliki-pengertian-sama\nhttps://www.neraca.co.id/article/168461/bangun-smelter-aluminium-adaro-minerals-kuras-kocek-rp-163-triliun\nhttps://dephub.go.id/post/read/menhub-pastikan-kelancaran-perizinan-pembangunan-pelabuhan-kawasan-industri-kaltara\nhttps://katadata.co.id/tiakomalasari/berita/62b4346b08c50/pemerintah-kembangkan-kawasan-industri-di-kaltara-bakal-dihuni-ford\nhttps://www.teslarati.com/tesla-indonesia-battery-plant-location/\nhttps://www.industry.co.id/read/104950/teken-komitmen-investasi-capai-usd-728-juta-adaro-bakal-bangun-smelter-aluminium-di-kawasan-industri-hijau\nhttps://asia.nikkei.com/Economy/Indonesia-s-newest-province-chases-132bn-industrial-dream\nhttps://www.kompas.com/properti/read/2021/12/22/163000421/kawasan-industri-hijau-mulai-dibangun-di-kaltara-apa-itu-?page=2\nhttps://www.kominfo.go.id/content/detail/38900/presiden-groundbreaking-kawasan-industri-hijau-indonesia/0/berita\nhttps://www.fmprc.gov.cn/mfa_eng/wjdt_665385/wshd_665389/202211/t20221117_10976707.html\nhttps://asia.nikkei.com/Economy/Indonesia-s-newest-province-chases-132bn-industrial-dream\nhttps://petrominer.com/teken-mou-dengan-adaro-komitmen-iklim-hyundai-dipertanyakan/\nhttps://tanahair.net/kayan-river-hydropower-source-of-green-energy-at-kipi/\nhttps://www.reuters.com/business/energy/indonesia-president-breaks-ground-construction-26-bln-hydropower-plant-2023-03-01/\nhttps://www.ft.com/content/214da7e7-c858-452c-9aff-e6dab9b805e4\nhttps://news.mongabay.com/2023/06/indonesian-coal-giant-adaros-sustainable-smelter-slammed-as-greenwashing/\nhttps://www.adaro.com/files/news/berkas_eng/2206/Information%20Disclosure%20Signing%20Facility%20Agreements.pdf\nhttps://www.ptkhn.com/news/indonesia-president-joko-widodo-breaks-ground-on-construction-of-mentarang-induk-hydroelectric-plant-the-largest-plta-in-indonesia-with-a-capacity-of-1375-mw/\nhttps://asia.nikkei.com/Business/Energy/Japan-s-Sumitomo-joins-17.8bn-Indonesia-hydropower-project\nhttps://www.ft.com/content/1a8c599c-cd56-4b94-85fd-7d9d398312eb\nhttps://tanahair.net/kayan-hydro-energy-resuming-9000-mw-hydropower-project/\nhttps://www.business-humanrights.org/en/latest-news/indonesia-chinese-backed-hydropower-plant-supplying-electricity-to-new-capital-raises-displacement-and-environmental-concerns-among-indigenous-communities-on-kayan-river/\nhttps://apnews.com/article/indonesia-green-industrial-park-coal-09361a5098d6540d4ae3a1805b137788\nhttps://www.rfa.org/english/news/china/indonesia-china-borneo-03012023014556.html\nhttps://en.antaranews.com/news/274161/bulungan-kipi-future-of-green-industry-widodo\nhttps://www.adaro.com/files/news/berkas_eng/2146/ADRO%20ADMR%20Sept%202022.pdf\nhttps://www.adaro.com/files/news/berkas_eng/2206/Information%20Disclosure%20Signing%20Facility%20Agreements.pdf\nhttps://www.apindokaltara.com/berita/read/kipi-akan-gandeng-pengusaha-lokal-kaltara\nhttps://www.gem.wiki/Adaro_Aluminum_Smelter_power_station\nhttps://www.energytransitionpartnership.org/uploads/2022/09/The-Electricity-Infrastructure-Planning-and-Investment-Needs-to-Support-Energy-Transition.pdf \nhttps://www.reuters.com/business/energy/indonesia-president-breaks-ground-construction-26-bln-hydropower-plant-2023-03-01/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.8590457,
+                    2.528752567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Industrial Park Name": "KEK Galang Batang / Kawasan Industri Galang Batang / Nanshan Industrial Park",
+                "Latitude": 0.9204110377,
+                "Longitude": 104.6535905,
+                "Nickel": 0,
+                "Aluminum": 1,
+                "Copper": 0,
+                "Palm Oil": 0,
+                "Iron and Steel": 0,
+                "Sources": "https://www.gem.wiki/Nanshan_Industrial_Park_power_station\nhttps://www.nickelmagazine.com/2022/04/smelter-industrial-area.html?m=1\nhttps://oss.go.id/informasi/lokasi-usaha?tab=kek&page=1\nhttps://www2.bkpm.go.id/id/publikasi/detail/berita/kek-galang-batang-olah-bauksit-jadi-alumina\nhttps://kepriprov.go.id/berita/pemprov-kepri/kek-galang-batang-dari-kepri-untuk-indonesia\nhttps://kepri.antaranews.com/berita/133953/pma-investasi-rp30-triliun-di-kek-galang-batang-bintan\nhttps://www.ekon.go.id/publikasi/detail/3605/presiden-joko-widodo-lepas-ekspor-perdana-tahun-2022-smelter-grade-alumina-di-kawasan-ekonomi-khusus-kek-galang-batang\nhttps://kepri.antaranews.com/berita/149316/realisasi-investasi-di-kek-galang-batang-bintan-mencapai-rp19-triliun\nhttps://m.batamtoday.com/berita-187713-DLHK-dan-ESDM-Kepri-Sebut-Cut-and-Fill-PT-BAI-di-Galang-Batang-Tak-Salahi-Aturan.html\nhttps://www.hariankepri.com/pt-bai-akan-bangun-industri-amunisi-di-bintan-dan-pltu-1-200-megawatt/\nhttps://www.alcircle.com/news/pln-agrees-to-supply-energy-to-pt-bintan-alumina-indonesia-until-2050-83509\nhttps://www.reuters.com/markets/commodities/shandong-nanshan-may-expand-indonesia-site-into-6-bln-aluminium-complex-2023-05-15/\nhttps://www.energytransitionpartnership.org/uploads/2022/09/The-Electricity-Infrastructure-Planning-and-Investment-Needs-to-Support-Energy-Transition.pdf\nhttps://web.pln.co.id/cms/media/2022/09/dukung-sektor-pertambangan-pln-akan-suplai-listrik-hingga-2050-untuk-pt-bintan-alumina-indonesia/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.6535905,
+                    0.9204110377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Industrial Park Name": "Qingdao Indonesia Comprehensive Industrial Park / Hengshun Zhongsheng Industrial Park",
+                "Latitude": -3.052362663,
+                "Longitude": 122.269306,
+                "Nickel": 1,
+                "Aluminum": 0,
+                "Copper": 0,
+                "Palm Oil": 0,
+                "Iron and Steel": 0,
+                "Sources": "https://www.gem.wiki/Qingdao_Zhongsheng_captive_power_station\nhttps://wglh.com/stock/comment/1188078/\nhttps://news.metal.com/newscontent/101008252/qingdao-indonesia-industrial-park-began-rkef-construction\nhttps://www.antaike.com/minormetal/content.php?id=101859 (Broken)\nhttps://www.asiaminer.com/news/latest-news/9592-silkroad-nickel-signs-new-offtake-agreement-with-pt-transon-bumindo-resources.html#.Y8cEPnbML3E\nhttps://www.yicaiglobal.com/news/hengshun-zhongsheng-sets-up-stainless-steel-industry-fund-to-import-indonesian-nickel\nhttps://www.youtube.com/watch?v=Nf73XM4uBVU \nhttp://www.qdzzzc.com/en/News/288.html\nhttps://news.metal.com/newscontent/101254441/qingdao-medium-range-in-the-future-the-company-will-gradually-carry-out-mining-and-sales-of-its-nickel-ore\nhttps://www.chinacamphouse.com/cases/overview-of-indonesia-comprehensive-industrial-park-project-lida-group/\nhttps://stock.us/stock/sz/300208/guidance/review\nhttp://www.qdzzzc.com/en/About/index.html\nhttp://www.qdzzzc.com/en/Business/Development/index.html\nhttps://ir.p5w.net/c/300208.shtml (Broken)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.269306,
+                    -3.052362663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Industrial Park Name": "Sorong Special Economic Zone",
+                "Latitude": -1.029171467,
+                "Longitude": 131.2434721,
+                "Nickel": 1,
+                "Aluminum": 0,
+                "Copper": 0,
+                "Palm Oil": 1,
+                "Iron and Steel": 0,
+                "Sources": "https://industrialestateindonesia.com/files/provinces/Mttw44cDLJM2g3ujXXdYQ9UgQzZa3kZmvJuyR7BK.pdf\nhttps://www.ptmow.net/tentang-kami?lang=en\nhttps://en.antaranews.com/news/134510/minister-nasution-inaugurates-5237-ha-special-economic-zone-in-sorong\nhttps://kumparan.com/kumparanbisnis/mengenal-kawasan-ekonomi-khusus-sorong-yang-pertama-di-papua-1s2AN5j3UVh\nhttps://pertadayagas.co.id/penandatanganan-kerjasama-antara-pt-malamoi-olok-wobok-dan-pt-perta-daya-gas/\nhttps://kumparan.com/balleonews/pj-gubernur-papua-barat-daya-sebut-kek-sorong-mati-suri-dan-perlu-direvitalisasi-1zedK3rIRCh\nhttps://www.ekon.go.id/publikasi/detail/4851/evaluasi-perkembangan-selama-tahun-2022-dewan-nasional-kek-fokus-peningkatan-investasi-dan-fasilitasi-penyelesaian-hambatan\nhttps://www.tambang.co.id/daftar-investasi-di-kek-sorong-tgem-serius-akan-bangun-ignite-ecopark\nhttps://westpapuadaily.com/sorong-kek-profile-operating-in-2019-in-southwest-papua-expected-employ-15024-workers.html\nhttps://en.antaranews.com/news/277719/southwest-papua-seeks-to-draw-investment-in-sez\nhttps://papuabarat.tribunnews.com/2022/11/27/profil-kek-sorong-beroperasi-2019-di-papua-barat-daya-diharapkan-mampu-serap-15024-pekerja?page=all\nhttps://www.youtube.com/watch?v=psqo-rmOZPM\nhttps://kek.go.id/kawasan/KEK-Sorong"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.2434721,
+                    -1.029171467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Industrial Park Name": "Kawasan Industri Pulua OBI / Obi Island Industrial Park",
+                "Latitude": -1.537086139,
+                "Longitude": 127.4177425,
+                "Nickel": 1,
+                "Aluminum": 0,
+                "Copper": 0,
+                "Palm Oil": 0,
+                "Iron and Steel": 0,
+                "Sources": "https://indonesia.go.id/kategori/editorial/2944/pulau-akik-itu-jadi-pusat-pertumbuhan-baru\nhttps://www.mongabay.co.id/2022/12/09/terkepung-industri-nikel-warga-kawasi-hadapi-persoalan-lingkungan-protes-relokasi-desa/\nhttps://chinadialogue.net/en/energy/chinas-no-overseas-coal-power-pledge-15-projects-cancelled/\nhttps://www.reuters.com/article/indonesia-nickel-lygend/update-1-chinas-lygend-starts-milestone-nickel-project-in-indonesia-idUSL2N2N60XR\nhttps://mp.weixin.qq.com/s/qOl_g_AeH8cSIxYR_vaPWA\nhttps://trendasia.org/en/the-construction-of-a-new-cpp-on-obi-island-is-proof-that-china-is-not-serious-about-their-climate-commitment/\nhttps://www.republika.co.id/berita/qkm2ox383/kawasan-industri-pulau-obi-naik-status\nhttps://www.mongabay.co.id/2021/11/14/cerita-warga-dari-pulau-penghasil-bahan-baku-baterai-kendaraan-listrik-1/\nhttps://indoprogress.com/2023/01/mobil-listrik-dan-hari-hari-menderita-di-pulau-obi/\nhttps://ejatlas.org/print/local-health-threatened-by-nickel-mining-in-obi-island-indonesia\nhttps://www.gem.wiki/MSP_Pulau_Obi_power_station\nhttps://www.gem.wiki/PT_Halmahera_Persada_Lygend_Nickel_Smelter_power_station\nhttps://www.gem.wiki/Xinxing_Ductile_Iron_Pipes_power_station\nhttps://www.gem.wiki/Jinchuan_Group_WP%26RKA_power_station\nhttps://tbpnickel.com/investor-relation/disclosure-information/response-to-washington-post-article\nhttps://www.jatam.org/en/action-at-idx-community-reveals-harita-groups-trail-of-environmental-and-humanitarian-crimes/\nhttps://hpalnickel.com/about-us#about-anchor\nhttps://lestari.kompas.com/read/2023/04/10/153320186/sudah-berstatus-psn-bagaimana-progres-kawasan-industri-nikel-pulau-obi?page=all\nhttps://www.indonesiaminer.com/directory/detail-news/2023-04-12072549-harita-will-build-300-mwp-plts-in-obi-island-mining-area-will-be-completed-in-2025"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.4177425,
+                    -1.537086139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Industrial Park Name": "Kawasan Industri Buli",
+                "Latitude": 0.8430947606,
+                "Longitude": 128.2494734,
+                "Nickel": 1,
+                "Aluminum": 0,
+                "Copper": 0,
+                "Palm Oil": 0,
+                "Iron and Steel": 0,
+                "Sources": "https://www.antam.com/uploads/proyek-pengembangan-antam.pdf\nhttps://www.antam.com/en/news-and-events/article/perkembangan-penyelesaian-proyek-pabrik-feronikel-haltim---\nhttps://www.idnfinancials.com/news/45587/antam-sets-haltim-ferronickel-plant-operation-h\nhttps://www.tandaseru.com/2021/04/07/lumpur-setinggi-2-meter-di-bibir-pantai-warga-halmahera-timur-demo-antam/\nhttps://www.ekuatorial.com/en/2021/07/east-halmahera-fishermen-face-the-brunt-of-environmental-degradation/\nhttps://www.ekuatorial.com/en/2021/07/electric-vehicle-dream-is-costing-east-halmahera-its-environment/\nhttps://www.antam.com/id/news-and-events/article/construction-of-east-halmahera-feronickel-project-begins\nhttps://web.pln.co.id/media/siaran-pers/2023/01/pasok-llistrik-untuk-produksi-nikel-pt-antam-di-halmahera-timur-pln-berhasil-relokasi-pembangkit-dan-siap-beroperasi\nhttps://www.halmaheranesia.com/2023/09/07/terancamnya-mata-air-wato-wato-halmahera-dari-industri-tambang/\nhttps://antam.com/en/information-transparency/development-projects\nhttps://www.fht-antam.com/page/operasional-1\nhttps://indonesiabusinesspost.com/risks-opportunities/antam-first-metal-tapping-at-halmahera-timur-feronickel-plant-unveiled/\nhttps://www.gem.wiki/East_Halmahera_power_station\nhttps://www.hariankepri.com/pt-bai-akan-bangun-industri-amunisi-di-bintan-dan-pltu-1-200-megawatt/\nhttps://www.alcircle.com/news/pln-agrees-to-supply-energy-to-pt-bintan-alumina-indonesia-until-2050-83509\n\n"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.2494734,
+                    0.8430947606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Industrial Park Name": "Indonesia Konawe Industrial Park (IKIP)",
+                "Latitude": -3.319303713,
+                "Longitude": 122.2848448,
+                "Nickel": 1,
+                "Aluminum": 0,
+                "Copper": 0,
+                "Palm Oil": 0,
+                "Iron and Steel": 0,
+                "Sources": "https://www.nickelmagazine.com/2022/04/smelter-industrial-area.html?m=1\nhttps://merdekacoppergold.com/wp-content/uploads/2022/08/MDKA_2022-03_Nickel-Presentation-March-2022.pdf\nhttps://biroekonomi.sultraprov.go.id/berita/detail/pemkab-konawe-siapkan-kawasan-industri-baru-di-routa\nhttps://asia.nikkei.com/Business/Markets/IPO/Merdeka-Battery-Materials-puts-1.28bn-price-on-nickel-smelter-plan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.2848448,
+                    -3.319303713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Industrial Park Name": "Kawasan Industri Sumbawa Barat",
+                "Latitude": -8.905653569,
+                "Longitude": 116.7556752,
+                "Nickel": 0,
+                "Aluminum": 0,
+                "Copper": 1,
+                "Palm Oil": 0,
+                "Iron and Steel": 0,
+                "Sources": "https://bidikankameranews.com/2023/02/02/lampaui-target-nasional-smelter-amin-batu-hijau-ntb-sumbang-rp21-606-triliun/ \nhttps://voi.id/en/economy/225357 \nhttps://lombokpost.jawapos.com/sumbawa/20/10/2022/smelter-amman-mineral-di-sumbawa-barat-diperkirakan-beroperasi-akhir-2024/ \nhttps://www.suarantb.com/2022/08/11/ksb-all-out-bantu-realisasikan-pembangunan-smelter/ \nhttps://im-mining.com/2021/12/31/amman-copper-smelter-precious-metal-refinery-west-sumbawa-set-construction-chinas-nfc-main-contractor/ \nhttps://bappeda.ntbprov.go.id/rapat-koordinasi-survey-pendahuluan-pengembangan-kawasan-industri-kabupaten-sumbawa-barat/ \nhttps://lombokpost.jawapos.com/sumbawa/09/06/2021/selamat-sumbawa-barat-masuk-kawasan-industri-rpjm-nasional-2020-2024/ \nhttps://ppid.sumbawabaratkab.go.id/en/article/1.500-Ha-Lahan-Di-Maluk-Masuk-Kawasan-Industri \nhttps://investasi-perizinan.ntbprov.go.id/kawasan-industri-sumbawa-barat-smelter/. \nhttps://ntb.bpk.go.id/wp-content/uploads/2019/10/L-Proyek-Smelter-Minggu-3-Agustus.pdf    \nhttps://www.sumbawabaratpost.com/2023/09/13/dpupr-ksb-laporan-pendahuluan-penyusunan-master-plan-kawasan-industri/ \n\n"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.7556752,
+                    -8.905653569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Industrial Park Name": "Kawasan Industri Motui",
+                "Latitude": -3.801386062,
+                "Longitude": 122.4620539,
+                "Nickel": 1,
+                "Aluminum": 0,
+                "Copper": 0,
+                "Palm Oil": 0,
+                "Iron and Steel": 0,
+                "Sources": "https://dpm-ptsp.konaweutarakab.go.id/index.php/2023/11/28/komitmen-tingkatkan-iklim-investasi-dpm-ptsp-konut-terima-kunjungan-tim-ahli-pt-isn/https://kendarinews.com/2023/01/09/pemerintah-tetapkan-kawasan-industri-motui-sebagai-proyek-strategis-nasional/\nhttps://rakyatsultra.fajar.co.id/2023/01/05/ditetapkan-jadi-kawasan-industri-pabrik-smelter-segera-hadir-di-motui/\nhttps://www.nusantaratv.com/berita/pt-nusantara-industri-sejati-meriahkan-konasara-festival-di-konawe-utara\nhttps://inilahsultra.com/2022/05/20/blk-siapkan-sdm-yang-kompeten-untuk-kawasan-industri-baru-di-sultra/\nhttps://www.republika.co.id/berita/rc4hjd457/bangun-industri-pengolahan-nikel-ini-harapan-nt-corp\nhttps://nikel.co.id/asa-masyarakat-motui-dari-kehadiran-kawasan-industri-nis/\nhttps://sultra.tribunnews.com/2022/05/18/agenda-wakil-presiden-maruf-amin-di-sultra-kawasan-industri-konawe-utara-nginap-semalam-di-kendari\nhttps://sultrademo.co/ini-harga-ganti-rugi-lahan-di-motui-oleh-pt-nis/\nhttps://id.wikipedia.org/wiki/NT_Corp\nhttps://sultra.tribunnews.com/2023/08/23/pemerintah-konut-fasilitasi-17-perusahaan-mou-dengan-pt-nis-pengelola-kawasan-industri-terpadu-motui\nhttps://dpm-ptsp.konaweutarakab.go.id/index.php/2023/11/28/komitmen-tingkatkan-iklim-investasi-dpm-ptsp-konut-terima-kunjungan-tim-ahli-pt-isn/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.4620539,
+                    -3.801386062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Industrial Park Name": "Kawasan Industri Antam Timur",
+                "Latitude": -4.190068565,
+                "Longitude": 121.5992598,
+                "Nickel": 1,
+                "Aluminum": 0,
+                "Copper": 0,
+                "Palm Oil": 0,
+                "Iron and Steel": 0,
+                "Sources": "https://market.bisnis.com/read/20221116/192/1599059/antam-antm-gandeng-cngr-bangun-kawasan-hilirisasi-bijih-nikel\nhttps://market.bisnis.com/read/20220808/192/1564308/antam-antm-gandeng-produsen-prekursor-tesla-cngr-garap-hilir-nikel\nhttps://investasi.kontan.co.id/news/volume-produksi-nikel-antam-antm-turun-di-sepanjang-2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5992598,
+                    -4.190068565
+                ]
+            }
+        }
+    ]
+}

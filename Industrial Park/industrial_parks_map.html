@@ -1,0 +1,1017 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_1cf1d1aa7fc7b4d357eda8c0fef36d83 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_1cf1d1aa7fc7b4d357eda8c0fef36d83" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_1cf1d1aa7fc7b4d357eda8c0fef36d83 = L.map(
+                "map_1cf1d1aa7fc7b4d357eda8c0fef36d83",
+                {
+                    center: [-0.6639724784857143, 104.57802298085716],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 6,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_c0375866f5d01fe6bf7dd3df1d01f0ad = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_1cf1d1aa7fc7b4d357eda8c0fef36d83);
+        
+    
+            var marker_d5ba8271e47e64b764b4396546304d80 = L.marker(
+                [5.646268673, 95.45808993],
+                {}
+            ).addTo(map_1cf1d1aa7fc7b4d357eda8c0fef36d83);
+        
+    
+            var icon_e53b21f0f5e07f75668ab784c6fa7934 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_d5ba8271e47e64b764b4396546304d80.setIcon(icon_e53b21f0f5e07f75668ab784c6fa7934);
+        
+    
+            marker_d5ba8271e47e64b764b4396546304d80.bindTooltip(
+                `<div>
+                     
+    <strong>Kawasan Industri Aceh - Ladong</strong><br>
+    Industrial Park Name: Kawasan Industri Aceh - Ladong<br>Name (Ministry): Kawasan Industri Aceh - Ladong<br>Manager (Ministry): PT. Pembangunan Aceh<br>Location English: Ladong, Mesjid Raya, Aceh Besar Regency, Aceh, Indonesia<br>Regency: Aceh Besar Regency<br>Province: Aceh<br>Size (ha): 66.0<br>Latitude: 5.646268673<br>Longitude: 95.45808993<br>Location Notes: nan<br>General Background: Aceh Ladong Industrial Estate is one of the Leading Industrial Estates in Aceh Province. Aceh Industrial Estate (KIA) is an area established by the Aceh government which is located 20 KM from Banda Aceh City. Currently, the area has provided ±66 hectares of land for the development of various industries (various industries).
+
+The competitive advantage of KI Ladong is its strategic position (access to Sultan Iskandar Muda international airport about 28 km, Malahayati port about 10 km, Ulee Lheu port about 30 km, and the Banda Aceh - North Sumatra toll road 9 km), close to trade routes international - the Malacca Strait, the uniqueness and diversity of products in Aceh, abundant raw materials (especially crude palm oil/ CPO and fishery products), supporting human resources/ HR for the availability of labor in the region, increasing trend of demand for halal products and in accordance with with the good will of the central government.
+
+In the Master Plan, KI Ladong's core business is land leasing, building leasing, office units, multi-function units, warehouse units, and industrial waste management. The tenant zoning in the KI Ladong Master Plan is the zone for the halal food industry, manufacturing, logistics, and chemical industry. The areas for each zone are: offices ±1.5 ha; WWTP area ± 7.4 ha; flat area ± 2.7 ha; public area/ green open space ± 2.3 ha; public facilities ± 1.1 ha; commercial land ± 51.98 ha.<br>Electricity Provider: nan<br>Captive Coal Power Plant: nan<br>Captive Gas Power Plant: nan<br>Electricity Capacity Notes: humas.acehprov.go.id, 12/20/2018: To meet the need for electrical energy, said Mustafa PLN, which is already committed to meeting electricity needs. Currently, PLN is also building a PLTG with a capacity of 50 MW in Ladong. As for the need for clean water, it will be taken from the Krueng Aceh River through PDAM Tirta Montala Aceh Besar.<br>Electricity Capacity (MW): nan<br>Planned Electricity Capacity: nan<br>Estimated Electricity Capacity (MW): nan<br>Website: https://regionalinvestment.bkpm.go.id/pir/peluang-investasi/detail/?id=864#areaPeta
+<br>Tenants: PT Alpine Green - first tenant as of November 18, 2021<br>Additional Sources: https://regionalinvestment.bkpm.go.id/pir/peluang-investasi/detail/?id=864
+https://kemenperin.go.id/artikel/22941/Kemenperin-Dorong-Masuknya-Investor-ke-Kawasan-Industri-Ladong_x_tr_sl=id&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc 
+https://www-acehportal-com.translate.goog/news/kawasan-industri-aceh-kia-ladong-jadi-magnet-pengembangan-industri-di-aceh/index.html?_x_tr_sl=id&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc
+https://www.acehportal.com/news/kawasan-industri-aceh-kia-ladong-jadi-magnet-pengembangan-industri-di-aceh/index.html 
+https://kemenperin.go.id/artikel/22941/Kemenperin-Dorong-Masuknya-Investor-ke-Kawasan-Industri-Ladong
+https://www.youtube.com/watch?v=QtTH5HiZNc0<br>Foreign Founder or Manager: nan<br>Foreign Tenants: Japan<br>Foreign Company Involvement Notes: PT. Alpine Green is a sister of company of PT. Nihhon Hudle from Japan<br>Status Notes: Aceh Portal, 6/18/22: "The Aceh Kadisperindag also explained that a few months ago there had been investor interest through PT Alpine Green to build a palm shell processing factory with export-oriented products in the Aceh Industrial Area (KIA) Ladong. According to him, the entry of PT Alpine Green as the first tenant at KIA Ladong, will later be able to encourage other prospective tenants to enter and carry out their economic (industrial) activities at KIA Ladong, Aceh Besar."
+Head of KIA stated "KIA Ladong is already at the operational stage, marked by the issuance of an industrial area business permit. Now, we have freed up 71.38 hectares of land that we have and already have Land Management Rights (HPL), there are 65.6 hectares."
+
+seranbinews.com, via youtube, 6/4/2022: "The Special Committee (Pansus) Accountability Statement Report (LKPJ) for the Governor of Aceh for the 2021 fiscal year has revealed surprising facts regarding the development of the Ladong Aceh Industrial Area (KIA) in Aceh Besar.
+It turns out that from the start of development in 2009 to 2022, there have not been any business units standing in the area that was previously created to stimulate investors to come to Aceh."
+
+kemenperin.go.id, 11/18/2021: First tenant joined in 2021. PT Alpine Green facilities under construction.  <br>Status (Operational, Operational with Continued Construction, Under Construction, Before Construction, Unclear, Stalled): Under Construction<br>Year Operations Began: nan<br>Year Construction Began: 2019.0<br>Year Founded : nan<br>Dispute: nan<br>Dispute Explanation: nan<br>Environmental Concerns: nan<br>Mention of renewable energy: nan<br>Electric Vehicle (Production Mentioned): nan<br>Nickel: nan<br>Main Industry: Palm Oil<br>Main Industry Notes: Palm Oil shell processing<br>August 2023 Sentinel Check: nan<br>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_779440700d9f51868e701cc23642e4be = L.marker(
+                [1.007295, 104.260829],
+                {}
+            ).addTo(map_1cf1d1aa7fc7b4d357eda8c0fef36d83);
+        
+    
+            var icon_ad192035410b983656ca8aec86db0352 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_779440700d9f51868e701cc23642e4be.setIcon(icon_ad192035410b983656ca8aec86db0352);
+        
+    
+            marker_779440700d9f51868e701cc23642e4be.bindTooltip(
+                `<div>
+                     
+    <strong>Bintan Inti Industrial Estate</strong><br>
+    Industrial Park Name: Bintan Inti Industrial Estate<br>Name (Ministry): Bintan Inti Industrial Estate<br>Manager (Ministry): PT. Bintan Inti Industrial Estate<br>Location English: Teluk Lobam, Seri Kuala Lobam, Bintan Regency, Riau Islands, Indonesia<br>Regency: Bintan Regency<br>Province: Riau Islands<br>Size (ha): 325.0<br>Latitude: 1.007295<br>Longitude: 104.260829<br>Location Notes: nan<br>General Background: Bintan Industrial Estate is owned by Gallant Venture Ltd, a public-listed company in Singapore. Gallant Venture is a commercial development and management group in Riau Archipelago and an integrated master planner for industrial parks and resorts in Batam and Bintan. The major shareholders include Salim Group from Indonesia and Sembcorp Industries Ltd from Singapore. Bintan Industrial Estate is the only industrial estate in Bintan and span across 270 hectares at the south-western part of the island. It is a rare sea-fronting industrial estate with up to 4,000 hectares of expansion potential. Within its premises, tenants enjoy access to a container port with international port-of-call status, dedicated customers, immigration and quarantine (CIQ) facilities as well as an exclusive passenger ferry terminal. These translate into secure, smooth and timely facilitation of freight shipments, which is mission-critical to just-in-time production schedules. The industrial estate also houses a range of ready-built factories that are suitable for warehousing and distribution to Singapore. As a self-contained development, Bintan Industrial Estate offers full lifestyle facilities from accommodation and amenities to recreational and leisure options. Much thought has been put into ensuring that its tenants enjoy all the modern conveniences while living in a lush, tranquil environment. The estate is completed by its excellent and professionally managed supporting infrastructure, amenities and total customer service solutions.<br>Electricity Provider: PT BIIE<br>Captive Coal Power Plant: nan<br>Captive Gas Power Plant: nan<br>Electricity Capacity Notes: 21
+24 MW through 6 generators at Bintan Industrial Estate<br>Electricity Capacity (MW): 24.0<br>Planned Electricity Capacity: nan<br>Estimated Electricity Capacity (MW): nan<br>Website: http://www.gallantventure.com/
+http://www.bintanindustrial.com/#/media/marketplace<br>Tenants:  PT AMC Bintan (Subsidiary of Advanced Integrated Manufacturing Corp. Ltd), PT Esco Bintan, PT Bintan Inti Industrial Estate, Singatac Engineering, Yoshikawa Electronics Bintan, PT. PERTAMA PRECISION BINTAN, Bionesia Organic Foods  <br>Additional Sources: nan<br>Foreign Founder or Manager: nan<br>Foreign Tenants: nan<br>Foreign Company Involvement Notes: nan<br>Status Notes: In operation<br>Status (Operational, Operational with Continued Construction, Under Construction, Before Construction, Unclear, Stalled): Operational<br>Year Operations Began: nan<br>Year Construction Began: nan<br>Year Founded : 1994.0<br>Dispute: nan<br>Dispute Explanation: nan<br>Environmental Concerns: nan<br>Mention of renewable energy: nan<br>Electric Vehicle (Production Mentioned): nan<br>Nickel: nan<br>Main Industry: Manufacturing<br>Main Industry Notes: Electronics Manufacturing, Garment Manufacturing<br>August 2023 Sentinel Check: nan<br>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_0bfd4b412e09e8b3fcd41c85b9bfdb4a = L.marker(
+                [1.057100895, 104.1280554],
+                {}
+            ).addTo(map_1cf1d1aa7fc7b4d357eda8c0fef36d83);
+        
+    
+            var icon_41e13f654600e050535c505d8e3230f4 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_0bfd4b412e09e8b3fcd41c85b9bfdb4a.setIcon(icon_41e13f654600e050535c505d8e3230f4);
+        
+    
+            marker_0bfd4b412e09e8b3fcd41c85b9bfdb4a.bindTooltip(
+                `<div>
+                     
+    <strong>Kawasan Industri Wiraraja</strong><br>
+    Industrial Park Name: Kawasan Industri Wiraraja<br>Name (Ministry): Kawasan Industri Wiraraja<br>Manager (Ministry): PT Wiraraja Indonesia<br>Location English: Kabil, Batam City, Riau Islands, Indonesia<br>Regency: Batam City<br>Province: Riau Islands<br>Size (ha): 112.0<br>Latitude: 1.057100895<br>Longitude: 104.1280554<br>Location Notes: nan<br>General Background: nan<br>Electricity Provider: PLN<br>Captive Coal Power Plant: nan<br>Captive Gas Power Plant: nan<br>Electricity Capacity Notes: 20,000 Kva<br>Electricity Capacity (MW): 20.0<br>Planned Electricity Capacity: nan<br>Estimated Electricity Capacity (MW): nan<br>Website: https://wiraraja.com/<br>Tenants: Marubeni-Itochu Steel Inc., PT. Abps Technology Batam, PT. Arya Wiraraja Plastikindo, PT. Batam Tri Sakti, PT. Expravet Nasuba, PT. Global Kara Sukses, PT. Guna Lintas Jaya, PT. King Shining Industry, PT. Nusantara Ecoplas Berkah Bersama, PT. O Ok Perkasa, PT. Pratama Gasindo Jaya, PT. Shun Xinda Plastic Production, PT. Surya Agung Plasindo, PT. Wiraraja Bintang Persada, PT. Wiraraja Div II, PT. Wiraraja Technologi, PT. Wiraraja Yunan International, PT. Xin Poly Industry, PT. Yunan Strategix, QSPAC Industries Inc      <br>Additional Sources: https://bpbatam.go.id/wp-content/uploads/2022/07/E-BOOK-Batam-industrial-estate-2022.pdf
+https://gowest.id/wiraraja-indonesia-segera-resmikan-pabrik-energi-baru-terbarukan/<br>Foreign Founder or Manager: nan<br>Foreign Tenants: nan<br>Foreign Company Involvement Notes: nan<br>Status Notes: In operation<br>Status (Operational, Operational with Continued Construction, Under Construction, Before Construction, Unclear, Stalled): Operational<br>Year Operations Began: nan<br>Year Construction Began: nan<br>Year Founded : nan<br>Dispute: nan<br>Dispute Explanation: nan<br>Environmental Concerns: nan<br>Mention of renewable energy: Plans to inaugurate solar power plant panel factory, with involvement of Japanese and American companies
+gowest.id, 1/24/2023: "BATAM is increasingly thick with investment potential in the new renewable energy (EBT) sector. This is because one of the industrial areas in Batam, namely the Wiraraja Indonesia area, plans to inaugurate a factory for the production of solar power plant panels (PLTS).
+Based on GoWest Indonesia's monitoring, the building for an EBT company named Apolo Solar Indonesia is currently under construction. It is located at the back of Wiraraja.
+The owner of Wiraraja, Akhmas Ma'ruf Maulana, said that the inauguration of the EBT factory would be carried out by President Jokowi. He has coordinated with the Coordinating Minister for the Economy, Airlangga Hartarto to make this happen.
+"Through the Coordinating Minister for Airlangga, we have asked President Jokowi to be present at the ribbon-cutting agenda for the inauguration of the EBT industry in Wiraraja," said Ma'ruf, Wednesday (4/1).<br>Electric Vehicle (Production Mentioned): nan<br>Nickel: nan<br>Main Industry: Mixed/General<br>Main Industry Notes: Mix - Steel, Plastic, Contractor, Hatchery, Stretch Film, Electricity, Tapes and Packing Materials, Pipe / Warehouse, Trade<br>August 2023 Sentinel Check: nan<br>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_27d41ec6ba681008ba2e9787f4fef696 = L.marker(
+                [1.069836, 104.025841],
+                {}
+            ).addTo(map_1cf1d1aa7fc7b4d357eda8c0fef36d83);
+        
+    
+            var icon_6db3f57d1087b1e11f83180ce2b3df3a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_27d41ec6ba681008ba2e9787f4fef696.setIcon(icon_6db3f57d1087b1e11f83180ce2b3df3a);
+        
+    
+            marker_27d41ec6ba681008ba2e9787f4fef696.bindTooltip(
+                `<div>
+                     
+    <strong>Batamindo Industrial Park</strong><br>
+    Industrial Park Name: Batamindo Industrial Park<br>Name (Ministry): Batamindo Industrial Park<br>Manager (Ministry): PT Batamindo Investment Cakrawala<br>Location English: Kabil, Batam City, Riau Islands, Indonesia<br>Regency: Batam City<br>Province: Riau Islands<br>Size (ha): 320.0<br>Latitude: 1.069836<br>Longitude: 104.025841<br>Location Notes: nan<br>General Background: Batamindo Industrial Park is owned by Gallant Venture Ltd, a public-listed company in Singapore. Gallant Venture is a commercial development and management group in Riau Archipelago and an integrated master planner for industrial parks and resorts in Batam and Bintan. The major shareholders include Salim Group from Indonesia and Sembcorp Industries Ltd from Singapore. Batamindo Industrial Park was conceptualised under an economic cooperation agreement between the governments of Indonesia and Singapore in 1989. Since its inception in 1990, the 320-hectare industrial park has evolved into an ‘MNC Park’ with a multitude of international brands having their regional manufacturing presence here. The park is built on a solid foundation with key supporting infrastructure such as power generation, water and waste treatment, telecommunications, sanitary systems, firefighting and medical facilities as well as excellent estate management and thoughtful worklife amenities. Its value proposition is providing a total business solution based on cost-competitiveness and global connectivity that delivers sustainable success to businesses. To cater to a variety of manufacturing operations, the park offers a selection of ready-built factories for companies to choose from. These factories share a design commonality of flexible layouts with separate areas for offices, production as well as loading and unloading. Beyond that, companies are free to design the interior to best fit their needs. For those with unique factory specifications, Batamindo Industrial Park has set aside ready land parcels to allow for custom-built facilities.<br>Electricity Provider: PT BIC<br>Captive Coal Power Plant: nan<br>Captive Gas Power Plant: nan<br>Electricity Capacity Notes: 130 MW (Batam ebook)
+through 6 fuel powered generators<br>Electricity Capacity (MW): 130.0<br>Planned Electricity Capacity: nan<br>Estimated Electricity Capacity (MW): nan<br>Website: http://www.gallantventure.com/
+http://www.batamindoindustrial.com/#/batamindo/about<br>Tenants: Alteco Chemical Indonesia PT., Asiatech Manufacturing Indonesia PT., Batamindo Services Sinindo PT., Birotika Semesta (DHL Express) PT., Blackmagic Design Manufacturing PT., CIBA Vision Batam, Cicor Panatec PT., Completion Product Indonesia PT., Daihan Labtech PT., Dynacast Indonesia PT., Epson Batam PT., EX Batam Indonesia PT., Excellitas Technologies PT., Flextronics Technology Indonesia PT., Fluid Sciences Batam/Eaton PT., Grace Solution PT., Greenlam Asia Pasific PT., Green Structure Industries PT, Greentech Globalindo PT., HLN Batam PT., Honfoong Plastic Industries PT., Indomarco Prismatama PT, Industrial Brushware AsiaPacific PT., Infineon Technologies Batam PT., Intricon Indonesia PT., JMS Batam PT., Jotun Indonesia PT., KEMET Electronics Indonesia PT., Maruho Hatsujyo Batam PT., Megastar Persada PT., Microcast Technology Indonesia PT., Mitsubishi Jaya Elevator and
+Escalator PT., Nidec Servo Batam PT., Nissin Kogyo Batam PT., NOK Freudenberg Sealing Technologies PT., NOK Precision Component Batam PT., Patlite Indonesia PT., Pegatron Technology Indonesia PT., Petrolog Harapan Abadi Semesta
+PT., Primo Microphones PT., Printech Manufacturing
+Indonesia PT., Rapala VMC Batam PT., Ronstan International PT. , Rubycon Indonesia PT, Sammyung Precision Batam PT., Sanipak Indonesia PT, Sansyu Precision Batam PT., Sanwa Engineering Batam PT., Scanjet Production Indah PT., Schneider Electric Manufacturing Batam PT., Shimano Batam PT, SIIX Electronics Indonesia PT, Simatelex Manufactory Batam
+PT., Soxal Batamindo Industrial Cases PT., STP Manufacturing Batam PT, Sumitomo Wiring Systems Batam Indonesia PT., Suntech Plastic Industries Batam PT., Surya Teknologi Batam PT., Tacu Technology Batam PT., Takamori Indonesia PT., TEC Indonesia PT., Teckwah Paper Products Indonesia PT., Tunaskarya Indoswasta PT., Unisem PT., Uwatec Batam PT., Valeo AC Indonesia PT., Varta Microbattery Indonesia PT., Venturindo Jaya Batam PT., Virgotama PT., VMC Fishing Tackle Indonesia PT., Wohirab Indonesia PT., Yeakin Plastic Industry PT., Yokogawa Manufacturing Batam PT.<br>Additional Sources: https://bpbatam.go.id/wp-content/uploads/2022/07/E-BOOK-Batam-industrial-estate-2022.pdf<br>Foreign Founder or Manager: nan<br>Foreign Tenants: nan<br>Foreign Company Involvement Notes: nan<br>Status Notes: In operation<br>Status (Operational, Operational with Continued Construction, Under Construction, Before Construction, Unclear, Stalled): Operational<br>Year Operations Began: 1990.0<br>Year Construction Began: nan<br>Year Founded : nan<br>Dispute: nan<br>Dispute Explanation: nan<br>Environmental Concerns: nan<br>Mention of renewable energy: nan<br>Electric Vehicle (Production Mentioned): nan<br>Nickel: nan<br>Main Industry: Mixed/General<br>Main Industry Notes: Electronic and Electrical Products, Pharmaceuticals, Plastic Moulds, Precision Parts<br>August 2023 Sentinel Check: nan<br>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_f091f96b35ba61a26546356ac00d5327 = L.marker(
+                [1.079296, 104.025371],
+                {}
+            ).addTo(map_1cf1d1aa7fc7b4d357eda8c0fef36d83);
+        
+    
+            var icon_87fe4988d0ab87d06eb631a2376c699b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_f091f96b35ba61a26546356ac00d5327.setIcon(icon_87fe4988d0ab87d06eb631a2376c699b);
+        
+    
+            marker_f091f96b35ba61a26546356ac00d5327.bindTooltip(
+                `<div>
+                     
+    <strong>Panbil Industrial Estate</strong><br>
+    Industrial Park Name: Panbil Industrial Estate<br>Name (Ministry): Panbil Industrial Estate<br>Manager (Ministry): PT. Nusatama Properta Panbil<br>Location English: Kabil, Batam City, Riau Islands, Indonesia<br>Regency: Batam City<br>Province: Riau Islands<br>Size (ha): 103.0<br>Latitude: 1.079296<br>Longitude: 104.025371<br>Location Notes: nan<br>General Background: Panbil Industrial Estate is one of the largest industrial estate in Batam. It is strategically located on 170 hectares of prime land in the centre of Batam island, Indonesia which is only 20 km away to the South East of Singapore. Batam’s strength include its FTZ (Free Trade Zone) status, complementary alliance with Singapore, availability of competitive cost of labour and supported by an established infrastructure.
+As part of Batam’s emerging economy, Panbil Industrial Estate is the site to many European, Asian and Australian companies including MNC’s such as Philips (Netherland), Epcos TDK (Japan-Germany), WIK (Germany), Doellken Surteco (Germany), Shimano (Japan), Nittoh Kogaku (Japan), Teraoka (Japan), Sunningdale Tech (Singapore), PCI Elektronik Internasional (Singapore), WIN WIN Rubber (Singapore), Chye Choon (Singapore) etc. Panbil Industrial Estate is committed to providing world class manufacturing facilities, excellent infrastructures and fully integrated to support to the investors. Vision of the development of Panbil Industrial Estate is to become the preferred partner for investors seeking to maximize global competitiveness and investment returns. The estate is specifically designed to bring a competitive advantage to business needs. It offers a one stop shop for the investors, so that investors would be easier to understand and arrange investment procedures. Panbil Industrial Estate is a fully integrated, selfsufficient, and self-contained industrial township providing factory buildings, commercial and retail center, Panbil mall, social and recreational amenities, dormitory for workers, the Best Western Premier Panbil hotel, Villa Panbil, Panbil Residence (service apartment) and clubhouse.
+Panbil offers investors peace of mind by providing comprehensive, secure and selfsufficient infrastructure which includes: Electricity power supply from Panbil Power Plant, Fresh Water Supply from Water Treatment Plant, Sewage Treatment and Gas Supply Distribution Network from the State Own Gas Company. For more information please contact us and visit our website at www.panbil.co.id<br>Electricity Provider: Power Plant<br>Captive Coal Power Plant: 3.0<br>Captive Gas Power Plant: nan<br>Electricity Capacity Notes: 40 MW
+Estate Owned Power Plant with 45 MW Capacity (Batam ebook)<br>Electricity Capacity (MW): 45.0<br>Planned Electricity Capacity: nan<br>Estimated Electricity Capacity (MW): nan<br>Website: http://www.panbil.co.id/<br>Tenants: Colamas Indah Sejati PT, Chye Choon Indonesia PT, Doellken Bintan PT, EPCOS Indonesia PT, Etowa Packaging Indonesia PT, Evergrown Technology PT, Fuda Industries PT, Geomax Oilfield Technology PT, GIH PT, Greentech Globalindo PT,  HT Manufacturing PT, JP Technology PT, Inzign PT, Megastar Persada PT, Natural Altovira PT, Nittoh Batam PT, PCI Elektronik Internasional PT, Philips Industries Batam PT, Shimano Batam PT, STX Precision Batam PT, Sunningdale Tech PT, Three Cast Indonesia PT, Tropical Electronics PT, WIK Far East Batam PT, Win Win Rubber Technologies<br>Additional Sources: https://bpbatam.go.id/wp-content/uploads/2022/07/E-BOOK-Batam-industrial-estate-2022.pdf<br>Foreign Founder or Manager: nan<br>Foreign Tenants: nan<br>Foreign Company Involvement Notes: nan<br>Status Notes: In operation<br>Status (Operational, Operational with Continued Construction, Under Construction, Before Construction, Unclear, Stalled): Operational<br>Year Operations Began: 2001.0<br>Year Construction Began: nan<br>Year Founded : nan<br>Dispute: nan<br>Dispute Explanation: nan<br>Environmental Concerns: nan<br>Mention of renewable energy: nan<br>Electric Vehicle (Production Mentioned): nan<br>Nickel: nan<br>Main Industry: Mixed/General<br>Main Industry Notes: Mix - Warehouse, Food products, Electronic compenents, CNC Drill, Metal Stamping, Plastic Recycling, Fishing equipment, Medical products, Contractor, Electronic Manufacturing, Bicyle Components, Die Casting, Plastic, Domestic Appliances Products, Rubber Products<br>August 2023 Sentinel Check: nan<br>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_bb11c25d7d9d136051ba51b751c15f57 = L.marker(
+                [1.05622, 103.92552],
+                {}
+            ).addTo(map_1cf1d1aa7fc7b4d357eda8c0fef36d83);
+        
+    
+            var icon_1e80b37bfe6194a5d029029b34b8a6df = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_bb11c25d7d9d136051ba51b751c15f57.setIcon(icon_1e80b37bfe6194a5d029029b34b8a6df);
+        
+    
+            marker_bb11c25d7d9d136051ba51b751c15f57.bindTooltip(
+                `<div>
+                     
+    <strong>Bintang Industrial Park (I)</strong><br>
+    Industrial Park Name: Bintang Industrial Park (I)<br>Name (Ministry): Bintang Industrial Park (I)<br>Manager (Ministry): PT. Bintang Propertindo<br>Location English: Tanjung Uncang, Batam City, Riau Islands, Indonesia<br>Regency: Batam City<br>Province: Riau Islands<br>Size (ha): 16.0<br>Latitude: 1.05622<br>Longitude: 103.92552<br>Location Notes: nan<br>General Background: Bintang Industrial Park I was established in 1998 which is located on Jl. Yos Sudarso, Sungai Jodoh, Kec. Batu Ampar, Batam 29444 with a total area of ​​15 Ha, has been built and filled by 6 tenants with facilities such as Canteen, ATM, Mosque and 24-hours Security with CCTV, Garbage Service. The facilities and infrastructure such as internet (Telkom & Indosat), water treatment (SPAM), electricity (PLN), telecommunications (telephone) and gas (PGN).
+The workforce in the Bintang Industrial Park I area is 188 consisting of 157 male workers and 31 female workers. The largest investment in the Bintang Industrial Park I area is dominated by the State of Indonesia. The companies with the highest investment value are dominated by PT Arakanmarine Automation, Pt Segara Catur Perkasa, Pt Samudra Oceaneering, Pt Arte International, Pt Cahaya Abadi Teknologi.<br>Electricity Provider: PLN<br>Captive Coal Power Plant: nan<br>Captive Gas Power Plant: nan<br>Electricity Capacity Notes: nan<br>Electricity Capacity (MW): nan<br>Planned Electricity Capacity: nan<br>Estimated Electricity Capacity (MW): 6.0496<br>Website: https://www.bintangindustri.com/<br>Tenants: PT Arakanmarine Automation, PT Segara Catur Perkasa, PT Samudra Oceaneering, PT Arte International, PT Cahaya Abadi Teknologi<br>Additional Sources: https://pusbang.bpbatam.go.id/detailpost/profil-bintan-industrial-park-i<br>Foreign Founder or Manager: nan<br>Foreign Tenants: nan<br>Foreign Company Involvement Notes: nan<br>Status Notes: In operation<br>Status (Operational, Operational with Continued Construction, Under Construction, Before Construction, Unclear, Stalled): Operational<br>Year Operations Began: 1998.0<br>Year Construction Began: nan<br>Year Founded : nan<br>Dispute: nan<br>Dispute Explanation: nan<br>Environmental Concerns: nan<br>Mention of renewable energy: nan<br>Electric Vehicle (Production Mentioned): nan<br>Nickel: nan<br>Main Industry: Mixed/General<br>Main Industry Notes: Ship building/engineering, underwater engineering<br>August 2023 Sentinel Check: nan<br>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_d1018b94b560da1e0d0c5ada5c2bbbd4 = L.marker(
+                [1.050391, 103.924879],
+                {}
+            ).addTo(map_1cf1d1aa7fc7b4d357eda8c0fef36d83);
+        
+    
+            var icon_ed1aa6fd026cf354a6cf2843265a775c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_d1018b94b560da1e0d0c5ada5c2bbbd4.setIcon(icon_ed1aa6fd026cf354a6cf2843265a775c);
+        
+    
+            marker_d1018b94b560da1e0d0c5ada5c2bbbd4.bindTooltip(
+                `<div>
+                     
+    <strong>Latrade Industrial Park</strong><br>
+    Industrial Park Name: Latrade Industrial Park<br>Name (Ministry): Latrade Industrial Park<br>Manager (Ministry): PT. Latrade Batam Indonesia<br>Location English: Tanjung Uncang, Batam City, Riau Islands, Indonesia<br>Regency: Batam City<br>Province: Riau Islands<br>Size (ha): 52.0<br>Latitude: 1.050391<br>Longitude: 103.924879<br>Location Notes: nan<br>General Background: Situated in Tanjung Uncang, west of Batam island, Latrade Industrial Park (LIP) is one of the latest industrial developments in Batam island that is designed to meet the sophisticated requirements of modern industrialists seeking cost effective relocation or expansion opportunities.
+Developed by PT. Latrade Batam Indonesia, a subsidiary of Latrade Singapore Pte Ltd, is a 100% Singaporean-owned. Latrade provides quality factories at competitive price. With high performance, Latrade hands over buildings in 3-6 months after signing contract.
+LIP is designed as an integrated industrial park with trend setting designs and excellent standard of factory building surrounded by well-maintained gardens and parks. LIP is set to be self-contained with a full spectrum of essential supporting facilities including power plants with back-up generators, telecommunication lines, broadband lines, food courts, stores, medical and banking services.
+LIP caters to have various operational requirement of the light to medium industries including textiles, garment, shoes, valve, sofa, electric assembly, packaging, printing, material processing, plastic molding, knock-down furniture, biosciences & chemical and engineering work.<br>Electricity Provider: PT. PLN Batam<br>Captive Coal Power Plant: nan<br>Captive Gas Power Plant: nan<br>Electricity Capacity Notes: nan<br>Electricity Capacity (MW): nan<br>Planned Electricity Capacity: nan<br>Estimated Electricity Capacity (MW): 19.6612<br>Website: http://www.latrade-batam.com/<br>Tenants: Latrade Batam Indonesia PT, KSW Batam PT, Furniplus Asia PT, Bioworld Biosciences Manufaturing
+Indonesia PT, Universal Laboratories PT, Wearsmart Textiles PT, Tomoe Valve Batam PT,  Resintech Indomas PT, Rainbow Manufacturing PT, Green Structure Industries PT, ZC Industries PT, Sinar Teknik Sejahtera PT, Semangat Baja Mandiri PT, Sultan Mora Teknologi PT, ZC Industries PT  <br>Additional Sources: https://bpbatam.go.id/wp-content/uploads/2022/07/E-BOOK-Batam-industrial-estate-2022.pdf<br>Foreign Founder or Manager: nan<br>Foreign Tenants: nan<br>Foreign Company Involvement Notes: nan<br>Status Notes: In operation since 2000<br>Status (Operational, Operational with Continued Construction, Under Construction, Before Construction, Unclear, Stalled): Operational<br>Year Operations Began: 2000.0<br>Year Construction Began: nan<br>Year Founded : nan<br>Dispute: nan<br>Dispute Explanation: nan<br>Environmental Concerns: nan<br>Mention of renewable energy: nan<br>Electric Vehicle (Production Mentioned): nan<br>Nickel: nan<br>Main Industry: Mixed/General<br>Main Industry Notes: Mix - Composite wood manufacturer, shoes, furniture, fertilizer & pesticides, environmental testing, garments, valves, pipes, alloy & stainless steel, packaging<br>August 2023 Sentinel Check: nan<br>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_fe0dde1ce244c46c674de7c0684003d5 = L.marker(
+                [1.115692, 104.056861],
+                {}
+            ).addTo(map_1cf1d1aa7fc7b4d357eda8c0fef36d83);
+        
+    
+            var icon_c15ac160155c775f00f3a5d1a09b23ef = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_fe0dde1ce244c46c674de7c0684003d5.setIcon(icon_c15ac160155c775f00f3a5d1a09b23ef);
+        
+    
+            marker_fe0dde1ce244c46c674de7c0684003d5.bindTooltip(
+                `<div>
+                     
+    <strong>Puri Industrial Park 2000</strong><br>
+    Industrial Park Name: Puri Industrial Park 2000<br>Name (Ministry): Puri Industrial Park 2000<br>Manager (Ministry): PT. Teluk Pantaran Indah<br>Location English: Baloi Permai, Batam City, Riau Islands, Indonesia<br>Regency: Batam City<br>Province: Riau Islands<br>Size (ha): 24.0<br>Latitude: 1.115692<br>Longitude: 104.056861<br>Location Notes: nan<br>General Background: nan<br>Electricity Provider: PLN<br>Captive Coal Power Plant: nan<br>Captive Gas Power Plant: nan<br>Electricity Capacity Notes: nan<br>Electricity Capacity (MW): nan<br>Planned Electricity Capacity: nan<br>Estimated Electricity Capacity (MW): 9.0744<br>Website: nan<br>Tenants: Takwindo Batam PT., I-tech Engineering PT., Surya Agung Plasindo PT., CSK Insulation PT. Engineering, Interpak Industries Batam PT., Sukanda Djaya PT, Duta Prakarsa Sempurna PT., Sys-Mac Indonesia PT., Waen Indonesia PT, MPLAS Engineering Batam PT., Interpak Industries Batam PT., 2 Indopack Industries Batam PT., THG Engineering PT., Karya Jasa Baja PT, Wilmax PT., Sinyotama Indonesia PT., Metal Batam PT., Interpak Industries Batam PT., Triplus Hitech PT., Capella Dinamik Nusantara PT, Enseral Putera Megatranding PT, Bravo Engineering Batam PT., Hong Shong Plastic Industry PT, Karya Jasa Baja PT., Chuck Engineering Batam PT., Inline Fluit Controls PT., Prima Niaga Indomas PT., Jin Yuan Plastic Recycle PT, Kaisar Sinar Hisash PT, Yafindo Mitra Permata PT., Kokons Mitra Abadi PT, Tunas Mitra Jaya PT., All Lifting Indonesia PT, Hong Tai Utama Industri PT., Catur Mitra Sejati sentosa PT.        
+         <br>Additional Sources: https://bpbatam.go.id/wp-content/uploads/2022/07/E-BOOK-Batam-industrial-estate-2022.pdf
+https://kfmap.asia/industrial/puri-industrial-park-2000-13167<br>Foreign Founder or Manager: nan<br>Foreign Tenants: nan<br>Foreign Company Involvement Notes: nan<br>Status Notes: In operation<br>Status (Operational, Operational with Continued Construction, Under Construction, Before Construction, Unclear, Stalled): Operational<br>Year Operations Began: nan<br>Year Construction Began: nan<br>Year Founded : nan<br>Dispute: nan<br>Dispute Explanation: nan<br>Environmental Concerns: nan<br>Mention of renewable energy: nan<br>Electric Vehicle (Production Mentioned): nan<br>Nickel: nan<br>Main Industry: Mixed/General<br>Main Industry Notes: Mix - Trading, Electrical Components, Packaging, Food, Plastic Recycling, Plastic, Oil & Gas, Plastic molding, Honda warehouse, Pharmacy, Motorbike Parts, Aluminum Windows and Doors, Retail Building Materials<br>August 2023 Sentinel Check: nan<br>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_2f1fcf0fde137dc448ad49f64fc8315e = L.marker(
+                [1.107316, 104.07219],
+                {}
+            ).addTo(map_1cf1d1aa7fc7b4d357eda8c0fef36d83);
+        
+    
+            var icon_cef6f485f7e202779e459c5b740d0395 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_2f1fcf0fde137dc448ad49f64fc8315e.setIcon(icon_cef6f485f7e202779e459c5b740d0395);
+        
+    
+            marker_2f1fcf0fde137dc448ad49f64fc8315e.bindTooltip(
+                `<div>
+                     
+    <strong>Tunas Industrial Estate</strong><br>
+    Industrial Park Name: Tunas Industrial Estate<br>Name (Ministry): Tunas Industrial Estate<br>Manager (Ministry): PT. Tritunas Bangun Perkasa<br>Location English: Belian, Batam City, Riau Islands, Indonesia<br>Regency: Batam City<br>Province: Riau Islands<br>Size (ha): 21.33<br>Latitude: 1.107316<br>Longitude: 104.07219<br>Location Notes: nan<br>General Background: Tunas Industrial Estate was developed by PT. Tritunas Bangun Perkasa, it was established in 2000 and built on 39 hectares of land. Considering Batam’s excellent economic growth and ever-increasing demand for industrial spaces, PT. Tritunas Bangun Perkasa decided to expand by opening up 10 hectares in March 2012 and another 15.6 hectares on May 2013 for another integrated business and Industrial Park. It provides not only industrial buildings and warehouses, but also commercial and retail outlets.
+Nowadays, Tunas Industrial Estate is the largest and most occupied estate in Batam Centre area. With 64 hectares of land, Tunas Industrial Estate is a home to over 100 tenants with more than 250 factory units in multiple sizes and 82 units of multi-function builddings. Tunas Industrial Estate caters to small, medium and big business. Tunas Industrial Estate is one of the 3 industrial estates in Batam with an in-house power plant that is able to operate at the level of 11.2 MW maximum capacity to support the tenants’ businesses. Tunas Industrial Estate also provides a management team that is working full time in order to meet the clients’ needs as well as providing 24- hour security to care for their safety. <br>Electricity Provider: PT Tunas Energi<br>Captive Coal Power Plant: 3.0<br>Captive Gas Power Plant: nan<br>Electricity Capacity Notes: 12 MW (Batam ebook) (split between 3 industrials parks at the same location)<br>Electricity Capacity (MW): 4.0<br>Planned Electricity Capacity: nan<br>Estimated Electricity Capacity (MW): nan<br>Website: https://www.tunasindustrial.com/<br>Tenants: PT. Srijaya Raya Perkasa, PtT. Aohai Technology Indonesia, PT. Reacs Precision Batam, PT. Sri Indah Aluminium Extrusion, PT. Global Packing Batam, PT. Bintang Asia Usaha, PT. Indo Kreasi Grafika, PT. Hassani Can Packing, PT. Sinar Baru Batam, PT. Chandra Inovasi Persada Tri Abadi, PT. Techmicron, Toko Jaya Indah, PT. Inaraya Sukses Pratama, PT. Cycraft Technology Indonesia, PT. SLG Rekatama, PT. ncloz Engineering Services, PT. Erabaru Sukses Abadi, TSC Batam Perkasa, PT. Crown Headware & Knitting Mill, PT. Fastfood Indonesia, PT. Caltest Engineers, CV. Melvaro Berjaya Abadi, PT. Fantastik Internasional, PT. HAB Batam Cartons, PT. Ghim Li Indonesia, PT. IDwarehouse Service Solution, PT. Hokushin Indonesia, PT. Indo Sahari Indah, PT. Professional Technology Specialist, PT. Sim Tic Batam, PT. Tat Seng Teknologi Batam, PT. Tatseng Indoperkasa, PT. Citra Mandiri Distribusindo, PT. Tubular Services, PT. Ying Mei Indo Tobacco International, PT. Cigarette Machine Equipment, PT. Tunas Energi, PT. Asia Paperindo Perkasa, PT. Millionbuilt, PT. Top Baker Indonesia, PT. Bakti Tani Nusantara, PT. Sukaria Malindo Sukses, PT. Artha Jaya Semesta, PT. Transcal Suntech Internasional, PT. Asia Cocoa Indonesia, PT. Soonle Metalindo, PT. Amber Karya, PT. Raajratna Wire, PT. Interfood Sukses Jasindo <br>Additional Sources: https://bpbatam.go.id/wp-content/uploads/2022/07/E-BOOK-Batam-industrial-estate-2022.pdf<br>Foreign Founder or Manager: nan<br>Foreign Tenants: nan<br>Foreign Company Involvement Notes: nan<br>Status Notes: In operation<br>Status (Operational, Operational with Continued Construction, Under Construction, Before Construction, Unclear, Stalled): Operational<br>Year Operations Began: 2000.0<br>Year Construction Began: nan<br>Year Founded : nan<br>Dispute: nan<br>Dispute Explanation: nan<br>Environmental Concerns: nan<br>Mention of renewable energy: nan<br>Electric Vehicle (Production Mentioned): nan<br>Nickel: nan<br>Main Industry: Mixed/General<br>Main Industry Notes: Mix - Electronics, Metal Stamping, Glass, Aluminum, Packaging, Consumer Goods, Plastic Moulding, Garment, Cigarettes, Marine Repair, Warehouse, Printing, Rubber, Manufacturing, Agriculture, Leather Seats, Cocoa, Calbe, Stainless Steel Wire <br>August 2023 Sentinel Check: nan<br>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_037092e0a359dd491f032c421805ba85 = L.marker(
+                [1.166806, 104.016142],
+                {}
+            ).addTo(map_1cf1d1aa7fc7b4d357eda8c0fef36d83);
+        
+    
+            var icon_971ed3838aa9964d42a702a185a00093 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_037092e0a359dd491f032c421805ba85.setIcon(icon_971ed3838aa9964d42a702a185a00093);
+        
+    
+            marker_037092e0a359dd491f032c421805ba85.bindTooltip(
+                `<div>
+                     
+    <strong>Union Industrial Park</strong><br>
+    Industrial Park Name: Union Industrial Park<br>Name (Ministry): Union Industrial Park<br>Manager (Ministry): PT. Union Batam Abadi<br>Location English: Tanjung Sengkuang, Batam City, Riau Islands, Indonesia<br>Regency: Batam City<br>Province: Riau Islands<br>Size (ha): 20.6<br>Latitude: 1.166806<br>Longitude: 104.016142<br>Location Notes: nan<br>General Background: nan<br>Electricity Provider: PLN<br>Captive Coal Power Plant: nan<br>Captive Gas Power Plant: nan<br>Electricity Capacity Notes: 2.3 MW<br>Electricity Capacity (MW): 2.3<br>Planned Electricity Capacity: nan<br>Estimated Electricity Capacity (MW): nan<br>Website: nan<br>Tenants: Alfa Omega Batam PT, Alumindo Pratama CV, Arita Prima Indonesia PT, Agri Global Prima CV, Batam Sukses Mulia PT, Batam Sukses Sejahtera PT, Batam Lestari CV, Batam Marine Engineering Indonesia PT, Batam Narita Indah PT, Batam Xingrui Teknologi, Banlee Citra Nusa PT, Bestindo Perkasa PT, Bengkel Batam Bersama PT, Berkah Anugrah Shabilla, Bina Sukses Abadi PT, BME Wijaya PT, Boston Beton PT, Caterpillar Fastener Manufacturer PT, Central Prima Sukses PT, Chenyang Electronic
+Indonesia PT, Comac Multi Industri PT, Darwin Karindo Mandiri PT, DIP Engineerng PT, Dynatech Rekayasa PT, Felindo Sukses Mandiri CV, Fresco Natural Anugerah PT, Getronics Batam PT, 8 Global Inter Pratama PT, Goodwill PT, Hadyson Indonesia PT, Harbor Jaya Garmindo PT, Home Center Indonesia PT, Henato Indo Internasional PT, Indo Niniki PT, Infiniti Marine PT, Jhedy Sukses Abadi Prakarsa PT, Jorujo Baja Nusantara PT, Jovan Technologies PT, Kasih Dharma Mulai PT, Karya Citra Lamcos PT, Kembang Sari Utama PT, Lautan Lestari PT, Linken Multi Karya PT, Makmur Batam Abadi PT, Mastercal Indonesia PT, Maulana Setia Usaha PT, Megah Persada Abadi PT, Megah Sukses Prima CV,  Metricpack Mandiri PT, Mitra Fesindo Jaya PT, Mitra Batam Abadi PT, Multi Global Trading PT, Multikarya Sarana Makmur PT, Multisarana Mega Sukses PT, NOLLIN Tiga Berlian PT, Ocean Bridge Supplies PT, Oneberry Technologies Indonesia PT, Panca Sukses Pratama, Perfect Seal PT, Perfect Precision Engineering
+Ind PT, Pranata Makmur Sejahtera PT, Prislight PT, Prosperindo Nusa Jaya PT, Sanjaya Abadi Sukses PT, Segar Prima Jaya PT, Standard Automative Perkasa PT, Steeltech Asia PT, Sumber Mas Permai PT, Sumber Sari Sekawan PT, Sunway Facific Flow PT, Sunway Trek Masindo PT, Surya Dieselindo Abadi PT, Taka Marindo Trading PT, Tanjung Putera Maritim PT, Tanindo Sentosa PT, Tata Emerindo Trading PT, Terma Dinamik PT, The Costume Magnifique PT, TJ Commercial PT, Torido Internusa PT, Tri King Jaya CV, Truckindo Batam PT, Union Jaya Sejati PT, Union Plastic Industries PT, Weichai Utama Mandiri PT, Willinton Ciptaprima PT, Windu Jaya Utama PT                             <br>Additional Sources: https://kfmap.asia/industrial/union-industrial-park-13166
+https://bpbatam.go.id/wp-content/uploads/2022/07/E-BOOK-Batam-industrial-estate-2022.pdf<br>Foreign Founder or Manager: nan<br>Foreign Tenants: nan<br>Foreign Company Involvement Notes: nan<br>Status Notes: In operation<br>Status (Operational, Operational with Continued Construction, Under Construction, Before Construction, Unclear, Stalled): Operational<br>Year Operations Began: 1984.0<br>Year Construction Began: nan<br>Year Founded : nan<br>Dispute: nan<br>Dispute Explanation: nan<br>Environmental Concerns: nan<br>Mention of renewable energy: nan<br>Electric Vehicle (Production Mentioned): nan<br>Nickel: nan<br>Main Industry: Mixed/General<br>Main Industry Notes: Mix - Aluminum, Marine Materials, Electronic Components, Logistics, Forwarding Service, Concrete, Metal Stamping, Packaging, Garment, Plastic, Marine Supplier, Appliance Manufature<br>August 2023 Sentinel Check: nan<br>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_76d5475a73dc8d6b6c114cc40b01a03c = L.marker(
+                [1.059169, 104.117558],
+                {}
+            ).addTo(map_1cf1d1aa7fc7b4d357eda8c0fef36d83);
+        
+    
+            var icon_e6b9376f4b86e1fa4ece2e531afe67b7 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_76d5475a73dc8d6b6c114cc40b01a03c.setIcon(icon_e6b9376f4b86e1fa4ece2e531afe67b7);
+        
+    
+            marker_76d5475a73dc8d6b6c114cc40b01a03c.bindTooltip(
+                `<div>
+                     
+    <strong>Kabil Integrated Industrial Park</strong><br>
+    Industrial Park Name: Kabil Integrated Industrial Park<br>Name (Ministry): Kabil Integrated Industrial Park<br>Manager (Ministry): PT. Kabil Indonusa Estate<br>Location English: Kabil, Batam City, Riau Islands, Indonesia<br>Regency: Batam City<br>Province: Riau Islands<br>Size (ha): 539.0<br>Latitude: 1.059169<br>Longitude: 104.117558<br>Location Notes: nan<br>General Background: Kabil Integrated Industrial Estate (KIIE) manages Citramas Group’s industrial estate which consists of PT. Kabil Indonusa Estate (KIE) and PT. Kabil Citranusa (KCN). The industrial estate spans over 520 hectares of coastal waterfront land and is strategically located along Batam’s eastern seaboard. KIIE has been developed to cater to the oil & gas and energy-related industries, especially companies requiring large land plots with close access to the coast for movement of heavy and over-sized cargo.
+For their efforts at developing a successful industrial estate KIIE has been awarded the 2nd Best Industrial Estate outside of Java in 2015. Additionally, the Indonesian government has gazetted KIIE a National Vital Object since 2014 in recognition of its importance and contribution to the national economy. KIIE believes in maintaining a high quality of service to tenants and conforms to ISO9001:2008 standards.<br>Electricity Provider: PLN Batam<br>Captive Coal Power Plant: nan<br>Captive Gas Power Plant: nan<br>Electricity Capacity Notes: 30 MW Power Plant by PLN and connect with PLN's island wide capacity of 480 MW<br>Electricity Capacity (MW): 30.0<br>Planned Electricity Capacity: nan<br>Estimated Electricity Capacity (MW): nan<br>Website: https://www.kcn.co.id/<br>Tenants: Ably Metal Indonesia PT., Austin Engineering PT. Indonesia, Bredero shaw Indonesia PT., Citra Agramasinti
+Nusantara PT., Citramadya Cargindo PT., Citra Pembina Logistik PT., Citra Pembina Pengangkutan Industries PT., Citra Shipyard PT., Pelayaran Citranstirta Tatasarana PT., Citra Tubindo Engineering PT., Citra Tubindo, Tbk PT., Dwi Sumber Arca Waja PT., Enerco RPO Internasional PT., Global Tech Systems Engineering PT., Haskon Citra Perdana PT., H-Tech Oilfield Equipment PT., IEG Oilfield Indonesia PT., Ilthabi Mandiri Teknik PT., Imeco Inter Sarana PT., Indo Matra Power PT.,  Java Star Rig PT., KPE Industries PT., KSD Indonesia PT., Multi Panel Intermitra Mandiri PT., PT. Nation Fittings Indonesia, National Industrial Gases Indonesia PT., Panggon Waja Utama PT., Sarana Citranusa Kabil PT., SMOE Indonesia PT., Suryasarana Hidupjaya PT., Telekomunikasi Indonesia Tbk PT., Tenaris (Hydril) Indonesia PT., Toyo Kanetsu Indonesia PT., Wahana Tirta Milenia PT., Yokohama Industrial Products Manufacturing Indonesia PT., Conocophilips Indonesia, Premier Oil Indonesia, Medco Energy, Inpex Masela, Petronas Carigali, Lundin Tuna B.V, Bank BNI 46, Tbk PT, Bank CIMB Niaga, Tbk PT., Bank Mandiri, Tbk PT., Binajasa Abadikarya PT. (BPJS/Rusunawa), RS. Soedarsono Darmosoewito, Citra Graha Pertiwi PT. (Citra Aerolink), Trias Jaya Propertindo PT. <br>Additional Sources: https://bpbatam.go.id/wp-content/uploads/2022/07/E-BOOK-Batam-industrial-estate-2022.pdf<br>Foreign Founder or Manager: nan<br>Foreign Tenants: nan<br>Foreign Company Involvement Notes: nan<br>Status Notes: In operation<br>Status (Operational, Operational with Continued Construction, Under Construction, Before Construction, Unclear, Stalled): Operational<br>Year Operations Began: 1990.0<br>Year Construction Began: nan<br>Year Founded : nan<br>Dispute: nan<br>Dispute Explanation: nan<br>Environmental Concerns: nan<br>Mention of renewable energy: nan<br>Electric Vehicle (Production Mentioned): nan<br>Nickel: nan<br>Main Industry: Oil and Gas<br>Main Industry Notes: Oil & Gas Industries<br>August 2023 Sentinel Check: nan<br>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_230f225420a17143189a409e6abe0a9b = L.marker(
+                [1.127627, 103.924877],
+                {}
+            ).addTo(map_1cf1d1aa7fc7b4d357eda8c0fef36d83);
+        
+    
+            var icon_8c6a65fd78c98dd06a87ac9f0c5aef72 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_230f225420a17143189a409e6abe0a9b.setIcon(icon_8c6a65fd78c98dd06a87ac9f0c5aef72);
+        
+    
+            marker_230f225420a17143189a409e6abe0a9b.bindTooltip(
+                `<div>
+                     
+    <strong>West Point Maritime Industrial Park</strong><br>
+    Industrial Park Name: West Point Maritime Industrial Park<br>Name (Ministry): West Point Maritime Industrial Park<br>Manager (Ministry): PT. Batam Sentralindo<br>Location English: Tanjung Pinggir, Batam City, Riau Islands, Indonesia<br>Regency: Batam City<br>Province: Riau Islands<br>Size (ha): 240.0<br>Latitude: 1.127627<br>Longitude: 103.924877<br>Location Notes: nan<br>General Background: Westpoint Maritime Industrial Park is a 401- hectares integrated industrial park located at Batam Island - Indonesia. It is being competitively developed for oil and gas industries, including for refinery, bulk-liquid storage terminal, LNG terminal, petrochemicals complex, and power plant. It enjoys various investment incentives with its Free Trade & Free Port Zone (FTZ) status and receives a KLIK-certification from BKPM for a Direct Investment Facility Construction program.
+The location is strategically located within 3 nautical miles from the principal channel of Strait of Malacca, enjoying a unique position that covers the market of Southeast Asia, Northeast Asia and Middle East. The industrial estate will have guaranteed supply of natural gas feedstock from the Natuna Sea gas field via gas pipeline of West Natuna Transportation System (WNTS).<br>Electricity Provider: nan<br>Captive Coal Power Plant: nan<br>Captive Gas Power Plant: nan<br>Electricity Capacity Notes: nan<br>Electricity Capacity (MW): nan<br>Planned Electricity Capacity: nan<br>Estimated Electricity Capacity (MW): nan<br>Website: nan<br>Tenants: nan<br>Additional Sources: https://www.trenasia.com/westpoint-maritime-industrial-park-wmip-supports-oil-and-gas-investment-in-ftz-batam
+http://www.sinopec.com.hk/en/getNewsDetailAction.do?target=GuandeNews&key=0CB5E06342EE06BF0A51718D677BB0AE<br>Foreign Founder or Manager: China<br>Foreign Tenants: nan<br>Foreign Company Involvement Notes: Sinopec project:
+"The Company held 95% equity in PWT through Sinomart KTS Development, a subsidiary of the Company. The business purpose of PWT is to develop, manage and operate an oil storage and oil blending complex and the supporting quay and port facilities with total capacity of 2,600,000 m3, and undertake waterway-dredging in the West Point Maritime Industrial Park, Batam Island, Indonesia."
+http://www.sinopec.com.hk/en/getNewsDetailAction.do?target=GuandeNews&key=0CB5E06342EE06BF0A51718D677BB0AE<br>Status Notes: Stalled. In 2020, it was reported that development of an oil refinery at the industrial estate had been stalled since 2012.
+Trenasia, August 2020: "The Coordinating Ministry (Kemenko) for the Economy asked Sinopec Group to immediately realize the construction of an oil depot which has been stalled for 8 years in Batam, Riau Archipelago.
+"Sinomart KTS Development Ltd or a subsidiary of Sinopec and PT Batam Sentralindo have agreed to continue the investment plan for the construction of an oil depot in Batam," said Secretary of the Coordinating Ministry for Economic Affairs Susiwijono in Jakarta, Saturday, August 1 2020.
+The agreement, said Susi, had been contained in a memorandum of understanding (MoU) signed by both parties on July 29, 2020. On this occasion, his party was also present as a witness as well as a form of escort for the realization of the oil depot project.
+"The Coordinating Ministry for the Economy and BP Batam acted as mediators for the two companies. We will continue to oversee the preparation process until the physical construction so that it can be carried out immediately," he added.
+
+Trenasia, June 2020: "We have developed WMIP industrial estate with its strategic and geographic advantages in Batam. Some 75 hectares in WMIP have already been leased by Sinopec Group for the development of oil storage terminal with capacity of 2,6 million m3, explained Paulus Khierawan, Senior Manager at PT. Batam Sentralindo in Batam, June 14, 2020.
+Paulus explained, the location of WMIP industrial estate is approximately 4,8 km from the Strait of Malacca with sea depth of 23 – 25 metres. Due to its competitive advantages, WMIP can accommodate 300,000-DWT VLCC – Very Large Crude Carrier. In line with the company’s Industrial Estate Business License (IUKI), the integrated industrial park can be developed up to 320 hectares.
+There are 245 hectares of land area currently in preparation at WMIP which are suitable for the development of oil refinery and its downstream integration such as petrochemicals, and even methanol plants which utilize natural gas as feedstock from the nearby Natuna Islands. As developer, we welcome oil and gas investors to Batam which also has its incentives with its Free Trade and Free Port Zone (FTZ) status,” Paulus explained.<br>Status (Operational, Operational with Continued Construction, Under Construction, Before Construction, Unclear, Stalled): Stalled<br>Year Operations Began: nan<br>Year Construction Began: nan<br>Year Founded : nan<br>Dispute: nan<br>Dispute Explanation: nan<br>Environmental Concerns: nan<br>Mention of renewable energy: nan<br>Electric Vehicle (Production Mentioned): nan<br>Nickel: nan<br>Main Industry: Petrochemical<br>Main Industry Notes: oil and gas, petrochemicals, methanol<br>August 2023 Sentinel Check: nan<br>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_695387a44b8555b4392013a356fb9947 = L.marker(
+                [1.112924, 104.060281],
+                {}
+            ).addTo(map_1cf1d1aa7fc7b4d357eda8c0fef36d83);
+        
+    
+            var icon_9274d163c1fbbccddf6e3a77e4fded87 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_695387a44b8555b4392013a356fb9947.setIcon(icon_9274d163c1fbbccddf6e3a77e4fded87);
+        
+    
+            marker_695387a44b8555b4392013a356fb9947.bindTooltip(
+                `<div>
+                     
+    <strong>Executive Industrial Park</strong><br>
+    Industrial Park Name: Executive Industrial Park<br>Name (Ministry): Executive Industrial Park<br>Manager (Ministry): PT. Bumi Abadi Tegar Sakti<br>Location English: Belian, Batam City, Riau Islands, Indonesia<br>Regency: Batam City<br>Province: Riau Islands<br>Size (ha): 20.83<br>Latitude: 1.112924<br>Longitude: 104.060281<br>Location Notes: nan<br>General Background: nan<br>Electricity Provider: PLN  <br>Captive Coal Power Plant: nan<br>Captive Gas Power Plant: nan<br>Electricity Capacity Notes:  2,500,00 VA
+Per real estate listing, 245 kva
+https://batampro.com/property/dijual-gudang-industri-di-kara-industrial-park-batam/<br>Electricity Capacity (MW): 0.25<br>Planned Electricity Capacity: nan<br>Estimated Electricity Capacity (MW): nan<br>Website: nan<br>Tenants: Elite Packaging Indonesia PT., Subsea Services Indonesia PT., Shapeshell PT., Pura Jaya Makmur PT., Casco Sea PT., Bapak Iwan Kurniawan, Sanria Jaya Abadi PT., Flo Bend PT., Ibu Fylsia, Bapak Januan, Bapak Sumitro, Jaya Metal Teknika PT., Duta Dimensi PT., Cahaya Mulia Sukses PT., Multiboga Arya Sentosa PT., Anugerah Sahabat Marina PT., Duta Multi Karya PT., Circleka Indonesia PT., Alfa Scorpii PT., Menara Mega Sakti PT., Octagon Precision Indonesia PT., Agung Jasa Jaya PT., Gembira PT., Roteq PT., Bumi Lestari Kencana Pusaka PT., Tanjung Uncang PT., Roteq PT., Gembira PT., Bumi Lestari Kencana Pusaka PT., Aceplas Indonesia PT.,  Tandy Jaya Lestari PT., Sarang Mas PT., Sukses Perkasa Mandiri PT, Uconnect Electronics PT., Parit Padang Global PT., Tirtakencana Batamindo PT., Bintang Lestari Sejahtera CV., Sarang Mas PT., Sarang Mas PT., Batam Prima Perkasa, Global Rising Technologies Perkasa, Plasmotech Batam PT., Goldhill Industries PT., Superpakindo Manufacturing PT.       <br>Additional Sources: https://bpbatam.go.id/wp-content/uploads/2022/07/E-BOOK-Batam-industrial-estate-2022.pdf<br>Foreign Founder or Manager: nan<br>Foreign Tenants: nan<br>Foreign Company Involvement Notes: nan<br>Status Notes: In operation<br>Status (Operational, Operational with Continued Construction, Under Construction, Before Construction, Unclear, Stalled): Operational<br>Year Operations Began: 2005.0<br>Year Construction Began: nan<br>Year Founded : nan<br>Dispute: nan<br>Dispute Explanation: nan<br>Environmental Concerns: nan<br>Mention of renewable energy: nan<br>Electric Vehicle (Production Mentioned): nan<br>Nickel: nan<br>Main Industry: Petrochemical<br>Main Industry Notes: Mix - Packaging, Oil & Gas, Building, Food, Plastic, Perfume, Compressor and Gas, Garment, Cigarette, Pharmacy, Warehouse<br>August 2023 Sentinel Check: nan<br>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_fb29641bc37ffc5f1ebd28653a7694c1 = L.marker(
+                [1.104741, 104.07185],
+                {}
+            ).addTo(map_1cf1d1aa7fc7b4d357eda8c0fef36d83);
+        
+    
+            var icon_bac517cf41bd5f8e3460c7a427f71a8b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_fb29641bc37ffc5f1ebd28653a7694c1.setIcon(icon_bac517cf41bd5f8e3460c7a427f71a8b);
+        
+    
+            marker_fb29641bc37ffc5f1ebd28653a7694c1.bindTooltip(
+                `<div>
+                     
+    <strong>Sarana Industrial Point (SIP)</strong><br>
+    Industrial Park Name: Sarana Industrial Point (SIP)<br>Name (Ministry): Sarana Industrial Point<br>Manager (Ministry): PT. Pertama Sarana Unggulan<br>Location English: Baloi Permai, Batam City, Riau Islands, Indonesia<br>Regency: Batam City<br>Province: Riau Islands<br>Size (ha): 17.5<br>Latitude: 1.104741<br>Longitude: 104.07185<br>Location Notes: nan<br>General Background: Sarana Industrial Point (SIP) is located in Batam Centre, a land bank in Batam in the heart of the island where all government buildings are situated.
+SIP is surrounded by an estimated one thousand new houses and factories, and is just within 5 minutes from the Batam Centre passenger ferry terminal. SIP is currently operating 12 ha of land with 38 factory units.
+SIP offers as spectrum of factory designs and sizes. Ranging from 576m2 to 1728m2 of factory buildings, SIP is designed as a self-sufficient integrated industrial park that is suitable for any industry and warehousing.
+All factory buildings are designed to meet the needs of modern companies to expand their business opportunities<br>Electricity Provider: PT. PLN Batam<br>Captive Coal Power Plant: nan<br>Captive Gas Power Plant: nan<br>Electricity Capacity Notes: 100 MW<br>Electricity Capacity (MW): 100.0<br>Planned Electricity Capacity: nan<br>Estimated Electricity Capacity (MW): nan<br>Website: https://www.psubatam.com<br>Tenants: Alcotraindo Batam PT., Sindo Megah Lestari PT., Kartinba Indah PT., Pradana Indah Sejahtera PT., Surya Masterindo PT., Lim Siang Huat Keprindo PT., Advanced Packaging Solution PT., Reco Engineering PT., Geflex Indonesia PT., HM Sampoena.Tbk PT., Propan Raya ICC PT., Tiki Jalur Mugraha Eka PT., LB Tecnologies Batam PT., Topus International PT., Cendana Han Wijaya PT., Altrak 1978 PT., Jerapah Polyplast Industry CV, Worn 2 Win PT., Mandiri Gifha Nusantara PT, BEC Spesialist Batam PT, Stanco Ekatehnik Surya PT., International Paint Indonesia PT., Safeman Garment Batam PT., Ipin Denko PT., Well Chois Indonesia PT., Sasjati Era Mas PT., Magnastark Indonesia Jaya       <br>Additional Sources: https://bpbatam.go.id/wp-content/uploads/2022/07/E-BOOK-Batam-industrial-estate-2022.pdff<br>Foreign Founder or Manager: nan<br>Foreign Tenants: nan<br>Foreign Company Involvement Notes: nan<br>Status Notes: In operation<br>Status (Operational, Operational with Continued Construction, Under Construction, Before Construction, Unclear, Stalled): Operational<br>Year Operations Began: 2005.0<br>Year Construction Began: nan<br>Year Founded : nan<br>Dispute: nan<br>Dispute Explanation: nan<br>Environmental Concerns: nan<br>Mention of renewable energy: nan<br>Electric Vehicle (Production Mentioned): nan<br>Nickel: nan<br>Main Industry: Mixed/General<br>Main Industry Notes: Mix - Warehouse, Packaging, Cigarette, Beverage, Engine Parts, Painting, Aluminum, Heavy Equipment, Paint, Garment, Textile, Oil<br>August 2023 Sentinel Check: nan<br>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_62430e4119be255dfbea2547f0c43749 = L.marker(
+                [1.129280088, 103.9245669],
+                {}
+            ).addTo(map_1cf1d1aa7fc7b4d357eda8c0fef36d83);
+        
+    
+            var icon_4965c14b754fddf11a7c14f8d94111fb = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_62430e4119be255dfbea2547f0c43749.setIcon(icon_4965c14b754fddf11a7c14f8d94111fb);
+        
+    
+            marker_62430e4119be255dfbea2547f0c43749.bindTooltip(
+                `<div>
+                     
+    <strong>Kawasan Industri Sekupang Makmur Abadi / Sekupang Logistic</strong><br>
+    Industrial Park Name: Kawasan Industri Sekupang Makmur Abadi / Sekupang Logistic<br>Name (Ministry): Kawasan Industri Sekupang Makmur Abadi<br>Manager (Ministry): PT Sekupang Makmur Abadi<br>Location English: Tanjung Pinggir, Batam City, Riau Islands, Indonesia<br>Regency: Batam City<br>Province: Riau Islands<br>Size (ha): 32.0<br>Latitude: 1.129280088<br>Longitude: 103.9245669<br>Location Notes: nan<br>General Background: nan<br>Electricity Provider: PLN<br>Captive Coal Power Plant: nan<br>Captive Gas Power Plant: nan<br>Electricity Capacity Notes: 900 KVA<br>Electricity Capacity (MW): 0.9<br>Planned Electricity Capacity: nan<br>Estimated Electricity Capacity (MW): nan<br>Website: http://www.sekupanglogistics.com/ <br>Tenants: RPC Indonesia PT., Neptune Subsea PT., MAATS Batam PT., EPCM SDJ, Joe Green, Iteco Supply, Nico Drilling, Kertas terpadu Batamindo PT., Nusantara Baja International PT.   <br>Additional Sources: https://direktori.batam.go.id/index.php/bn/ads/584ccb717f5ad/kawasan_industri_berat/Sekupang-Logistics
+https://bpbatam.go.id/wp-content/uploads/2022/07/E-BOOK-Batam-industrial-estate-2022.pdf
+https://www.linkedin.com/company/pt-sekupang-makmur-abadi/about/<br>Foreign Founder or Manager: nan<br>Foreign Tenants: nan<br>Foreign Company Involvement Notes: nan<br>Status Notes: In operation<br>Status (Operational, Operational with Continued Construction, Under Construction, Before Construction, Unclear, Stalled): Operational<br>Year Operations Began: 1984.0<br>Year Construction Began: nan<br>Year Founded : nan<br>Dispute: nan<br>Dispute Explanation: nan<br>Environmental Concerns: nan<br>Mention of renewable energy: nan<br>Electric Vehicle (Production Mentioned): nan<br>Nickel: nan<br>Main Industry: Manufacturing<br>Main Industry Notes: Mix - Fiberglass fabrication, Marine Parts, Tractor<br>August 2023 Sentinel Check: nan<br>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_66a26b70c1ef697e718dd6b0c31198bc = L.marker(
+                [1.112667, 104.046558],
+                {}
+            ).addTo(map_1cf1d1aa7fc7b4d357eda8c0fef36d83);
+        
+    
+            var icon_5c3b75775541bde378a79bbdaaf0450b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_66a26b70c1ef697e718dd6b0c31198bc.setIcon(icon_5c3b75775541bde378a79bbdaaf0450b);
+        
+    
+            marker_66a26b70c1ef697e718dd6b0c31198bc.bindTooltip(
+                `<div>
+                     
+    <strong>Cammo Industrial Park</strong><br>
+    Industrial Park Name: Cammo Industrial Park<br>Name (Ministry): Cammo Industrial Park<br>Manager (Ministry): PT. Aaman Properti<br>Location English: Baloi Permai, Batam City, Riau Islands, Indonesia<br>Regency: Batam City<br>Province: Riau Islands<br>Size (ha): 18.0<br>Latitude: 1.112667<br>Longitude: 104.046558<br>Location Notes: nan<br>General Background: nan<br>Electricity Provider: Electicity available<br>Captive Coal Power Plant: nan<br>Captive Gas Power Plant: nan<br>Electricity Capacity Notes: nan<br>Electricity Capacity (MW): nan<br>Planned Electricity Capacity: nan<br>Estimated Electricity Capacity (MW): 6.8058<br>Website: nan<br>Tenants: Amtek Engineering Batam PT., Aman Sejati Propertindo PT., Ampway Stationary Manufacturing PT., Asahi Spray Painting PT.,   Batam Bersatu Aparel PT., Berkat Batam Pl, OHL GlobalForwarding PT., Ethic Food PT., Golden Power Beverages PT., Harada Indonesia PT., Jinfindo PT., JMS Batam PT., Leadon International PT., Leon Teknologi Global PT., Lestari MandiriJaya PT., Madeira Indonesia PT., Mitra lndodist Sejahtera PT., Osi Electronic PT., Pan Baruna PT., Peparindo PT., PNBC Indonesia PT., Pratama Engineering Supplies PT., Pro Pack Industries PT., Sinar Inter Plast PT., Sinometal Stamping PT., Sin Lee Manufacturing PT., Starmara Pratama PT., Trijaya TBK PT., Top Foam Batam PT, Tropolis Jaya Abadi PT.<br>Additional Sources: https://bpbatam.go.id/wp-content/uploads/2022/07/E-BOOK-Batam-industrial-estate-2022.pdf
+https://direktori.batam.go.id/index.php/id/ads/584bd92248964/Kawasan-Industri-Ringan/Cammo-Industrial-Park<br>Foreign Founder or Manager: nan<br>Foreign Tenants: nan<br>Foreign Company Involvement Notes: nan<br>Status Notes: In operation, 100% filled with tenants<br>Status (Operational, Operational with Continued Construction, Under Construction, Before Construction, Unclear, Stalled): Operational<br>Year Operations Began: 1995.0<br>Year Construction Began: nan<br>Year Founded : nan<br>Dispute: nan<br>Dispute Explanation: nan<br>Environmental Concerns: nan<br>Mention of renewable energy: nan<br>Electric Vehicle (Production Mentioned): nan<br>Nickel: nan<br>Main Industry: Mixed/General<br>Main Industry Notes: Mix - Metal, Real Estate, Paint, Garment, Trade, Food & Beverage, Furniture, Electronics, Cigarettes, Plastic<br>August 2023 Sentinel Check: nan<br>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_9a7cc368975373f5b77e1e325c44e9dc = L.marker(
+                [1.153021, 104.020273],
+                {}
+            ).addTo(map_1cf1d1aa7fc7b4d357eda8c0fef36d83);
+        
+    
+            var icon_ad5cb822ce6405314b6da21e92f2a471 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_9a7cc368975373f5b77e1e325c44e9dc.setIcon(icon_ad5cb822ce6405314b6da21e92f2a471);
+        
+    
+            marker_9a7cc368975373f5b77e1e325c44e9dc.bindTooltip(
+                `<div>
+                     
+    <strong>Citra Buana Industrial Park I</strong><br>
+    Industrial Park Name: Citra Buana Industrial Park I<br>Name (Ministry): Citra Buana Industrial Park I<br>Manager (Ministry): PT. Citra Buana Prakarsa<br>Location English: Bengkong Laut, Batam City, Riau Islands, Indonesia<br>Regency: Batam City<br>Province: Riau Islands<br>Size (ha): 10.0<br>Latitude: 1.153021<br>Longitude: 104.020273<br>Location Notes: nan<br>General Background: nan<br>Electricity Provider: nan<br>Captive Coal Power Plant: nan<br>Captive Gas Power Plant: nan<br>Electricity Capacity Notes: 2000 KVA<br>Electricity Capacity (MW): 2.0<br>Planned Electricity Capacity: nan<br>Estimated Electricity Capacity (MW): nan<br>Website: http://citrabuanaprakarsa.com/<br>Tenants: Awatronics Manufacturing PT., Amcor Indonesia PT., Jiarmah Global PT., Balindo Citra Perdana PT., Batam Niaga Perkasa PT., Batam Bangun Pratama PT., Batam Motor Sejahtera PT., Batindo Utama PT., Barmah Asia PT, Bintang Lima PD., Chuck Engineering PT., Cahaya Sentosa CV., Central Batam Raya PT., Excellence Nusantara Batam PT., Enseval Putera Mega Trading PT., FMS Hospitality Batam PT., Goodwill PT., Global Master PT., Golden Visalux PT., Golden Batam Raya PT., Great Dynamic Indonesia PT., Hong Yang Indonesia PT., Indora Jaya UD., Karya Sempurna Abadi PT., Label Zone PT., Marga Nusantara Jaya PT., Multi Karya Bajatama PT., Multi Boga Arya Sentosa PT., Multi System PT, Massco Enterprise PT., Panca Karya Itipiso PT., Putra Lintas Samudra PT., Rintis Sejahtera CV., Sri Batam Raya PT, Sinar Baru Utama Jaya PT., Sempurna Anugerah Abadi PT., Stainless Indah Mandiri PT., Trio Karya Kencana PT., Turbo Diesel International PT, Tarpon Energy Services Indonesia PT, Union Jaya Industries PD., Wellyson Arta PT<br>Additional Sources: https://bpbatam.go.id/wp-content/uploads/2022/07/E-BOOK-Batam-industrial-estate-2022.pdf<br>Foreign Founder or Manager: nan<br>Foreign Tenants: nan<br>Foreign Company Involvement Notes: nan<br>Status Notes: In operation<br>Status (Operational, Operational with Continued Construction, Under Construction, Before Construction, Unclear, Stalled): Operational<br>Year Operations Began: 1994.0<br>Year Construction Began: nan<br>Year Founded : nan<br>Dispute: nan<br>Dispute Explanation: nan<br>Environmental Concerns: nan<br>Mention of renewable energy: nan<br>Electric Vehicle (Production Mentioned): nan<br>Nickel: nan<br>Main Industry: Mixed/General<br>Main Industry Notes: Mix - Electronics, Metal & Steel, Building Material, Consumer Goods, Printing, Pharmaceuticals, Electrical Equipment Supply, Metal Workshop & Fabrication<br>August 2023 Sentinel Check: nan<br>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_12aa0fa523f511d14f1b098c38b23049 = L.marker(
+                [1.166751, 104.011915],
+                {}
+            ).addTo(map_1cf1d1aa7fc7b4d357eda8c0fef36d83);
+        
+    
+            var icon_4e85ff246b20ca77ebcb802ce887d936 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_12aa0fa523f511d14f1b098c38b23049.setIcon(icon_4e85ff246b20ca77ebcb802ce887d936);
+        
+    
+            marker_12aa0fa523f511d14f1b098c38b23049.bindTooltip(
+                `<div>
+                     
+    <strong>Citra Buana Industrial Park II</strong><br>
+    Industrial Park Name: Citra Buana Industrial Park II<br>Name (Ministry): Citra Buana Industrial Park II<br>Manager (Ministry): PT. Citra Buana Batam Industri<br>Location English: Tanjung Sengkuang, Batam City, Riau Islands, Indonesia<br>Regency: Batam City<br>Province: Riau Islands<br>Size (ha): 10.0<br>Latitude: 1.166751<br>Longitude: 104.011915<br>Location Notes: nan<br>General Background: nan<br>Electricity Provider: nan<br>Captive Coal Power Plant: nan<br>Captive Gas Power Plant: nan<br>Electricity Capacity Notes: 4000 KVA<br>Electricity Capacity (MW): 4.0<br>Planned Electricity Capacity: nan<br>Estimated Electricity Capacity (MW): nan<br>Website: http://citrabuanaprakarsa.com//<br>Tenants: Allbeta Binding PT, Central Jaya Sentosa PT, Giken Precision Indonesia PT, Hantong Precision Manufacturing PT, NSP Technology Batam PT, Sefong Industries PT, Seraya Makmur Perdana PT, Super Bintang Sejahtera PT<br>Additional Sources: https://bpbatam.go.id/wp-content/uploads/2022/07/E-BOOK-Batam-industrial-estate-2022.pdff<br>Foreign Founder or Manager: nan<br>Foreign Tenants: nan<br>Foreign Company Involvement Notes: nan<br>Status Notes: In operation<br>Status (Operational, Operational with Continued Construction, Under Construction, Before Construction, Unclear, Stalled): Operational<br>Year Operations Began: 2002.0<br>Year Construction Began: nan<br>Year Founded : nan<br>Dispute: nan<br>Dispute Explanation: nan<br>Environmental Concerns: nan<br>Mention of renewable energy: nan<br>Electric Vehicle (Production Mentioned): nan<br>Nickel: nan<br>Main Industry: Mixed/General<br>Main Industry Notes: Mix - Metal & Steel Fabrication, Plastic Injection Moulding, Tape, Consumer Goods, Home Appliance Distributor<br>August 2023 Sentinel Check: nan<br>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_fa5268bc8c46b384d8f55a48c0965ccd = L.marker(
+                [1.110671, 104.062898],
+                {}
+            ).addTo(map_1cf1d1aa7fc7b4d357eda8c0fef36d83);
+        
+    
+            var icon_585a82303006892144ace6c5819ef1fd = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_fa5268bc8c46b384d8f55a48c0965ccd.setIcon(icon_585a82303006892144ace6c5819ef1fd);
+        
+    
+            marker_fa5268bc8c46b384d8f55a48c0965ccd.bindTooltip(
+                `<div>
+                     
+    <strong>Citra Buana Industrial Park III</strong><br>
+    Industrial Park Name: Citra Buana Industrial Park III<br>Name (Ministry): Citra Buana Industrial Park III<br>Manager (Ministry): PT. Citra Buana Prakarsa<br>Location English: Belian, Batam City, Riau Islands, Indonesia<br>Regency: Batam City<br>Province: Riau Islands<br>Size (ha): 20.0<br>Latitude: 1.110671<br>Longitude: 104.062898<br>Location Notes: nan<br>General Background: nan<br>Electricity Provider: nan<br>Captive Coal Power Plant: nan<br>Captive Gas Power Plant: nan<br>Electricity Capacity Notes: 10 MW<br>Electricity Capacity (MW): 10.0<br>Planned Electricity Capacity: nan<br>Estimated Electricity Capacity (MW): nan<br>Website: http://citrabuanaprakarsa.com/<br>Tenants: Amtek Precision Components PT., Amtek Plastic Batam PT., Asia Paramita Indah PT., Asiatech Recyclindo PT., Alcotraindo Batam PT., Bina Mulia Perkasa PT., Citra Utama Distribusindo Raya PT., Goldwell Plastic Batam PT., Gunung Kawi PT., Leadon International PT., Megah Technology Batam PT., Media Kreasi Bangsa CV, Nusanheli PT., Orion Indonesia PT., Petrus Indonesia PT., Rock International Tobacco PT., SP Manufacturing PT., SM Engineering PT., Suntech Plastic Industries Batam PT, Sumber Flora Khatulistiwa PT., Tasindo Utama Indah PT., TCF Maju PT.<br>Additional Sources: https://bpbatam.go.id/wp-content/uploads/2022/07/E-BOOK-Batam-industrial-estate-2022.pdf<br>Foreign Founder or Manager: nan<br>Foreign Tenants: nan<br>Foreign Company Involvement Notes: nan<br>Status Notes: In operation<br>Status (Operational, Operational with Continued Construction, Under Construction, Before Construction, Unclear, Stalled): Operational<br>Year Operations Began: 2002.0<br>Year Construction Began: nan<br>Year Founded : nan<br>Dispute: nan<br>Dispute Explanation: nan<br>Environmental Concerns: nan<br>Mention of renewable energy: nan<br>Electric Vehicle (Production Mentioned): nan<br>Nickel: nan<br>Main Industry: Mixed/General<br>Main Industry Notes: Mix - Precision Machining, Plastic Injection Moulding, Cosmetics, Cigarettes, Building Material, Consumer Goods, Food, Marine Equipment, Electronics Manufacturing<br>August 2023 Sentinel Check: nan<br>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_4fcadb3d59c6066d3222997bdd186317 = L.marker(
+                [1.115509, 104.048972],
+                {}
+            ).addTo(map_1cf1d1aa7fc7b4d357eda8c0fef36d83);
+        
+    
+            var icon_8baf325e51cbf3839ce4d38b6aac6485 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_4fcadb3d59c6066d3222997bdd186317.setIcon(icon_8baf325e51cbf3839ce4d38b6aac6485);
+        
+    
+            marker_4fcadb3d59c6066d3222997bdd186317.bindTooltip(
+                `<div>
+                     
+    <strong>Hijrah Industrial Park</strong><br>
+    Industrial Park Name: Hijrah Industrial Park<br>Name (Ministry): Hijrah Industrial Park<br>Manager (Ministry): PT Hijrah Karya Mandiri<br>Location English: Baloi Permai, Batam City, Riau Islands, Indonesia<br>Regency: Batam City<br>Province: Riau Islands<br>Size (ha): 64.0<br>Latitude: 1.115509<br>Longitude: 104.048972<br>Location Notes: nan<br>General Background: nan<br>Electricity Provider: PLN<br>Captive Coal Power Plant: nan<br>Captive Gas Power Plant: nan<br>Electricity Capacity Notes: nan<br>Electricity Capacity (MW): nan<br>Planned Electricity Capacity: nan<br>Estimated Electricity Capacity (MW): 24.1984<br>Website: nan<br>Tenants: PT. Gajah Izumi Mas Perkasa, PT. Global Izupolyndo, PT. Panca Mitra Niaga, PT. Inti Mitra Mandiri, PT. Eon Chemicals Putra, PT. Barokah Utama Batam, PT. Nejilock Technologyndo, PT. Berkat Anatasia, PT. Racer Technology Batam, PT. Berman Surya Gemilang, PT. Es Hupindo, PT. Indomarco Prismatama, PT. Tectron Manufacturing, PT. Wisetronics Manufacturing Indonesia, PT. Indo Kreasi Grafika, Bp Yadi, PT. Sindo Makmur Sentosa, PT. Metal Batam, PT. Bingas Manufacturing, PT. Cheng Heng Paper Product<br>Additional Sources: https://bpbatam.go.id/wp-content/uploads/2022/07/E-BOOK-Batam-industrial-estate-2022.pdf<br>Foreign Founder or Manager: nan<br>Foreign Tenants: nan<br>Foreign Company Involvement Notes: nan<br>Status Notes: In operation<br>Status (Operational, Operational with Continued Construction, Under Construction, Before Construction, Unclear, Stalled): Operational<br>Year Operations Began: 2002.0<br>Year Construction Began: nan<br>Year Founded : nan<br>Dispute: nan<br>Dispute Explanation: nan<br>Environmental Concerns: nan<br>Mention of renewable energy: nan<br>Electric Vehicle (Production Mentioned): nan<br>Nickel: nan<br>Main Industry: Mixed/General<br>Main Industry Notes: Mix - Drinking water packagaing, Food, Warehouse, Chemical, Plastic, Transport, Gas, Packaging<br>August 2023 Sentinel Check: nan<br>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_c39532cdc24c0395b1b38f4ca330f74b = L.marker(
+                [1.136379884, 104.0227686],
+                {}
+            ).addTo(map_1cf1d1aa7fc7b4d357eda8c0fef36d83);
+        
+    
+            var icon_96fe6e4de27916bd699817d0ad5b33fd = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_c39532cdc24c0395b1b38f4ca330f74b.setIcon(icon_96fe6e4de27916bd699817d0ad5b33fd);
+        
+    
+            marker_c39532cdc24c0395b1b38f4ca330f74b.bindTooltip(
+                `<div>
+                     
+    <strong>Indah Industrial Park</strong><br>
+    Industrial Park Name: Indah Industrial Park<br>Name (Ministry): Indah Industrial Park<br>Manager (Ministry):  PT. Teluk Pantaian Indah<br>Location English: Kampung Pelita, Batam City, Riau Islands, Indonesia<br>Regency: Batam City<br>Province: Riau Islands<br>Size (ha): 16.0<br>Latitude: 1.136379884<br>Longitude: 104.0227686<br>Location Notes: nan<br>General Background: nan<br>Electricity Provider: nan<br>Captive Coal Power Plant: nan<br>Captive Gas Power Plant: nan<br>Electricity Capacity Notes: nan<br>Electricity Capacity (MW): nan<br>Planned Electricity Capacity: nan<br>Estimated Electricity Capacity (MW): 6.0496<br>Website: nan<br>Tenants: PT. Utama Dwibaja Semesta, TNT/PT. Skypak International Express, PT. Rodamas Makmur, Toko Wira Utama, PT. Ndexindo Mandiri Indonesia, PT. Prima Niaga Indomas, PT. Cinderella, PT. Indomarco Adi Prima, PT. Rodamas Makmur Motor, PT. Lumbung Rezeki Nusantara, PT. Sat Nusa Persada, Imron Ali, PT. Srijaya Karya Makmur<br>Additional Sources: https://bpbatam.go.id/wp-content/uploads/2022/07/E-BOOK-Batam-industrial-estate-2022.pdf
+https://direktori.batam.go.id/index.php/id/ads/584c924e2a3e0/Kawasan-Industri-Ringan/Indah-Industrial-Park<br>Foreign Founder or Manager: nan<br>Foreign Tenants: nan<br>Foreign Company Involvement Notes: nan<br>Status Notes: In operation. 
+Batam Industrial Estate E-Book (bpbatam.go.id), 2022: "Indah Industrial Park was established in 2000 in an area of ​​16 Ha. 10 Ha has been built and filled by 21 tenants. The facilities available in this industrial area are a canteen, mini market and playground."<br>Status (Operational, Operational with Continued Construction, Under Construction, Before Construction, Unclear, Stalled): Operational<br>Year Operations Began: 2000.0<br>Year Construction Began: nan<br>Year Founded : nan<br>Dispute: nan<br>Dispute Explanation: nan<br>Environmental Concerns: nan<br>Mention of renewable energy: nan<br>Electric Vehicle (Production Mentioned): nan<br>Nickel: nan<br>Main Industry: Mixed/General<br>Main Industry Notes: Mix - Warehouse, Food, Iron, Trade<br>August 2023 Sentinel Check: nan<br>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_c17e22861a94b9da9804cc5f3533c101 = L.marker(
+                [1.110724, 104.044924],
+                {}
+            ).addTo(map_1cf1d1aa7fc7b4d357eda8c0fef36d83);
+        
+    
+            var icon_a2d82b8a8825d0d00b78daf7af81f646 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_c17e22861a94b9da9804cc5f3533c101.setIcon(icon_a2d82b8a8825d0d00b78daf7af81f646);
+        
+    
+            marker_c17e22861a94b9da9804cc5f3533c101.bindTooltip(
+                `<div>
+                     
+    <strong>Kara Industrial Park</strong><br>
+    Industrial Park Name: Kara Industrial Park<br>Name (Ministry): Kara Industrial Park<br>Manager (Ministry): PT Kara Primanusa<br>Location English: Baloi Permai, Batam City, Riau Islands, Indonesia<br>Regency: Batam City<br>Province: Riau Islands<br>Size (ha): 19.0<br>Latitude: 1.110724<br>Longitude: 104.044924<br>Location Notes: nan<br>General Background: nan<br>Electricity Provider: PLN<br>Captive Coal Power Plant: nan<br>Captive Gas Power Plant: nan<br>Electricity Capacity Notes: nan<br>Electricity Capacity (MW): nan<br>Planned Electricity Capacity: nan<br>Estimated Electricity Capacity (MW): 7.1839<br>Website: nan<br>Tenants: Apollo PT, Atech Electronic Indonesia PT, AV Plastik Indonesia PT, Batam Master Indonesia PT, Buana Aneka Jaya PT, Eng Ngiap Plastronic PT, Escotama Handal PT, Glopack Packaging PT, Green Flexible PT, Hoseng PT, Image Maju Batam PT, Kara Primanusa PT, Mega Prima Perkasa PT, Raising Global Internasional CV, Rexawijaya Sakti PT, Radiator & Cooler PT, Sindo Sahabat Sejahtera PT, Super Box PT, Sinbat Jaya PT, Sinar Indah PT, Schrithmann Indonesia PT, Uni Meltatech Industry PT, Tan Indo Sukses PT, Xuzhou Engineering PT<br>Additional Sources: https://bpbatam.go.id/wp-content/uploads/2022/07/E-BOOK-Batam-industrial-estate-2022.pdf
+https://kfmap.asia/industrial/kara-industrial-park-13164
+https://direktori.batam.go.id/index.php/id/ads/584ca0670203f/Kawasan-Industri-Ringan/Kara-Indrustrial-Park<br>Foreign Founder or Manager: nan<br>Foreign Tenants: nan<br>Foreign Company Involvement Notes: nan<br>Status Notes: In operation.
+Batam Industrial Estate E-Book (bpbatam.go.id), 2022: "Kara Industrial Park was founded in 1996 in an area of ​​19 hectares and is occupied by 35 tenants.
+The facilities available in this industrial area are Canteen, Supermarket and Foodcourt.
+While the infrastructure and facilities available are electricity, ATB, and Telkom."<br>Status (Operational, Operational with Continued Construction, Under Construction, Before Construction, Unclear, Stalled): Operational<br>Year Operations Began: 1992.0<br>Year Construction Began: nan<br>Year Founded : nan<br>Dispute: nan<br>Dispute Explanation: nan<br>Environmental Concerns: nan<br>Mention of renewable energy: nan<br>Electric Vehicle (Production Mentioned): nan<br>Nickel: nan<br>Main Industry: Mixed/General<br>Main Industry Notes: Mix - Warehouse, Electronic Manufacture, Machine, Plastice, Packaging, Ceramic, Glass, Steel<br>August 2023 Sentinel Check: nan<br>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_c91fbe5cf5b4e57a9d48ed58e44c837e = L.marker(
+                [1.16554962, 104.0117723],
+                {}
+            ).addTo(map_1cf1d1aa7fc7b4d357eda8c0fef36d83);
+        
+    
+            var icon_be04273b65c26f7dfe92a70807fd27f5 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_c91fbe5cf5b4e57a9d48ed58e44c837e.setIcon(icon_be04273b65c26f7dfe92a70807fd27f5);
+        
+    
+            marker_c91fbe5cf5b4e57a9d48ed58e44c837e.bindTooltip(
+                `<div>
+                     
+    <strong>Kawasan Industri Malindo Cipta Perkasa</strong><br>
+    Industrial Park Name: Kawasan Industri Malindo Cipta Perkasa<br>Name (Ministry): Kawasan Industri Malindo Cipta Perkasa<br>Manager (Ministry): PT. Malindo Cipta Perkasa<br>Location English: Tanjung Sengkuang, Batam City, Riau Islands, Indonesia<br>Regency: Batam City<br>Province: Riau Islands<br>Size (ha): 23.0<br>Latitude: 1.16554962<br>Longitude: 104.0117723<br>Location Notes: nan<br>General Background: Malindo Industrial Park is one of the well-known industrial areas in KPBPB Batam. Located in Tanjung Sengkuang, Batu Ampar, Malindo Industrial Park is only 5 minutes from Batu Ampar Harbor, making it a very strategic location for doing business.
+
+As one of the well-established industrial areas in Batam, Malindo Industrial Park has been operating since 1996. State investors in Malindo Industrial Park come from Singapore and Indonesia with a total investment value of more than 10 billion Rupiah. The industries in this industrial area are engaged in the business sector of the textile industry and textile products as well as the electronics and electrical industries.
+
+The industrial area founded by PT Malindo Cipta Perkasa was established with industrial building facilities supported by an ATM Center, prayer area, canteen, adequate parking area, and a beautiful garden with a 24-hour integrated security system. In addition, Malindo Industrial Park also provides supporting infrastructure, including electricity supply from PLN, clean water supply from the Drinking Water Treatment System (SPAM), and telecommunication and internet networks.<br>Electricity Provider: PLN<br>Captive Coal Power Plant: nan<br>Captive Gas Power Plant: nan<br>Electricity Capacity Notes: Direct from PLN<br>Electricity Capacity (MW): nan<br>Planned Electricity Capacity: nan<br>Estimated Electricity Capacity (MW): 8.6963<br>Website: https://pusbang.bpbatam.go.id/detailpost/profil-malindo-industrial-park 
+(this is not company website, but profile on Kawasan Ekonomi Khusus Batam)<br>Tenants: Cakrawala Kertas PT., Graha Sembada, Bina Niaga Ind PT, Vin Jaya Utama PT., Toko Sinar Bulan, Indorig Cipta P. PT., Ricky Toy CV., Sinbat PT, Graha Aneka Niaga PT., Peter Garmindo PT, Trio Ciptra Gemilang PT.,  Alpha Aneka PT, Duta Perkasa Jaya PT.,  Dwi Putra Agung PT., Wajah Baru Perkasa PT, Sarana Niaga CV, Nongsa Jaya PT, Fuji Star & Concord PT, Batam Trading PT, Tanindo Sentosa PT, Elsindo int persada PT, Marga Nusantara J PT., Dwi Putra Tunggal PT, Anugerah Perkasa S PT,  Thermo Karya PT <br>Additional Sources: https://bpbatam.go.id/wp-content/uploads/2022/07/E-BOOK-Batam-industrial-estate-2022.pdf
+https://pusbang.bpbatam.go.id/detailpost/profil-malindo-industrial-park<br>Foreign Founder or Manager: nan<br>Foreign Tenants: nan<br>Foreign Company Involvement Notes: nan<br>Status Notes: In operation<br>Status (Operational, Operational with Continued Construction, Under Construction, Before Construction, Unclear, Stalled): Operational<br>Year Operations Began: 1996.0<br>Year Construction Began: nan<br>Year Founded : nan<br>Dispute: nan<br>Dispute Explanation: nan<br>Environmental Concerns: nan<br>Mention of renewable energy: nan<br>Electric Vehicle (Production Mentioned): nan<br>Nickel: nan<br>Main Industry: Mixed/General<br>Main Industry Notes: Mix - Paper, Food, Garment, Warehouse, Furniture, Beverage, Bike Assembly, Plastic, Ceramic, Pharmacy, Manufacturing<br>August 2023 Sentinel Check: nan<br>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_6fc5653c3791e442068a0eaedbae1bba = L.marker(
+                [1.178047761, 104.0103648],
+                {}
+            ).addTo(map_1cf1d1aa7fc7b4d357eda8c0fef36d83);
+        
+    
+            var icon_522f67b5dda47a582d0d345484db4e9d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_6fc5653c3791e442068a0eaedbae1bba.setIcon(icon_522f67b5dda47a582d0d345484db4e9d);
+        
+    
+            marker_6fc5653c3791e442068a0eaedbae1bba.bindTooltip(
+                `<div>
+                     
+    <strong>Mega Cipta Industrial Park</strong><br>
+    Industrial Park Name: Mega Cipta Industrial Park<br>Name (Ministry): Mega Cipta Industrial Park<br>Manager (Ministry): PT. Mega Cipta Adi Persada<br>Location English: Batu Merah, Batam City, Riau Islands, Indonesia<br>Regency: Batam City<br>Province: Riau Islands<br>Size (ha): 5.0<br>Latitude: 1.178047761<br>Longitude: 104.0103648<br>Location Notes: nan<br>General Background: nan<br>Electricity Provider: PLN<br>Captive Coal Power Plant: nan<br>Captive Gas Power Plant: nan<br>Electricity Capacity Notes: nan<br>Electricity Capacity (MW): nan<br>Planned Electricity Capacity: nan<br>Estimated Electricity Capacity (MW): 1.8905<br>Website: nan<br>Tenants: Achua, Aheng, Akhun, Adi BJ PT, Aliong PT, Amat, Aseng, Asia Sukses S, Achuan Indo Keramik, Alk Moh Chemicals Indonesia PT, Batam Usaha MK PT,  Boonmeng Engineering Indonesia PT, Cahaya Listrik, Djitoe Mesindo PT, Era Cinta Indonesia PT, Edaran Profab PT, Eka Prima Grafikatama PT, Era Cinta Indonesia PT, Hartono Salim, Jemix Indonesia PT, Jeo Sio Keng, Kapal Tengker, Karya Plastik Utama PT, K&B Precision PT, Mitra Abadi Kiat Perkasa PT, Multi Cahaya Grasindo PT,  Melco Steel PT,  Naga Jaya PT, Prima Surya Sejahtera PT, Selatindo Batam Mandiri PT, Sinar Batam Gratindo PT, Total Depo Logistik PT, Yapindo Mitra PT<br>Additional Sources: https://kfmap.asia/industrial/mega-cipta-industrial-park-13350
+https://bpbatam.go.id/wp-content/uploads/2022/07/E-BOOK-Batam-industrial-estate-2022.pdf
+https://direktori.batam.go.id/index.php/id/ads/584cc0cf47025/Kawasan-Industri-Ringan/Megacipta-Industrial-Park<br>Foreign Founder or Manager: nan<br>Foreign Tenants: nan<br>Foreign Company Involvement Notes: nan<br>Status Notes: In operation. 
+Batam Industrial Estate E-Book (bpbatam.go.id), 2022: "Megacipta Industrial Park was established in 1997 on an area of ​​435 sqm. 330 sqm has been built and filled by 19 tenants.
+The available infrastructure and facilities are electricity, ATB, and Telkom."<br>Status (Operational, Operational with Continued Construction, Under Construction, Before Construction, Unclear, Stalled): Operational<br>Year Operations Began: 1994.0<br>Year Construction Began: nan<br>Year Founded : nan<br>Dispute: nan<br>Dispute Explanation: nan<br>Environmental Concerns: nan<br>Mention of renewable energy: nan<br>Electric Vehicle (Production Mentioned): nan<br>Nickel: nan<br>Main Industry: Mixed/General<br>Main Industry Notes: Mix - Warehouse, Plastic, Steel, Chemicals, Heavy Equipment, Printing, Warehouse, Consumer Goods, Plastic Bag, Food<br>August 2023 Sentinel Check: nan<br>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_370d7df902ffd37429962a5758445228 = L.marker(
+                [1.098093, 104.120436],
+                {}
+            ).addTo(map_1cf1d1aa7fc7b4d357eda8c0fef36d83);
+        
+    
+            var icon_df4bd9f80683da760448e5a6a5528a8f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_370d7df902ffd37429962a5758445228.setIcon(icon_df4bd9f80683da760448e5a6a5528a8f);
+        
+    
+            marker_370d7df902ffd37429962a5758445228.bindTooltip(
+                `<div>
+                     
+    <strong>Taiwan International Park</strong><br>
+    Industrial Park Name: Taiwan International Park<br>Name (Ministry): Taiwan International Park<br>Manager (Ministry): PT. Sigma United Internasional<br>Location English: Kabil, Batam City, Riau Islands, Indonesia<br>Regency: Batam City<br>Province: Riau Islands<br>Size (ha): 54.0<br>Latitude: 1.098093<br>Longitude: 104.120436<br>Location Notes: nan<br>General Background: Taiwan International Park is developed by PT. Sigma United International, and it was established in 1990, with a total area of 54 ha. 79% (42.7 ha) of the area has been built and filled by 23 tenants. Taiwan International Park is located 20 km away from Batam Centre, and 9 km from Hang Nadim Airport. The estate provides the following supporting facilities: - Commercial facilities: flat for employees & canteen - Social facilities: street light, garden asphalt and road, companies name plates - Security facilities: 24 hour, security system, and security gate-post - Gas: by PT PGN. Taiwan International Park also offers several types of building that can be rented: - Type A: 7,982 m2 - Type B: 7,110 m2 - Type C: 5,846 m2<br>Electricity Provider: Bright PLN<br>Captive Coal Power Plant: nan<br>Captive Gas Power Plant: nan<br>Electricity Capacity Notes: nan<br>Electricity Capacity (MW): nan<br>Planned Electricity Capacity: nan<br>Estimated Electricity Capacity (MW): 20.4174<br>Website: nan<br>Tenants: Nusantara Baja International PT., PT Adi Protek Envirodunia, PT Anecan Pratama Jaya, PT Batam Kuarsa Industri, PT Batam Sentosa Jaya, PT Batam Feed Mill, PT Berkat Batam Nusantara, PT Beta Engineering, PT First Filter, PT Hokindo Eka Tehnik, PT Hanfel Detaris, PT James Product Company, PT Kabil Citra Nusa, PT Kemenangan, PT Lhei Anuek Seulawah, PT Mitra Mandiri Industri, PT Nam Seng Indonesia, PT Reka Sukses, PT Passion Plastics Adipratama, PT Royce Enterprise CO, PT Servotech Indonesia, PT Singatin, PT Siantar Tiara Estate, PT Tosan Aji Mumpuni, PT Toyoshima Indonesia, PT UTD Creation Packaging Solutions, PT Waen Indonesia        <br>Additional Sources: https://bpbatam.go.id/wp-content/uploads/2022/07/E-BOOK-Batam-industrial-estate-2022.pdf
+https://business-indonesia.org/files/estates/qygTcIsOTjUDMQU2qcqx7MEOejKDmVcruYVgPC8h.pdf<br>Foreign Founder or Manager: nan<br>Foreign Tenants: nan<br>Foreign Company Involvement Notes: nan<br>Status Notes: In operation.
+Batam Industrial Estate E-Book (bpbatam.go.id), 2022: "Taiwan International Park is developed by PT. Sigma
+United International, and it was established in 1990,
+with a total area of 54 ha. 79% (42.7 ha) of the area has
+been built and filled by 23 tenants. Taiwan International
+Park is located 20 km away from Batam Centre, and 9 km
+from Hang Nadim Airport." <br>Status (Operational, Operational with Continued Construction, Under Construction, Before Construction, Unclear, Stalled): Operational<br>Year Operations Began: 1990.0<br>Year Construction Began: nan<br>Year Founded : nan<br>Dispute: nan<br>Dispute Explanation: nan<br>Environmental Concerns: nan<br>Mention of renewable energy: nan<br>Electric Vehicle (Production Mentioned): nan<br>Nickel: nan<br>Main Industry: Mixed/General<br>Main Industry Notes: Mix - Scrap metal, compress gas, pipe, warehouse, rubber, warehouse, plastics recycling<br>August 2023 Sentinel Check: nan<br>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_adaeca37371c864c7a1e5dc2cdabcc9e = L.marker(
+                [1.058940569, 104.1260548],
+                {}
+            ).addTo(map_1cf1d1aa7fc7b4d357eda8c0fef36d83);
+        
+    
+            var icon_178840d774a8c0eef3d11032203cc456 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_adaeca37371c864c7a1e5dc2cdabcc9e.setIcon(icon_178840d774a8c0eef3d11032203cc456);
+        
+    
+            marker_adaeca37371c864c7a1e5dc2cdabcc9e.bindTooltip(
+                `<div>
+                     
+    <strong>Tunas Industri Kabil</strong><br>
+    Industrial Park Name: Tunas Industri Kabil<br>Name (Ministry): Tunas Industri Kabil<br>Manager (Ministry): PT. Rancha Cakra Semestas<br>Location English: Kabil, Batam City, Riau Islands, Indonesia<br>Regency: Batam City<br>Province: Riau Islands<br>Size (ha): 26.0<br>Latitude: 1.058940569<br>Longitude: 104.1260548<br>Location Notes: nan<br>General Background: In 2018, Tunas Group has opened a new industrial estated which is situated on the east side of Batam island, District named as Kabil. Kabil district have always been an industrial area for heavy industries such as piping companies, oil companies and palm oil producers, etc. Tunas Kabil Industrial estate is situated along the main artery road of kabil making it very accessible and easy to find.
+
+Tunas Kabil has a total of 29.7 ha of land area for industrial use. Tunas Kabil hopes to be able to work together with foreign investors and lending foreign investors a hand in setting up their factory.
+
+<br>Electricity Provider: nan<br>Captive Coal Power Plant: nan<br>Captive Gas Power Plant: nan<br>Electricity Capacity Notes: nan<br>Electricity Capacity (MW): nan<br>Planned Electricity Capacity: nan<br>Estimated Electricity Capacity (MW): 9.8306<br>Website: https://tunasindustrial.com/en/tunas-kabil-industrial/<br>Tenants: (Google Maps): PT. Tunas Mitra Jaya, Gudang Asia Cocoa, PT Corum, PT. Anugrah Sejahtera Makmur, PT. Broad Far Indonesia, PT Accord Mandiri Batam, PT. Warlbor International Indonesia, PT Nusanheli<br>Additional Sources: https://tunasindustrial.com/en/tenants/<br>Foreign Founder or Manager: nan<br>Foreign Tenants: nan<br>Foreign Company Involvement Notes: nan<br>Status Notes: In operation.
+Tunas Industrial Website: "In 2018, Tunas Group has opened a new industrial estated which is situated on the east side of Batam island, District named as Kabil. Kabil district have always been an industrial area for heavy industries such as piping companies, oil companies and palm oil producers, etc. Tunas Kabil Industrial estate is situated along the main artery road of kabil making it very accessible and easy to find.
+
+Tunas Kabil has a total of 30 ha of land area for industrial use. Tunas Kabil hopes to be able to work together with foreign investors and lending foreign investors a hand in setting up their factory."
+
+<br>Status (Operational, Operational with Continued Construction, Under Construction, Before Construction, Unclear, Stalled): Operational<br>Year Operations Began: 2018.0<br>Year Construction Began: nan<br>Year Founded : nan<br>Dispute: nan<br>Dispute Explanation: nan<br>Environmental Concerns: nan<br>Mention of renewable energy: nan<br>Electric Vehicle (Production Mentioned): nan<br>Nickel: nan<br>Main Industry: Mixed/General<br>Main Industry Notes: (Google Maps): PT. Tunas Mitra Jaya - duct tape and plastic wrapping, packing machinery
+Gudang Asia Cocoa - food
+PT Corum -plastic jerrycan manufacturing company
+PT. Anugrah Sejahtera Makmur - support for mining and drilling industry (manufacturing)
+PT. Broad Far Indonesia - tobacco
+PT Accord Mandiri Batam -printing and paper box
+PT. Warlbor International Indonesia - cigarrette manufacturer
+PT. Nusanheli - Plastic materials<br>August 2023 Sentinel Check: nan<br>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_3347a9089048f76874f388e950a14ac4 = L.marker(
+                [-6.188522, 106.911237],
+                {}
+            ).addTo(map_1cf1d1aa7fc7b4d357eda8c0fef36d83);
+        
+    
+            var icon_6b9cb399ab4737c16c2b395625e6b074 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_3347a9089048f76874f388e950a14ac4.setIcon(icon_6b9cb399ab4737c16c2b395625e6b074);
+        
+    
+            marker_3347a9089048f76874f388e950a14ac4.bindTooltip(
+                `<div>
+                     
+    <strong>Jakarta Industrial Estate Pulogadung</strong><br>
+    Industrial Park Name: Jakarta Industrial Estate Pulogadung<br>Name (Ministry): Jakarta Industrial Estate Pulogadung<br>Manager (Ministry): PT. Jakarta Industrial Estate Pulogadung<br>Location English: Rawa Terate, East Jakarta City, Jakarta, Indonesia<br>Regency: East Jakarta City<br>Province: Jakarta<br>Size (ha): 500.0<br>Latitude: -6.188522<br>Longitude: 106.911237<br>Location Notes: nan<br>General Background: As the first industrial estate in Indonesia, Jakarta Industrial Estate Pulogadung (PT JIEP) has a strategic location and convenient access to transport and distribution to all parts of the capital city of Indonesia, Jakarta. To the present day, the composition of shareholders of PT JIEP is 50% owned by the Republic of Indonesia and 50% by the Government of DKI Jakarta. The boundaries of Pulogadung Industrial Zone cover around 425 hectares, and offer Industrial land plots in a selection of size, from 5,000m2 to 1 ha, in order to meet a variety of requirements. JIEP offers as well Ready to Use Factory Building to meet the need of entrepreneurs engaged in high-tech industries. In addition, warehouse is offered for storing and maintaining items, as well as for processing, sorting, wrapping and packing goods to be or shipped. JIEP provides a number of modern warehousing locations with high standards in an industrial area surrounded by greenery.<br>Electricity Provider: PT PLN (Persero)<br>Captive Coal Power Plant: nan<br>Captive Gas Power Plant: nan<br>Electricity Capacity Notes: nan<br>Electricity Capacity (MW): nan<br>Planned Electricity Capacity: nan<br>Estimated Electricity Capacity (MW): 189.05<br>Website: http://www.jiep.co.id<br>Tenants: Tenant Estate:
+PT Aalborg Industries, PT Abadi Barindo Autotech, PT Abadi Barindo Autotech, PT Agung Bumi Swadaya, PT Aica Indria, PT Aksara Grafika Pratama, PT Akzo Nobel Car Refinishes Industries, PT Alas Comodo Garment, PT Alkasa Indonesia, PT Alpena Bakti Karya, PT Andini Sarana, PT Anugrah Idealestari, PT Apora Indusma, PT Arman Investment Utama / Alam Dinamika PT (Air Oasis), PT Aro Abadiutama, PT Asap Abadi I, PT Assab Austenite Indonesia, PT Astra Agro Niaga, PT Astra Honda Motor, PT Balai Pustaka II, PT Bali Media (Bali Nirwana Resources), PT Balina Agung Perkasa, PT Balina Agung Perkasa, PT Bank Tiara Asia, PT Basuki Pratama Engineering, PT Beston Inti Perkasa, PT Beta Gasindo Agung, PT Bina San Prima, PT Bintang Rama Mandiri (Simplot), PT Bintang Toedjoe, PT BP-IPM Jaya, PT Bumi Kaya Steel Industries I, PT Bumi Kaya Steel Industries II, PT Bumiartha Purnakreasi / Anugerah Pharmindo Lestari, PT Cahaya Kencana Sakti I, PT Catur Aditya Sentosa, PT Cipta Media, PT Cipta Saksama Indonesia, PT Commotrade, PT Cotexi Inas, PT Daikin, PT Daya Baru Agung, PT Determinan Indah, PT Dharma Sarana Perdana/Aisin Indonesia, PT Diametral Involute, PT Dian Graha Elektrika (Siemens), PT Dian Rakyat II, PT Dic Astra Chemical, PT Dic Graphics, PT Dirgaputra Ekapratama, PT Distriversa Buanamas, PT DNP Indonesia, PT Dua Berlian, PT Easton Kaleris Indonesia, PT Edico Utama, PT Eka Wijaya Indah, PT Enseval Putera Megatrading Tbk., PT Eslar Utama, PT Expanda Metal Megah, PT Fajar Abadi Masindo, PT Federal Karyatama, PT Foseco Indonesia, PT FSCM Manufacturing Indonesia, PT Fuji Dharma Electric, PT Gaya Sastra Indah, PT Geteka Founindo, PT Ghanda, PT Gikoko Kogyo Indonesia, PT Glaxo Indonesia, PT Global Agrotek Nusantara, PT Grafika Multi Warna, PT Gramedia, PT Grand Kartech, PT Grundfos Pompa, PT Guna Elektro, PT Harfit International, PT Harja Busana, PT Herlina Indah, PT Hexindo Adiperkasa, PT Himalaya Properti, PT Holcim Beton, PT Ikapharmindo Putramas, PT Incap Seno, PT Indo Grafik Center, PT Indologistik Internusa Utama, PT Indonesia Steel Tube Works, PT Indria, PT Inico, PT Inkenas Agung, PT Intermas Tata Trading, PT Inti Medina, PT Inti Poly Metal, PT Jakarta Kyoei Steel, PT Jasola Gading, PT Java Books Indonesia, PT Jaya Konstruksi Manggala, PT Joenoes Ikamulya, PT Joenoes Tunggal, PT Johnson and Son Indonesia, PT Johnson Home Hygiene Products, PT Kabelindo Murni, PT Kalbe Farma Tbk., PT Karunia Kreasi Jaya, PT Karya Yasantara Cakti, PT Kayu Permata, PT Kemas Indah Maju, PT Kemas Indah Maju, PT Kemfoods, PT Khatulistiwa Ekadharma, PT Kimia Farma, PT Kirana Elok, PT Kuarta Powerindo, PT Kurnia Cita Prima, PT Lativi Media Karya (TV One), PT Leader Qualitex Indonesia, PT Lokomotif Eka Sakti, PT Mahakam Beta Farma, PT Mahakam Beta Farma, PT Makindo Perdana, PT Mangga Dua, PT Marketama Indah, PT Martina Berto, PT Martina Berto Tbk., PT Medifarma Laboratories, PT Mega Daya, PT Menjangan Sakti, PT Mensa Bina Sukses, PT Merapi Utama Pharma, PT Metapresindo Utama,  PT Metinca Prima Industrial Work, PT Metro Pos, PT Mitra Cipta Makmur, PT Mitra Pratama Listrindo, PT Moon Lion Industries, PT Morel Renee Parfum Multi Industries, PT Morita Tjokro Gearindo, PT Muarateweh Spring, PT Mulia Multi Mandiri,  PT Multi Guna Gas, PT Multi Mayaka, PT Multilahan Jasa Bumi, PT Multimas Nabati Asahan, PT Multisukses Jayasakti (Einfach), PT Naga Corigo Kencana, PT Naga Maseltraditama, PT Nagaraja Lestari (Plg Trade Centre), PT National Assemblers, PT Nicholas Laboratories Indonesia, PT Nobiputra Angkasa, PT Nojorono, PT Nugraha Purnama, PT Nusaputra Binamandiri, PT Nutrifood, PT Okurimono Indonesia, PT Pajak (Ktr. Perwkln.Dir.Jen Pajak), PT Pakubumi Semesta, PT Pamapersada Nusantara, PT Pamindo Tiga T, PT Panca Nabati Prakarsa, PT Pandu Siwi Sentosa, PT Pelangi Nusa Gemilang, PT Pem. DKI Jakarta (BP-IPM Jaya), PT Perdana Bangun Pusaka, PT Pertja, PT PI – Maraya, PT PIMSF Pulogadung, PT Pionirbeton Industri, PT Planet Electrindo, PT Plasticon Trijaya, PT PLN, PT PMK Mangga Dua, PT Powerlift Era Baru, PT PPG Coatings Indonesia, PT Prima Jabar Steel, PT Prima Kalplas, PT Pulogadung Steel (Pionier), PT Pulogadung Tempa Jaya, PT Putra Mandiri Metalindo, PT Putra Sumber Krida, PT Ratu Irama International, PT Razza Laras International, PT Repro Multi Warna, PT Rheem Indonesia, PT Rimba Sungkai, PT Royal Sultan Agung, PT Sahabat Harapan Nusantara, PT Sakima Indah, PT Santosa Putra Langgeng, PT Saptaguna Adinusa, PT Sarana Steel Corporation, PT Sari Ayu Indonesia, PT Sasakura Indonesia, PT Schneider Indonesia, PT Selatan Jaya Prima Perkasa, PT Shinto Lance Indonesia, PT Sinar Himalaya, PT Sinar Intermark, PT Sinar Meadow International Indonesia, PT Sinar Putra Pemuda, PT Skifa Ananta Dharma, PT Smart Corporation, PT Soho Industri Farmasi, PT Solo Murni, PT Spectra Global Utama, PT Sri Tokai Indonesia, PT Starpack Indah Maju, PT Sumber Bahagia Concern, PT Sumbergas Saktiprima, PT Summa Agung, PT Supitra, PT Swadaya Agung Perkasa, PT Swadaya Agung Pr.(Palm Terace), PT Technical Training Centre (BLPT), PT Tema Baru, PT Tempo Nagadi, PT The First National Glass Ware, PT Tiara Marga Trakindo, PT Tiga Berlian Electric, PT Tiga Jaya, PT Tiga Serangkai Pustaka Mandiri, PT Tira Austenite, PT Tirtobumi Adyatunggal, PT Tjokro Bersaudara Komponenindo, PT Tobu Indonesia Steel, PT Torishima Guna Indonesia, PT Torsina Redikon, PT Total Chemindo Loka, PT Traktor Nusantara, PT Tripower Generation Indonesia, PT Unijaya Pratama, PT Union Ceramics Utama, PT Unitama Pusaka Sempurna, PT Utama Jayatama Indah, PT Wahana Citra Nabati, PT Wahanalaksana Kertapradhana, PT Wahyu Abadi, PT Wastec International, PT Wijaya Indonesia Plastik, PT Wijaya Kusuma Emindo, PT Yamaha Indonesia, PT Yamaha Indonesia, PT Yamaha Music Mfg. Indonesia, PT Yolita Plasindopratama
+Tenant Property: 
+PT AKASHA WIRA INTERNATIONAL TBK, PT DIVA MITRA BOGATAMA, PT PRIMA GUNA HATTA, PT BNI’46, PT ARCELINDO, PT FILSUNG INDORAYA, PT TIGA FOODS INDONESIA (SEGEL), PT INAURA ANUGERAH, PT RAFA TOPAZ UTAMA, PT DIVA MITRA BOGATAMA, PT SUMBERDAYA SEWATAMA, PT TRIKEMASINDO LESTARI, PT TUNAS KREASI MAJU UNGGUL SAKTI, PT AALEN CHEMICALS INDONESIA, PT ITHIKHARA, PT NP FOOD INDONESIA, PT BINTANG TOEDJOE, PT MITRA FLEXITEK BERDIKARI, PT RUDITECH, PT FNB INDONESIA, PT MAJU JAYA MULYA¬†, PT SARANA SEJAHTERA ABADI, PT JAYA ECO¬†, PT MITRA FLEXITEK BERDIKARI, PT GALASARI, PT JAF GARMENT (SEGEL), PT BINA BUSANA INTERNUSA, PT FNB INDONESIA, PT ADHINATA KARYA, PT BPOM, PT HARENDRA (SEGEL), PT ADHINATA KARYA, PT HANSOL PLEATS, PT PLASTICON TRIJAYA, PT EKAMANT INDONESIA, PT JAYA SELARAS SEJAHTERA, PT SINERGIA BEAUTE INDONESIA, PT HA EON INDAH JAYA, PT ANUGERAH JAYA RETAILINDO, PT UD BERJAYA LENSA UTAMA, PT PRIMA VISTA SOLUSI, PT CNC DESIGN NUSANTARA, PT MEGAYASA TEKNOLOGI INDONESIA, PT EAST INDO FAIR TRADING, PT COSMEDERMI, PT PRIMA VISTA SOLUSI, PT GLOBAL MEGAH, PT BAKRIE TELCOM, PT HUTCHISON Telecom IND, PT WEST SIDE AGRITAMA, PT FARIYAN NUSANTARA, PT PT GLOBALPERMATA UTAMA, PT DIAN SWASTATIKA SENTOSA, PT MAESTRO BALINDO, PT SUMBERDAYA SEWATAMA, PT COSL INDO, PT FEDERAL KARYATAMA, PT SUMBERDAYA SEWATAMA, PT PEGADAIAN GALERY 24, PT COMPOSITE SOLUTIONS, PT DELAMETA BILANO, PT ADHINATA KARYA, PT COSL INDO, PT kerjasama Oxigen dgn DKI, PT PD PASAR DJAYA, PT INDRA KARYA, PT INDOKOMAS BUANA PERKASA, PT CNC DESIGN NUSANTARA, PT PASAR DJAYA, PT ASCCROFINDO MANUNGGAL, PT KIMIA FARMA, PT BIROTIKA SEMESTA, PT KINTETSU LOGISTIK INDONESIA, PT BANK CIMB, PT CHOLID TRIO LANANG, PT MITRA INTI TOP, PT INDOMARCO PRISMATAMA, PT BANK BNI, PT ABHINAYA, PT SAPTA PUTRA SEDAYA, PT APINDO DPD DKI JAKARTA, PT BANK BRI, PT BANK MANDIRI, PT INDOMARCO PRISMATAMA, PT TOTAL BUMI, PT KASIGMA SOLUSI INDUSTRI, PT COMPOSITE¬†, PT SUNANTO, PT HUTCHISON TELKOM IND, PT INTI BANGUN SEJAHTERA, PT KABUL JAYA ADVERTISING, PD HENAF, PT UD MEGAH ABADI, CV SARANA SEJAHTERA, PT AKAIDA FG & METAL, CV TRI KARYA MANDIRI, CV TRI KARYA MANDIRI, PT KARYA ABADI LESTARI, PT DIAN DWI PUTRA, PT. NIB Pratama Karya, CV AKAR JAYA PERKASA, PT. KREATIF JAYAMUDA MANDIRI, PT SAINS STEEL PRIMA, PT HALUAN UTAMA MAJU, PT CARAKA INTI PERKASA, PT JASA TEKNIK A & L, PT TUNAS MUKTI JAYA, PT SINAR JAYA TEKNIK, PT PUTRA JAYA TEKNIK, CV SARANA SEJAHTERA, PT ANUGERAH ABADI JAYA, PT TUNAS DAYA MUSTIKA, PT ANUGERAH ABADI JAYA, PT SUGIYAMA SURYA PERKASA, CV SINAR PERKASA ENGINEERING, PT NIAGA ABADI, PT DIMIKO SAPTA PERSADA, PT SUGIYAMA SURYA PERKASA, CV ZINTOSA, CV ANDHIKA PUTRA KENCANA, CV SEJAHTERA ABADI JAYA, CV ADIPRATAMA ENGINEERING, PT SARANA TEHNIK INTERNUSA, CV SINAR PERKASA ENGINEERING, ENDANG SUPENA SASMITA, CV BANGUN TIGA SELARAS, PT LESTARI GAYA DINAMIKA<br>Additional Sources: https://jiep.co.id/our-tenant/<br>Foreign Founder or Manager: nan<br>Foreign Tenants: nan<br>Foreign Company Involvement Notes: nan<br>Status Notes: In operation.<br>Status (Operational, Operational with Continued Construction, Under Construction, Before Construction, Unclear, Stalled): Operational<br>Year Operations Began: 1973.0<br>Year Construction Began: nan<br>Year Founded : nan<br>Dispute: nan<br>Dispute Explanation: nan<br>Environmental Concerns: nan<br>Mention of renewable energy: "JIEP Ecogreen Industrial Estate"<br>Electric Vehicle (Production Mentioned): nan<br>Nickel: nan<br>Main Industry: Mixed/General<br>Main Industry Notes: All major industries present<br>August 2023 Sentinel Check: nan<br>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_8dc02174f97c4f868aab7a5b7f86aff2 = L.marker(
+                [-6.14054, 106.93571],
+                {}
+            ).addTo(map_1cf1d1aa7fc7b4d357eda8c0fef36d83);
+        
+    
+            var icon_b2cff3c8bf4859a5f7ff7fda0db7c20d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_8dc02174f97c4f868aab7a5b7f86aff2.setIcon(icon_b2cff3c8bf4859a5f7ff7fda0db7c20d);
+        
+    
+            marker_8dc02174f97c4f868aab7a5b7f86aff2.bindTooltip(
+                `<div>
+                     
+    <strong>Kawasan Berikat Nusantara</strong><br>
+    Industrial Park Name: Kawasan Berikat Nusantara<br>Name (Ministry): Kawasan Berikat Nusantara<br>Manager (Ministry): PT. Kawasan Berikat Nusantara<br>Location English: Sukapura, North Jakarta City, Jakarta, Indonesia<br>Regency: North Jakarta City<br>Province: Jakarta<br>Size (ha): 594.7<br>Latitude: -6.14054<br>Longitude: 106.93571<br>Location Notes: nan<br>General Background: Nusantara Customs Zone (Kawasan Berikat Nusantara) is an export processing zone that is managed by PT. Kawasan Berikat Nusantara (KBN), and it has three locations in North Jakarta (Cakung, Tanjung Priok, and Marunda). KBN also provides one-stop service for the investors, such as approval of foreign investment, approval of domestic investment, masterlist of capital goods, permanent business license, limited importer’s identification number, certificate of origin (SKA), building permit. KBN also provides a total logistic system including export/import document handling services; trucking services; loading and unloading services (forklift, crane, reach stacker); warehouse/field rental services and container depots.
+KBN has a long story as an export processing zone in Jakarta. It is dated back to 1968, when the first company was established under the name of PT. Yado Warehousing. And finally, in 28 June 1986, the PT. Yado Warehousing changed the name to PT. Kawasan Berikat Nusantara.<br>Electricity Provider: PLN<br>Captive Coal Power Plant: nan<br>Captive Gas Power Plant: nan<br>Electricity Capacity Notes: "Have a premium electricity supply with unlimited capacity from PLN<br>Electricity Capacity (MW): nan<br>Planned Electricity Capacity: nan<br>Estimated Electricity Capacity (MW): 224.85607<br>Website: http://www.kbn.co.id/<br>Tenants: Cannot find on company site<br>Additional Sources: nan<br>Foreign Founder or Manager: nan<br>Foreign Tenants: nan<br>Foreign Company Involvement Notes: nan<br>Status Notes: In operation<br>Status (Operational, Operational with Continued Construction, Under Construction, Before Construction, Unclear, Stalled): Operational<br>Year Operations Began: 1968.0<br>Year Construction Began: nan<br>Year Founded : nan<br>Dispute: nan<br>Dispute Explanation: nan<br>Environmental Concerns: nan<br>Mention of renewable energy: nan<br>Electric Vehicle (Production Mentioned): nan<br>Nickel: nan<br>Main Industry: Mixed/General<br>Main Industry Notes: Export processing zone: export/import document handling services; trucking services; loading and unloading services (forklift, crane, reach stacker); warehouse/field rental services and container depots.<br>August 2023 Sentinel Check: nan<br>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_a7bd323ba09493db8f133475186c7764 = L.marker(
+                [-6.380226, 107.180984],
+                {}
+            ).addTo(map_1cf1d1aa7fc7b4d357eda8c0fef36d83);
+        
+    
+            var icon_c6d66d29573a032bffe78c42f6148283 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_a7bd323ba09493db8f133475186c7764.setIcon(icon_c6d66d29573a032bffe78c42f6148283);
+        
+    
+            marker_a7bd323ba09493db8f133475186c7764.bindTooltip(
+                `<div>
+                     
+    <strong>Kawasan Industri Terpadu Indonesia China</strong><br>
+    Industrial Park Name: Kawasan Industri Terpadu Indonesia China<br>Name (Ministry): Kawasan Industri Terpadu Indonesia China<br>Manager (Ministry): PT. Kawasan Industri Terpadu Indonesia China<br>Location English: Sukamahi, Bekasi Regency, West Java, Indonesia<br>Regency: Bekasi Regency<br>Province: West Java<br>Size (ha): 205.0<br>Latitude: -6.380226<br>Longitude: 107.180984<br>Location Notes: nan<br>General Background: China·Indonesia Economic and Trade Cooperation Zone Co., Ltd. (hereinafter referred to as the cooperation zone) is the first national-level overseas economic and trade cooperation zone set up by China in Indonesia that integrates industrial production, warehousing, logistics, and trade. It is also the first overseas economic and trade cooperation zone established by Guangxi. Overseas Economic and Trade Cooperation Window Park. Established in 2008, the cooperation zone is a large-scale overseas industrial park undertaken by Guangxi Agribusiness Group Corporation Co.,Ltd. It is located in the Indonesian capital of Greater Jakarta, in the central area of the industrial corridor in eastern Jakarta-the Yawan Economic Belt. In August 2016, the cooperation zone passed the confirmation assessment by the Ministry of Commerce and the Ministry of Finance.
+The overall planned area of the cooperation zone is 492.25 hectares, including 205 hectares in the first phase and 287.25 hectares in the second phase. The main functions and industrial positioning of the first phase are auto parts manufacturing, machinery manufacturing, deep processing of agricultural products, building materials, warehousing and logistics services ; the main functions and industrial positioning of the second phase are bonded logistics, fine manufacturing, intelligent manufacturing, commercial catering and hotel facilities. The overall goal is to build the cooperation zone into a modern international economic and trade cooperation zone integrating industrial production, commerce, warehousing and services, and important production, supply, marketing and warehousing distribution center for China's superior industries in Indonesia. The cooperation area has complete infrastructure such as roads, drainage, power supply, and communications, and has modern administrative office buildings and standard workshops available for lease. The surrounding environment is beautiful, municipal supporting facilities are complete, residential areas, commercial areas, banks,hospitals everything needed is ready.
+At present, the total investment in the cooperation zone is about 1.245 billion, and the total contractual investment of the cooperation zone and the enterprises in the park is 1.203 billion US dollars. There are more than 4,000 employees in the zone. There are 55 enterprises in the cooperation zone, including 28 Chinese-funded enterprises. It accounts for 50%, including well-known domestic companies such as China Xidian Group and Mengniu Dairy Group; and world-renowned companies from Indonesia, Japan, France, New Zealand, Finland, Malaysia and other countries and regions, such as French Schlumberger Service company (Fortune 500), New Zealand Fonterra Foods Company (the world's largest exporter of dairy products), Japan's Yamazaki Bread.
+At present, 36 enterprises in the cooperation zone have been completed and put into operation, and 9 enterprises are under construction. The investment fields involve agricultural products processing, food processing, machinery manufacturing, transformers, automobile assembly, warehousing and logistics and other industries. The industrial corridor where the park is located has gathered many well-known enterprises from China, Japan, South Korea, Taiwan and other countries and regions, and the industrial agglomeration effect is obvious. The second phase of the project will highlight the new era, new characteristics, and new requirements in terms of intelligence, industrialization, and integration, and fully reflect the current level of China's technological development, industrial development, and intelligent manufacturing. Indonesia's high-level economic and trade cooperation platform serves Chinese companies entering Indonesia, ASEAN, and even the world.
+<br>Electricity Provider: PLN<br>Captive Coal Power Plant: nan<br>Captive Gas Power Plant: nan<br>Electricity Capacity Notes: .7 yuan/kwh<br>Electricity Capacity (MW): nan<br>Planned Electricity Capacity: nan<br>Estimated Electricity Capacity (MW): 77.5105<br>Website: https://en.kitic.net/Company.html<br>Tenants: "There are 55 enterprises in the cooperation zone, including 28 Chinese-funded enterprises. It accounts for 50%, including well-known domestic companies such as China Xidian Group and Mengniu Dairy Group; and world-renowned companies from Indonesia, Japan, France, New Zealand, Finland, Malaysia and other countries and regions, such as French Schlumberger Service company (Fortune 500), New Zealand Fonterra Foods Company (the world's largest exporter of dairy products), Japan's Yamazaki Bread"
+Mengniu Dairy Indonesia, New Zealand Fonterra Dairy Indonesia, Japan Yamazaki, Japam Yamaguchi Logistics Indonesia, Sinotrans Indonesia, Shenzen Printing Technology Co. Ltd., Shuangshi Cement, Earth Steel, Konka New Materials, Tiger Star Building Materials, Sensheng Machinery, Wuhua Tianbao, Chinese XD Group Indonesia, Schlumberger Indonesia, <br>Additional Sources: nan<br>Foreign Founder or Manager: China<br>Foreign Tenants: nan<br>Foreign Company Involvement Notes: Co-founded by China<br>Status Notes: In operation since 2008<br>Status (Operational, Operational with Continued Construction, Under Construction, Before Construction, Unclear, Stalled): Operational<br>Year Operations Began: 2008.0<br>Year Construction Began: nan<br>Year Founded : nan<br>Dispute: nan<br>Dispute Explanation: nan<br>Environmental Concerns: nan<br>Mention of renewable energy: nan<br>Electric Vehicle (Production Mentioned): nan<br>Nickel: nan<br>Main Industry: Mixed/General<br>Main Industry Notes: The main functions and industrial positioning of the first phase are auto parts manufacturing, machinery manufacturing, deep processing of agricultural products, building materials, warehousing and logistics services ; the main functions and industrial positioning of the second phase are bonded logistics, fine manufacturing, intelligent manufacturing, commercial catering and hotel facilities.<br>August 2023 Sentinel Check: nan<br>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_4a2d40ada8dd4d53944cb9bad77fb060 = L.marker(
+                [-6.340598, 107.13636],
+                {}
+            ).addTo(map_1cf1d1aa7fc7b4d357eda8c0fef36d83);
+        
+    
+            var icon_ce6fe5c0bc3b10ae919187595a54b8b5 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_4a2d40ada8dd4d53944cb9bad77fb060.setIcon(icon_ce6fe5c0bc3b10ae919187595a54b8b5);
+        
+    
+            marker_4a2d40ada8dd4d53944cb9bad77fb060.bindTooltip(
+                `<div>
+                     
+    <strong>Bekasi International Industrial Estate</strong><br>
+    Industrial Park Name: Bekasi International Industrial Estate<br>Name (Ministry): Bekasi International Industrial Estate<br>Manager (Ministry): PT. Hyundai Inti Development<br>Location English: Cibatu, Bekasi Regency, West Java, Indonesia<br>Regency: Bekasi Regency<br>Province: West Java<br>Size (ha): 200.0<br>Latitude: -6.340598<br>Longitude: 107.13636<br>Location Notes: nan<br>General Background: Aiming to offer an optimal industrial site equipped with cutting-edge technologies to Korean manufactures that are eager to expand their business to the South East Asian region, Hyundai Corporation has established PT Hyundai Inti Development in Jakarta, Indonesia in 1990 as a joint venture with Lippo, Indonesia’s largest real estate/finance group.
+Situated 30 minutes to the east from Jakarta City, the 200 ha-large industrial park sits within Bekasi International Industrial Estate in Lippo Cikarang region. PT Hyundai Inti Development began its first plot presale in 1991, and so far 104 companies including 26 Korean corporations has set up their manufacturing bases in the park, churning out their competitive goods at full steam.<br>Electricity Provider: nan<br>Captive Coal Power Plant: 1.0<br>Captive Gas Power Plant: 1.0<br>Electricity Capacity Notes: Cikarang Listrindo<br>Electricity Capacity (MW): nan<br>Planned Electricity Capacity: nan<br>Estimated Electricity Capacity (MW): 75.62<br>Website: https://www.linkedin.com/company/kawasan-industri-hyundai/about/
+Their website is currently broken: https://www.hyundai-inti.com/<br>Tenants: PT. YOSANDORA ALUMINIUM, PT. YAYASAN SYIFA BUDI, PT. YANTEX BINA TRADING, PT. YAMACO INDO, PT. WOO IN, PT. WIRADEREKSINDO, PT. WILSON TUNGAL PERKASA, PT. VINOTINDO GRAHASARANA, PT. UNTUNG CHOPUTRA, PT. UNIPLASTINDO INTERBENUA, PT. UNIFLEK KEMASINDO, PT. UKESEUNG, PT. UD USAHA JAYA, PT. TRITUNGGAL SINARJAYA, PT. TRITOOLS INDONESIA, PT. TJIPARAJ PERMAI, PT. THREESTAR INDONESIA, PT. TETRASA GEOSINDO, PT. SURYA MANDIRI BUANA, PT. SURITAMA CONFORRINFO, PT. SUPRIMA ADIRASA FOOD, PT. SUNTER TUJUH INTAN, PT. SUMBER UTAMA SUMAKARSA, PT. SUMBER AGUNG CV, PT. SINAR SYNO KIMIA, PT. SINAR LUCKY PLASTIC, PT. SINAR BUMI CEMERLANG, PT. SHIN HEUNG INDONESIA, PT. SETIA INDUSTRINDO, PT. SERUNIGRAF JAYA SENTOSA, PT. SEPASANG NAGA, PT. SANTOSO BERSAUDARA, PT. SANOH INDONESIA, PT. RYOEI ETERNA INDONESIA, PT. RUTRAINDO PERKASA, PT. RONJU NUSA FOOD, PT. RAPPIPACK ASRITAMA, PT. RAMAWIJAYA GRAHA, PT. PUTRA PILE INDAH, PT. PULAU JAYA MANDIRI, PT. PRINTING INDONESIA MAHKOTA, PT. PRIMA PRINT CIPTA SUKSES, PT. PRESTOP BUMI RAYA, PT. PIEGON DONGAN INDONESIA, PT. PEMBINA GALINDA ELECTRONIC, PT. PACIFIC LABEL, PT. ORIENTAL ELECTRONIC INDONESIA, PT. ORIENTAL COMPUTER, PT. OLY SENTRA MANUFACTURING, PT. MUSTIKA LANGENG PLASTIC, PT. MULTI GRAHA INTI SETRA, PT. METAPLAS HARMONI, PT. MENARA MADU, PT. MEKAR SEMPURNA JAYA, PT. MARIA JOSEPHIEN, PT. LIPPO CITY DEVELOPMENT, PT. LICOLN AUSTENITE, PT. LIBERA PERSADA SEJAHTERA, PT. KWANSUNG ELECTRONIC, PT. KRISANTHIUM, PT. KORYS, PT. KORIN, PT. KIRTANA GROUP, PT. KHANERUN CEMERLANG, PT. KEPSONIC INDONESIA, PT. KENCANA JAYA UTAMA, PT. KEBAYORAN WARNA PRIMA, PT. KARBONINDO, PT. JOB SITE BEAUTY, PT. JAGAD BAJA PRIMA UTAMA, PT. ISTHA PERDANA UTAMA, PT. INTI GUNA AGUNG PERKASA, PT. INTI BINTANG CEMERLANG, PT. INTANCO PRECISION TOOLS, PT. INASCO KURNIA, PT. IMPACK PRATAMA INDUSTRI, PT. HYUNDAI WEGANTARA METAL, PT. HYUNDAI ERTI INDUSTRIAL SERVICE, PT. HUNG A INDONESIA, PT. HUMPUS LG INDONESIA, PT. HARMA SUMBER UTAMA, PT. HANS JANUAR SURIANI, PT. HANAM INDONESIA, PT. GEMA GRAHA SARANA, PT. GALVA KAMI INDUSTRI, PT. GALINDRA MULTI CIPTA,  PT. EPITERMA, PT. ENKEI INDONESIA, PT. EFENDI KUSNAEDI, PT. DYNAPLAST CUBIC, PT. DYNAPLAST, PT. DWIJAYATEX ADI GEMILANG, PT. DRUMASINDO PRATAMA, PT. DONG IL INDONESIA, PT. DAIMYUNG INDONESIA, PT. DAIDONG ELECTRONIC, PT. DAEWA LEATHER LESTARI, PT. CONTINENTAL SPRING PRODUCT, PT. CAHAYA PRIMA SENTOSA, PT. CAHAYA BENTENG MAS, PT. BUMIRAYA UTAMA, PT. BONDI INDAH, PT. BEUTINDO UTAMA ABADI, PT. BETASINARINDO, PT. BETADISINDO BINATAMA, PT. BATAPAINTS WARNA PRIMA KAWASAN HYUNDAI, PT. BANSBURY GLOBAL, PT. ASTAGUNA WISESA, PT. ANEKA BOILERINDOJAYA, PT. AMSTRONG INDUSTRI IND,  PT. AIRMAS PURAJAYA, PT. ADI PERKASA EKA BAKTI, PT. ABDI BANGSA                                   <br>Additional Sources: https://www.kawasanindustri.net/daftar-nama-alamat-pt-di-kawasan-industri-hyundai-lippo-cikarang.html
+This source aggregated companies using the location of the industrial park to create this list
+https://www.daftar.co/perusahaan-di-kawasan-hyundai/
+https://directorsdirectory.com/bekasi-international-industrial-estate/
+http://news.klikbekasi.co/2015/10/22/terbukti-kawasan-industri-hyundai-bekasi-cemari-lingkungan/<br>Foreign Founder or Manager: South Korea<br>Foreign Tenants: nan<br>Foreign Company Involvement Notes: South Korea - Hyundai<br>Status Notes: In operation<br>Status (Operational, Operational with Continued Construction, Under Construction, Before Construction, Unclear, Stalled): Operational<br>Year Operations Began: 1991.0<br>Year Construction Began: nan<br>Year Founded : nan<br>Dispute: Legal dispute with Indonesian government<br>Dispute Explanation: Improper disposal of waste from the Bekasi International Industrial Estate resulted in a lawsuit from the Bekasi Regency Government (see Environmental Concerns).<br>Environmental Concerns: Improper disposal liquid waste, environmental pollution
+news.klikbekasi.co, 10/22/2015: It has been proven that the Bekasi Hyundai Industrial Area pollutes the environment
+Bekasi International Industrial Estate (BIIE) or known as the Hyundai Industrial area has been proven to have polluted the surrounding environment. The disposal of factory liquid waste at Hyundai is not in accordance with regulations.
+"Hyundai admits its guilt," said Head of the Civil and Administrative Section of the Cikarang District Attorney Rolando Ritonga recently.
+Rolando said, Hyundai did not extend the liquid waste disposal permit (IPL C). Hyundai's industrial waste has also exceeded the quality standard threshold.
+"Results of a study by the Ministry of Environment, the Cikadu river, which flows into the CBL river to the sea, is experiencing extraordinary pollution due to Hyundai's waste disposal," said Rolando.
+The lawsuit was then settled for Rp. 2 billion
+On June 6, 2014, the Bekasi Regency Government sued PT Hyundai Inti Development in a civil lawsuit with a compensation value of IDR 16 billion.
+PT Hyundai Inti Development is the manager of the Hyundai industrial area and is responsible for permitting the disposal of liquid waste from local factories.
+The value of IDR 16 billion is determined based on calculations from the Ministry of Environment experts. "Compensation is calculated from 2010 to February 2014," said Rolando.
+Initially, the government and Hyundai negotiated out of court. Hyundai stated that it was only able to pay compensation of 147 million. The government refused.
+Hyundai then increased its offer to Rp 200 million, but the government still refused. Finally, Hyundai agreed to Rp 400 million. The government still refuses.
+“Finally brought to court. The government and Hyundai agreed on a figure of Rp 2 billion. It must be paid no later than November 2015. The money goes to the regional administration," said Rolando.
+In addition to paying Rp 2 billion, Hyundai is required to repair the sewage system so there will be no more pollution. Within 8 months, the canal repair should be completed.
+"If it doesn't complete the repairs within the allotted time, Hyundai will have to pay Rp 5 billion. That's the deal," he said.
+PT Hyundai Inti Development's lawyer, Army Mulyanto, explained that his client had paid Rp. 1 billion to the West Java Bank (BJB) account belonging to the Bekasi Regency Government.
+"Hyundai has paid Rp. 1 billion in early October. The drawback, another Rp. 1 billion, is paid no later than 30 days after the first payment," said Army.
+According to the Army, Hyundai is also working on repairing the sewage channel that will flow into the Cikadu River as agreed with the government.
+“Hyundai will fulfill all the agreements. As for channel repairs, Hyundai is currently repairing them," said Army.
+Just to note, the Hyundai Bekasi industrial area was built by PT Hyundai Inti Development on an area of ​​200 hectares in Bekasi Regency and was operational in 1991.
+PT Hyundai Inti Development is a joint venture between Hyundai Corporation (South Korea) and PT. Lippo Cikarang Tbk.
+PT Lippo Cikarang Tbk (Lippo Group) itself is a company that owns and manages a number of industrial estates in Bekasi Regency. These include the EJIP industrial area, Delta Silicon 1, 2, 3, 4, 5, 6 and 7. This includes Hyundai.
+Currently, Lippo Cikarang is also developing an area called Delta Silicon 8 on an area of ​​250 hectares. (Res)<br>Mention of renewable energy: nan<br>Electric Vehicle (Production Mentioned): nan<br>Nickel: nan<br>Main Industry: Mixed/General<br>Main Industry Notes: nan<br>August 2023 Sentinel Check: nan<br>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_edea9e8cd34e918a4afeba9b47602f2e = L.marker(
+                [-6.299393, 107.077132],
+                {}
+            ).addTo(map_1cf1d1aa7fc7b4d357eda8c0fef36d83);
+        
+    
+            var icon_8cb3e99d38f94cc8228286e5866dde71 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_edea9e8cd34e918a4afeba9b47602f2e.setIcon(icon_8cb3e99d38f94cc8228286e5866dde71);
+        
+    
+            marker_edea9e8cd34e918a4afeba9b47602f2e.bindTooltip(
+                `<div>
+                     
+    <strong>MM2100 Industrial Town BFIE</strong><br>
+    Industrial Park Name: MM2100 Industrial Town BFIE<br>Name (Ministry): MM2100 Industrial Town BFIE<br>Manager (Ministry): PT. Bekasi Fajar Industrial Estate, PT. Bekasi Mitra IE, PT. Bekasi Surya Pratama<br>Location English: Gandamekar, Bekasi Regency, West Java, Indonesia<br>Regency: Bekasi Regency<br>Province: West Java<br>Size (ha): 1700.0<br>Latitude: -6.299393<br>Longitude: 107.077132<br>Location Notes: nan<br>General Background: At the gateway to Indonesian and Asia Pacific market lies MM2100 Industrial Town, one of the most comprehensive business destinations as the best choice for a wide range of industrial services such as production, distribution and warehousing. Following a thorough feasibility study of the project, PT Bekasi Fajar Industrial Estate Tbk (BeFa) and PT Megalopolis Manunggal Industrial Development (MMID) both affiliates of Argo Manunggal Group, started the development of MM2100 Industrial Town in 1990.
+From Japanese automotive to leading local beverages, from European industrial solutions to large-scale logistic centers, countless products and services of over 300 top tenants have been flowing out of a premium industrial estate to fulfill demands all over Indonesia and the region. MM2100 continues to grow as an integrated and sustainable industrial town. They are here as the gateway to infinite possibilities and stand ready to partner with you and the community for the long term.<br>Electricity Provider: Provided by private power plant Cikarang Listrindo
+https://www.listrindo.com/investor<br>Captive Coal Power Plant: 1.0<br>Captive Gas Power Plant: 1.0<br>Electricity Capacity Notes: 755 MW<br>Electricity Capacity (MW): 755.0<br>Planned Electricity Capacity: nan<br>Estimated Electricity Capacity (MW): nan<br>Website: http://befa.id/<br>Tenants: Selected Tenants: Toyota, Daihatsu, Kawasaki, Yamaha, PT. Astra Honda Motor, Denso, Mitsubishi Motors, Astra Otopoarts, ASMO, KYB (Our Precision, Your Advantange), JX Nippon Oil and Energy, JFE, Sari Roti, Lotte, Indofood, CocaCola, Nutrifood, Diamond, Mayora, Ultrajaya, Yusen Logistics, Pantos Logistics, Mitsubishi Logistics, Li & Fung, Linfox, Syncrum Logistics, Unilever, Huawei, DHL, CJ, Tetra Pak, Hitachi Construction Machinery, Komatsu, Kobelco, Panasonic, Ohsung, Schneider Electric, Yamaha, LG, Indonet (Business enabler), Fujitsu, Astra International, Paramount Bed, Faber Castell, Hogy, Jotun, Mandom<br>Additional Sources: nan<br>Foreign Founder or Manager: Japan<br>Foreign Tenants: nan<br>Foreign Company Involvement Notes: PT. Megalopolis Manunggal Industrial Development (MMID) is the Indonesian subsidiary of Marubeni Corporation, a Japanese company.
+https://www.marubeni.com/en/news/2021/info/00021.html
+"PT. Megalopolis Manunggal Industrial Development (hereinafter, "MMID"), a development, sales and management company for the MM2100 Industrial Town (hereinafter, "MM2100") in which Marubeni participates in Indonesia, received the Special INDI 4.0 AWARD 2021 in the Smart Industrial Estate category at the INDI 4.0*1 AWARD selections held by the Indonesian Ministry of Industry.
+MMID promotes the improvement of services for tenant companies, introducing a space and energy-saving and odor-less wastewater treatment facility, water supply smart meters, and automatic drainage monitoring equipment. Furthermore, since 2021, MMID has developed and operated a service portal application with the aim of improving the efficiency of service provision for tenant companies. Through this application, MMID has been focusing on the digitization of the management of the industrial park, such as introducing digital invoices that allows users to check monthly bills online for water supply, waste water treatment and management services. Thanks to these achievements, MMID received the award.
+Marubeni has been contributing to the overseas expansion of Japanese companies, economic development of countries, as well as vitalization and employment promotion in the areas surrounding industrial parks, through the development, sales, management and operation of industrial parks in Asia for the past 30 years or more. Marubeni will continue to support the efficiency of tenant companies by digitalizing and making smart industrial parks, and further contribute to the development of emerging economies and local communities."<br>Status Notes: In operation<br>Status (Operational, Operational with Continued Construction, Under Construction, Before Construction, Unclear, Stalled): Operational<br>Year Operations Began: nan<br>Year Construction Began: nan<br>Year Founded : nan<br>Dispute: nan<br>Dispute Explanation: nan<br>Environmental Concerns: nan<br>Mention of renewable energy: nan<br>Electric Vehicle (Production Mentioned): nan<br>Nickel: nan<br>Main Industry: Mixed/General<br>Main Industry Notes: nan<br>August 2023 Sentinel Check: nan<br>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_a825e12ff17fe9eb43306f2ae18f49d3 = L.marker(
+                [-6.294455237, 107.0775576],
+                {}
+            ).addTo(map_1cf1d1aa7fc7b4d357eda8c0fef36d83);
+        
+    
+            var icon_aaca41236c9bf8cc4bf09ea44605baa2 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_a825e12ff17fe9eb43306f2ae18f49d3.setIcon(icon_aaca41236c9bf8cc4bf09ea44605baa2);
+        
+    
+            marker_a825e12ff17fe9eb43306f2ae18f49d3.bindTooltip(
+                `<div>
+                     
+    <strong>MM2100 Industrial Town MMID</strong><br>
+    Industrial Park Name: MM2100 Industrial Town MMID<br>Name (Ministry): MM2100 Industrial Town MMID<br>Manager (Ministry): PT. Megalopolis Manunggal Ind. Dev.<br>Location English: Gandasari, Bekasi Regency, West Java, Indonesia<br>Regency: Bekasi Regency<br>Province: West Java<br>Size (ha): 805.0<br>Latitude: -6.294455237<br>Longitude: 107.0775576<br>Location Notes: nan<br>General Background: nan<br>Electricity Provider: PT. CIKARANG LISTRINDO<br>Captive Coal Power Plant: 1.0<br>Captive Gas Power Plant: 1.0<br>Electricity Capacity Notes: "Unlimited capacity for any industrial requirement"<br>Electricity Capacity (MW): nan<br>Planned Electricity Capacity: nan<br>Estimated Electricity Capacity (MW): 304.3705<br>Website: https://mm2100.co.id/our-project/
+https://webapp.mmsplatform.co.id/company<br>Tenants: BEND.RUTIN KPBC TIPE A BEKASI, CV Bakti, Logique Digital Indonesia, MARIA THERESIA SUTEDJA, PT UNITED STEEL CENTER INDONESIA, PT. ABB SAKTI INDUSTRI, PT. AIR LIQUIDE INDONESIA, PT. AKS Precision Ball Indonesia, PT. Alpha Industries Indonesia, PT. Amasindo Bintang Cemerlang, PT. Argo Pantes, PT. ARINDRA CHANDRA BRATA, PT. Asahi Best Base Indonesia, PT. ASTRA HONDA MOTOR, PT. ASTRA OTOPARTS TBK, PT. Avidisc Crestec Interindo, PT. Bando Electronics Indonesia, PT. BANK CENTRAL ASIA TBK, PT. BANK MANDIRI ( PERSERO ) Tbk, PT. BEKASI FAJAR INDUSTRIAL ESTATE Tbk, PT. BEKASI MATRA INDUSTRIAL ESTATE, PT. Benua Sejahtera Kertas, PT. CAHAYA KALIMAS UTAMA, PT. Chubb Safes Indonesia, PT. CIPTAJAYA KREASINDO UTAMA, PT. Coca-Cola Bottling Indonesia, PT. Crestec Indonesia, PT. DAE IN TECH INDONESIA, PT. DAIDO SP INDONESIA, PT. Daido Metal Indonesia, PT. Daya Kobelco Construction Machinery Indonesia, PT. DCI INDONESIA TBK, PT. Denko Wahana Industries, PT. Denso Indonesia, PT. Denso Manufacturing Indonesia, PT. Dharma Maruwa Garment Indonesia, PT. Diamond Cold Storage, PT. Diamond Diaci Anugrah Jaya, PT. DIAN LESTARI SEJAHTERA, PT. Dongju Raya Indonesia, PT. Dunia Kimia Jaya, PT. Dyson Zedmark Indonesia Limited, PT. EMBLEM ASIA, PT. Enomoto Srikandi Industries, PT. Faber-Castell International Indonesia, PT. Federal Nittan Industries, PT. FRAMAS INDONESIA, PT. Fukusuke Kogyo, PT. Fukusuke Kogyo Indonesia, PT. Fukuyama Giken Indonesia, PT. Fumira G.I. Sheets Colorcoat Factory, PT. Goo Indonesia Chemical, PT. GS ELECTECH INDONESIA, PT. Hab Dong Indo, PT. Haldin Pacific Semesta, PT. Hanken Indonesia, PT. HANKYU HANSHIN LOGISTICS INDONESIA, PT. Hanwa Steel Service Indonesia, PT. Hasura Mega Gemilang, PT. Higashifuji Indonesia, PT. Hijau Elektronika Indonesia, PT. HISADA INDONESIA, PT. HITACHI ASTEMO BEKASI POWERTRAIN SYSTEMS, PT. Hogy Indonesia, PT. Honda Lock Indonesia, PT. HRS INDONESIA, PT. Ichikoh Indonesia, PT. Igas Utama, PT. INDOCATER, PT. INDOINTERNET TBK, PT. Indomak Kitacipta Karya, PT. INDONESIA COMNETS PLUS,  PT. Indonesia Shibaura Wing, PT. Inter Candy Utama, PT. JAWA TRANS INTERNUSA, PT. JFE SHOJI STEEL INDONESIA, PT. JFE STEEL GALVANIZING INDONESIA, PT. Jotun Indonesia, PT. JST INDONESIA, PT. Kansai Paint Indonesia, PT. KAWANISHI WAREHOUSE INDONESIA, PT. Kawashima Engineering Plastic Indonesia, PT. KAYABA INDONESIA, PT. KDS Indonesia, PT. Kojin Indonesia, PT. KOMATSU INDONESIA, PT. Kotera Indonesia, PT. Koyorad Jaya Indonesia, PT. KYB Hydraulics Manufacturing Indonesia, PT. Lakta Aroma Indonesia, PT. LG ELECTRONICS INDONESIA, PT. Lotte Indonesia, PT. LX PANTOS JAKARTA, PT. MANDOM INDONESIA Tbk, PT. Maruhachi Indonesia, PT. MAYORA INDAH TBK, PT. MECCAYA, PT. Mega Manunggal Property, PT. Meiwa Mold Indonesia, PT. Menara Cipta Metalindo, PT. Mikuni Indonesia, PT. MITRA PINASTHIKA MUSTIKA RENT, PT. Mitsuba Indonesia Pipe Parts, PT. Mitsubishi Logistics Indonesia, PT. MMC METAL FABRICATION, PT. Nanbu Plastics Indonesia, PT. Nihon Chemical Indonesia, PT. Nippisun Indonesia, PT. Nippon Steel Logistics Indonesia, PT. NOF MAS CHEMICAL INDUSTRIES, PT. NOK Indonesia, PT. NS BLUESCOPE INDONESIA, PT. NSK BEARINGS MANUFACTURING INDONESIA, PT. NSK- WARNER INDONESIA, PT. NTT Global Data Centers Indonesia, PT. NUSA HADI CITRA HARMONIS, PT. Nusa Toyotetsu, PT. NX SHOJI INDONESIA, PT. Ohtomi, PT. OKSHA Teknologi Indonesia, PT. Okurimono Indonesia, PT. ORIENTAL ASAHI JP CARTON BOX, PT. Panasonic Industrial Components Indonesia, PT. Paramount Bed Indonesia, PT. Parker Metal Treatment Indonesia, PT. PHC Indonesia, PT. POS INDONESIA, PT. POSMI STEEL INDONESIA, PT. PRASADHA PAMUNAH LIMBAH INDUSTRI, PT. Prasida Intijaya, PT. PRASIDHA INTI JAYA, PT. Preformed Line Products Indonesia, PT. PRINCETON DIGITAL GROUP DATA CENTRES, PT. PROGRESS TOYO INDONESIA, PT. RAYOVAC BATTERY INDONESIA, PT. RESIN PLATING TECHNOLOGY, PT. Rhythm Kyoshin Indonesia, PT. RIKEN INDONESIA, PT. ROKI INDONESIA, PT. SANKEI GOHSYU INDUSTRIES, PT. Sanken Indonesia, PT. Sankyo Indonesia, PT. SANYANG INDUSTRI INDONESIA, PT. Sanyo Special Steel Indonesia, PT. SATO LABEL INDONESIA, PT. SATRIA MANUNGGAL PETROLINDO, PT. SBP INDONESIA, PT. Seiwa Indonesia, PT. SEKISO INDUSTRIES INDONESIA, PT. Sekisui Polymatech Indonesia, PT. SENTRA KEMIKA PERSADA, PT. Setia Guna Sejati, PT. Shibaura Shearing Indonesia, PT. Shinsei Denshi Indonesia, PT. SHINTO KOGYO INDONESIA, PT. SINAR KEMUNING LOGISTIK, PT. SLIONTEC EKADHARMA INDONESIA, PT. Sohou Kikaku Indonesia, PT. Spil Logistik Properti, PT. SUDO MANUFACTURING INDONESIA, PT. SUGITY CREATIVES, PT. Sukanda Djaya, PT. Sumber Kita Indah, PT. SUMCO INDONESIA, PT. Sumitomo Electric Wintec Indonesia, PT. Sunrise Indonesia, PT. SUNSTAR ENGINEERING INDONESIA, PT. Super Steel Karawang, PT. TAKAI SEIKI INDONESIA, PT. TAKENAKA INDONESIA, PT. TECO ELEKTRO INDONESIA, PT. TENMA INDONESIA, PT. Tiga Karunia Indonesia, PT. TIRTA ALAM SEGAR, PT. TOKYO SEIMITSU BUHIN INDONESIA, PT. TOPLA ABADI JAYA, PT. Toyo Denso Indonesia, PT. Toyo Seal Indonesia, PT. TOYORIKO INDONESIA, PT. TOYOTA ASTRA MOTOR, PT. Toyota Auto Body - Tokai Extrusion, PT. TOYOTA BOSHOKU INDONESIA, PT. Toyota Tsusho Logistic Center, PT. Toyota Tsusho Mechanical Engineering Service Indonesia, PT. TPR Enpla Indonesia, PT. TRI CENTRUM FORTUNA, PT. Tsuchiya Manufacturing Indonesia, PT. Umeda Factory Indonesia, PT. UMETOKU INDONESIA ENGINEERING, PT. URC Indonesia, PT. WAHANA DIRGANTARA, PT. Wira Logitama Saksama, PT. WOOIN, PT. Yamada Indonesia, PT. Yamaha Indonesia Motor Manufacturing, PT. Yamaha Motor Electronics Indonesia, PT. YAMAHA MOTOR MOLD INDONESIA, PT. YAMAHA MUSIC MANUFACTURING ASIA, PT. Yasufuku  Indonesia, PT. YTK INDONESIA, PT. Yusen Logistics Solutions Indonesia, PT. YUTAKA MANUFACTURING INDONESIA                <br>Additional Sources: nan<br>Foreign Founder or Manager: Japan<br>Foreign Tenants: nan<br>Foreign Company Involvement Notes: PT. Megalopolis Manunggal Industrial Development (MMID) is the Indonesian subsidiary of Marubeni Corporation, a Japanese company.
+https://www.marubeni.com/en/news/2021/info/00021.html
+"PT. Megalopolis Manunggal Industrial Development (hereinafter, "MMID"), a development, sales and management company for the MM2100 Industrial Town (hereinafter, "MM2100") in which Marubeni participates in Indonesia, received the Special INDI 4.0 AWARD 2021 in the Smart Industrial Estate category at the INDI 4.0*1 AWARD selections held by the Indonesian Ministry of Industry.
+MMID promotes the improvement of services for tenant companies, introducing a space and energy-saving and odor-less wastewater treatment facility, water supply smart meters, and automatic drainage monitoring equipment. Furthermore, since 2021, MMID has developed and operated a service portal application with the aim of improving the efficiency of service provision for tenant companies. Through this application, MMID has been focusing on the digitization of the management of the industrial park, such as introducing digital invoices that allows users to check monthly bills online for water supply, waste water treatment and management services. Thanks to these achievements, MMID received the award.
+Marubeni has been contributing to the overseas expansion of Japanese companies, economic development of countries, as well as vitalization and employment promotion in the areas surrounding industrial parks, through the development, sales, management and operation of industrial parks in Asia for the past 30 years or more. Marubeni will continue to support the efficiency of tenant companies by digitalizing and making smart industrial parks, and further contribute to the development of emerging economies and local communities."<br>Status Notes: In operation<br>Status (Operational, Operational with Continued Construction, Under Construction, Before Construction, Unclear, Stalled): Operational<br>Year Operations Began: nan<br>Year Construction Began: nan<br>Year Founded : nan<br>Dispute: nan<br>Dispute Explanation: nan<br>Environmental Concerns: nan<br>Mention of renewable energy: nan<br>Electric Vehicle (Production Mentioned): nan<br>Nickel: nan<br>Main Industry: Mixed/General<br>Main Industry Notes: nan<br>August 2023 Sentinel Check: nan<br>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_2743b9c495f3d6aa5a829e4d788a1915 = L.marker(
+                [-6.296642, 107.168451],
+                {}
+            ).addTo(map_1cf1d1aa7fc7b4d357eda8c0fef36d83);
+        
+    
+            var icon_49298f0f69edf78b7145047e179310da = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_2743b9c495f3d6aa5a829e4d788a1915.setIcon(icon_49298f0f69edf78b7145047e179310da);
+        
+    
+            marker_2743b9c495f3d6aa5a829e4d788a1915.bindTooltip(
+                `<div>
+                     
+    <strong>Kawasan Industri Jababeka</strong><br>
+    Industrial Park Name: Kawasan Industri Jababeka<br>Name (Ministry): Kawasan Industri Jababeka<br>Manager (Ministry): PT. Jababeka Infrastruktur<br>Location English: Mekarmukti, Bekasi Regency, West Java, Indonesia<br>Regency: Bekasi Regency<br>Province: West Java<br>Size (ha): 2267.0<br>Latitude: -6.296642<br>Longitude: 107.168451<br>Location Notes: nan<br>General Background: The Jababeka Industrial Estate is the first modern Indonesian eco-industrial estate and jointly developed with ProLH GTZ under a technical cooperation program collaboratively established by Indonesia’s Ministry of Environment and the Republic of Germany. Since its establishment in 1989, Jababeka Industrial Estate has been acknowledged as the most successful industrial estate in Indonesia in terms of attracting multinational companies (MNCs), leading local companies and small & medium enterprises.
+
+It spans more than 2,000 hectares and contains more than 2,000 local and multinational corporations from 30 countries, such as USA, Japan, France, UK, The Netherlands, Australia, Korea, Singapore, Taiwan, Malaysia, and numerous others.
+
+The estate offers a comprehensive one-stop industrial development solution that is beneficial for virtually any type of enterprise. It is our best interest to provide the most comprehensive and fully-integrated industrial estate in order to create a base from which the industrial sector can best flourish and profit. In so doing, we will strategically be in line with our endeavor to maintain Jababeka’s market leadership position as the provider of remarkable value-added land.<br>Electricity Provider: Cikarang Listrindo, Bekasi Power, PLN<br>Captive Coal Power Plant: 1.0<br>Captive Gas Power Plant: 1.0<br>Electricity Capacity Notes: 1000Mw<br>Electricity Capacity (MW): 1000.0<br>Planned Electricity Capacity: nan<br>Estimated Electricity Capacity (MW): nan<br>Website: http://www.jababeka.com/industrial
+https://jababekaindustrial.com/
+<br>Tenants: From official website: Over 2,000, including Mattel, Unilever, United Tractors, Samsung Electronics, ICI, KAO, Akzo, Nobel, Nissin, Chemarome Indonesia.
+From kilaskerja.com:
+PT. Ades Alfindo Putrasetia, PT. Adian Cempaka Raayyanti, PT. AE Autmtion Indonesia, PT. Aerosolindo Indah, PT. Ahara Prima Desigen, PT. Air Liquide Indonesia, PT. Aneka Gas Industri, PT. Anjungan Parma, PT. Anser Raya Insonesia, PT. Anugrah Yonaseprima, PT. Arlene Jayamandiri, PT. ART WIRE, PT. Arvico Electronics Indonesia, PT. Asahi Cipta Prima, PT. Asahi Diamond Industrial indonesia, PT. ASIA CHANNEL OTOPARTS, PT. Asia Dwisindo Jaya, PT. ASIA HONDA INDONESIA, PT. Asia linkindo, PT. ASIANET SPRING INDONESIA, PT. Asiatec Fujisawa Mfg. Indonesia, PT. ASSINDO PERNIAGAAN INTERNASIONAL, PT. Assosiasi Perdagangan Internasional, PT. Astech Indonesia, PT. Asti Panji Dikatama, PT. Ausdoc Geoservices Indonesia / Peter arista pramana, PT. Avery Denison Indonesia, PT. Aviesta Wedding Produc, PT. Ayumas Saddesa, PT. Bali Asri Nusa, PT. Bangkit Maju Wijaya, PT. Bank Negara Indonesia 46, PT. Banshu Electric Indonesia, PT. Banshu Plastic Indonesia, PT. Batawell, PT. Belivingindo Sejahtera, PT. Berlei Indonesia, PT. Bernadi Patria Selaras, PT. Bernadi Utama, PT. Bernard M. H. Yeo, PT. Bestarindo Mandiri, PT. Betso Tech Indonesia, PT. Bigjoe Chemicals Indonesia, PT. Bina Jaya Optimal, PT. Bina Mentari Tunggal, PT. Bina Niaga Multiusaha, PT. Bina Reksi Utama, PT. Binkomara Huma, PT. Bintang Abadi Sejahtera, PT. Birotika Semesta, PT. Block Buster Besrati, PT. Blu Box Farnaz / Muara Tirta Boga, PT. BOC Gases Indonesia, PT. Borobudur Agung Perkasa, PT. Brataco Chemical, PT. Bridor Indonesia, PT. BS Indonesia / Taebong Elc., PT. Budi Daya Remaja, PT. Budi Surya Teknik, PT. Budi Witjaksono, PT. Bukit Baja Nusantara, PT. Bumi Cikarang Steel Industries, PT. Bumi Kaya Steel Industries, PT. Bumi Mulia Indah Lestari, PT. Bumi Polymas Industries, PT. Bumia Biofac Indonesia, PT. Bumimulia Indah Lestari, PT. Bumiraya Megaprima, PT. Bumi Polimas Industries, PT. Brugmann Indonesia, PT. Busfimac Indonesia, PT. Byung Hwa Indonesia, PT. C & P Indonesia, PT. Cahaya Indotama Enginering, PT. Cahaya Kalbar, PT. Cahaya Kalimantan Indah / Sinar Harindotama, PT. Cahaya Miitra Suksestama, PT. Cahaya Sam Perindasan, PT. Cahaya Sukses Mandiri, PT. Cahayatama Kumala Makmur, PT. Cahayatiara Mustika Scientific Indonesia, PT. Capitol Gravure Industries, PT. Capung Indah Abadi, PT. Casco Persada Indonesia, PT. Casuarina semesta, PT. Catra Nusantara Bersama, PT. Catur Khita Persada, PT. Catur Madrakarsa Mandiri, PT. Centrado Prima Inti, PT. Central Audio Mobil Service, PT. Centraltekindo Dwilestari, PT. Certechs Indonesia, PT. Chakraprima Gitanusa, PT. Champion Kurnia Djaja Technologies, PT. Chandra Silamas, qq / Lamberti Indonesia, PT. Chang Chun Duta Pertiwi Nusa Chemical Industry,  PT. Cheh Hwa Indonesia, PT. Chemco Harapan nusantara, PT. Chemoko Eka Perkasa, PT. Cheong Huat Plastic, PT. Cheong Huat Plastic / Pandawa Sembada, PT. Chertechs Indonesia, PT. Chin Seob Lim / Alimindo Sejati, PT. Chiyoda Kogyo Indonesia, PT. Cho Yong Ho, PT. Chon Poong Indonesia, PT. Christine Setyadi, PT. Cigweld, PT. Cika Tunas Mulia, PT. Cikarang Asri Tehnik Utama, PT. Cikarang Listrindo, PT. Cikarang Presisi, PT. Cikarang Primatex, PT. Cipta Guna Adyadarma / Figorex Indonesia, PT. Cipta Pesona Agung, PT. Cipta Piranti Tehnik, PT. Conitex Sonoco Indonesia, PT. Cosmindo Warna Sejati, PT. CSR Prima Karya Plasterboard, PT. Dae Young Indonesia, PT. Daelim Indonesia, PT. Daewoo Electronics Indonesia, PT. Dairygold Indonesia, PT. Daxen Indonesia, PT. Daya Komponen Prolog, PT. Dempoo Mandiri Indonesia, PT. Der Ruey Electronics Indonesia, PT. Design Shop Prima International, PT. Dharma Electrindo Manufacturing, PT. Difan Prima Paint, PT. Dinamika Inti Surya Cemerlang, PT. Dinamika Wijaya Kusuma, PT. DMC Teknologi Indonesia, PT. Dongsan Indonesia, PT. Dongwoo Environmental Indonsia, PT. Doowon Precision Indonesia, PT. Durachem Indonesia, PT. Duta Firza, PT. Dwitunggal Eka Tama, PT. Dyno Oil Field Chemicals Indonesia, PT. Eagle Burgmann Indonesia, PT. Ecolab Indonesia, PT. Emson-Ongko Indonesia, PT. Endelica, PT. Enfandy Dharma, PT. Essence Indonesia, PT. Este Komindo, PT. Etona Abadi /Top Food Indonesia, PT. Fashion Indonesia Art, PT. Fastindo Piranti Kabel, PT. Federal Superior Chain MFG, PT. Ferron Par Pharma Ceutical, PT. Festo, PT. Foodex Inti Ingredientas, PT. Foodindo Dwi Vastamas, PT. Foster Isolasi Buana, PT. Frigorex Indonesia, PT. Fuches Indonesia/ Interkimia Mekar Jaya, PT. Fuches Indonesia/ Interkimia Mekar Jaya, PT. Fuji Gravure Cyllnders, PT. Fuji Lin Indo Enterprise, PT. Fuji Selimitsu Indonesia, PT. Fukoku Indonesia, PT. Futurinsan Sonsindo, PT. Garitcindo Cipta Prima, PT. Geasindo Teknik Pratama, PT. General Teknik, PT. Geoservices Ltd QQ, PT. Global Steel Indonesia, PT. Golden Time Co. Ltd., PT. Good Food Indonesia, PT. Grace Specialty Chemicals Indonesia, PT. Grafindo Mitrasemesta, PT. Grafitecindo Cipta Prima, PT. Grahatama Wira Kontrindo, PT. Gunungsari Widiatama Jaya, PT. Haluan Cipta Maju, PT. Harapan Mandiri Utama, PT. Harnessindo Tunggal, PT. Harsa Wira Sakti, PT. Hatada Masindo, PT. Hayashi Unggul Industry, PT. Hcl Converting Equipment, PT. Hendra Setiadi, PT. Henoch Jaya, PT. Hibex Indonesia, PT. Hinodhika Gurinda Jaya, PT. Hioe Masuki Kusuma, PT. Hoe Leong Corp, PT. Hokuriku United Forging Industry, PT. Hoppecke Indonesia, PT. Hume Concrete Indonesia, PT. Humpuss Trading, PT. Hung Brothers Makmur, PT. Hunter Douglas Indonesia, PT. Hyop Woo Dunia, PT. Hyop Woo Indonesia, PT. ICI Paints Indonesia, PT. ICI Surfactans {Uniqema Indonesia}, PT. Ihaka Kharisma, PT. Ik Precision Indonesia, PT. Ikimura Indotools Center, PT. Indoexpress Corporation, PT. Indoktor Indnesia, PT. Indonesian Marine Corp Ltd, PT. Induk Sarana Kemasindo, PT. Inkomas Lestari, PT. Inmac Sejahtera, PT. Intaglo Jakarta, PT. Intan Jaya Medika Solusi, PT. International Coatings, PT. Inti Marindo Primacon, PT. Inti Presisi Toolsindo, PT. Intidana Adimandiri, PT. Intipraja Tekno Industri, PT. Intraparr Nusantara, PT. IPD Indonesia/Hsin Yi Su, Mr,, PT. Isolite Insulting Product Co Ltd, PT. Istana Warna Cat Indah, PT. Jaeil Indonesia, PT. Jaindo Metal Industries, PT. Jakarta Food Industri, PT. JIT Electronics Ltd., PT. Kaiden Multi Rekatama, PT. Kalimasada Pusaka, PT. Kamiba Indojaya, PT. Kao Indonesia, PT. Karang Buana Indah, PT. Karsa Indira Makarya, PT. Karya Pratama Dunia, PT. Karya Tunas Mustika, PT. Kastraco Engineering, PT. Katstraco Engineering, PT. KATSUSHIRO INDONESIA, PT. Katup Mas Kompresotama, PT. KMK Plastic Indonesia, PT. Knorr Indonesia, PT. Kodja Terramarin, PT. Koiex, PT. Koike Cermin Indonesia, PT. Koki Sanel Indonesia, PT. Komatsu Under Carriage Indonesia, PT. Kompartindo Ekaprasetya, PT. Kompresindo Utamajaya, PT. Korea Orient Technology Indonesia, PT. Kostec Indonesia, PT. Kotindo Indah Maju, PT. Kumala Megah Tata, PT. Kurita Indonesia, PT. Kwang Jin Indonesia, PT. Kyoei Denki Indonesia, PT. Lam Seng Hang Indonesia, PT. Laser Metal Mandiri, PT. Lawa Kencana, PT. Lazuardi Rukun Perkasa, PT. Lembahsindo Intimanunggal, PT. Libra Emas Permata, PT. Lumbaxstrixlumba Bogarasa, PT. Madusari Nusaperdana, PT. Mah Sing Indonesia, PT. Mahkota Budaya Indah, PT. Makitamega Makmur Perkasa, PT. Makoto Jaya Abadi, PT. Malkelindo Aneka Cipta, PT. Mandala Cakra Buana Sakti, PT. Mane Indonesia, PT. Master Label, PT. Mastrada Surya, PT. Matsumotoyushi Indonesia, PT. Mattel Indonesia I, PT. Mattel Indonesia II, PT. Maxenak Indonesia, PT. MBT Indonesia, PT. Mec Indonesia, PT. Mega Kemiraya, PT. Megaplast Jayacitra, PT. Megatama Spring, PT. Megatech Ciptanusa, PT. Mekasindo Dharma International, PT. Melji Rubber Indonesia, PT. Menara Terus Makmur, PT. Menawan Arsijaya, PT. Mepoly Industry, PT. Metalindo Estetika Dimensi, PT. Ming Da Indonesia, PT. Ming Da Indonesia, PT. Ming Horng Industry, PT. Mitindo Usaha Sejati, PT. Mitra Asmoco Utama,  PT. Mitra Bina Reka Niaga, PT. Mitra Chemical Mullatama, PT. Mitra Internasional, PT. Mitra Project Fitting Pipe Utama, PT. Mitragondala Kreasi Prima, PT. Modagrafics Auto Indonesia, PT. Nafiri Pola Lestari, PT. Nagogo Karejo Hagabeon, PT. Namia Nusa Indah, PT. NIC IIndonesia, PT. Nicorindo Baja, PT. Niparindo Saritama, PT. Nippon Indosari Corporation, PT. Nipsea Paint and Chemicals CoLtd, PT. Nirmala Beauty Indonesia, PT. Nirmala Trinti Indonesia, PT. Norasti Bangun Sejati, PT. Nurwan Sutedja, PT. Nusa Integra, PT. O K Chinese Herbal Medicine Mfg. Co, PT. Ochiai Menara Indonesia, PT. Olahan Sawit Persada, PT. Pandawa Sembada, PT. Pandu Sena Swajaya, PT. Papyrus Sakti, PT. PASCALINDO SMASHHIT CHROME, PT. Pema Meta Presindo, PT. Penta Buana Duta, PT. Penta Kimia Selaras, PT. Perajutan Abadi, PT. Perusahaan Industry, PT. Pido Trading Company, PT. Pido Trading Company, PT. Pido Trading Company, PT. Pimurho, PT. Polywin Indonesia, PT. Potters Intsia Indonesia, PT. Prana Cipta Mulia, PT. Prestasi Cahaya Metalindo, PT. Prima Kompanindo, PT. Primasindo Makmur Kencana, PT. Primer Concordia Prakarsa, PT. Printec Perkasa, PT. Printec Perkasa, PT. Procoat Energi Baru, PT. Promas Daya, PT. Promas Paketindo Sejati, PT. Putra Hankuk, PT. Ratna Dewi Tunggal Abadi, PT. Ratna Dwi, PT. Ratu Berlian Chroniccle, PT. Reckit & Colman Indonesia,  PT. Reckitt & Colman Indonesia, PT. Reckitt & Colman indonesia, PT. Rejeki Adigraha, PT. Rekatama Alam Mandiri,  PT. Rekindo Abaditama, PT. Roda Cipta Inti Harum, PT. Rodamas, PT. ROKU MITRA TEKNIKATAMA, PT. Rolimex corp, PT. Romindo Primavetcom, PT. Rudolf Poly Chemical, PT. Safana Mahoni, PT. Samhongsa Motor Indonesia, PT. Samjin Indonesia, PT. Samsung Electronics Indonesia, PT. San Miguei Sampoerna Packaging Industries Limi, PT. Sankyu Indonesia International, PT. Sarana Chrome Persada, PT. Sarana Grafika Indonesia, PT. Sari Takagi Elok Produk, PT. Saripangan Mulia Sutidja, PT. Sedapindo Trijaya, PT. Seimisu Indonesia, PT. Sentosa Eka Perdana Prima, PT. Sentramas Bangun Makmurindo, PT. Seoul Electric System indonesia, PT. Servo Indonesia, PT. Sess Indonesia, PT. Setia Pesona Cipta, PT. Showa Indonesia Manufacturing, PT. Showa Indonesia Manufacturing, PT. Shuuket Engineering, PT. Siap Mandiri, PT. Sin Siong Men, PT. Sinasahi Solder Indonesia, PT. Sitech Indonesia, PT. Soen Yenny Yuliana, PT. Star Limo / Starasauto Dinamika, PT. STILMETINDO PRIMA, PT. Strok Screens Indonesia, PT. Sukmaco Eka Furnia, PT. Sukses Medicom Presisi, PT. Sumatera Inti Persada, PT. Sumber Aneka Karya Abadi, PT. Sumber Karya, PT. Sumber Makmur Lestari, PT. Sumiko Tec Pacific, PT. Super Intermetal Abadi, PT. Supernova Flexible Pacakging, PT. Surya Anugerah Setiaabadi, PT. Swadaya Harapan Nusantara, PT. Tae Bong Electronics Indonesia, PT. Tai Electronic Indonesia, PT. Taiyo Giken Kogyo Co. Ltd., PT. Takita Manufacturing Indonesia, PT. Tambuntua Bersaudara, PT. Tanuri Husatama, PT. Tata Kompanika, PT. Teh Hsin Industry Indonesia, PT. Tekpak Indonesia, PT. Teksindo Delta Jaya, PT. Tekun Asas Sumber Makmur, PT. Terali Alumunium Perkasa, PT. Tesso Tepra Chemika, PT. Thai Plywood Co Ltd, PT. Thermadyne Utama Indonesia, PT. Timur Raya Karya Mandiri, PT. Tirta Harum Pentatok, PT. Tivent Lilia Sejahtera, PT. Tji David Tjahyadi qq, PT. TJOKRO BERSAUDARA CIKARANGINDO, PT. TOKYO SEIKO INDONESIA, PT. Tolling Manufacture Industri, PT. Totan Global Indonesia, PT. Toya Konsep Alam, PT. Traktor Nusantara, PT. Tri Integral Enginnering, PT. Tri Wall Indonesia, PT. Trilogam Indojaya, PT. TriMitra Citrahasta, PT. Tritools Indonesia, PT. Tritools Indonesia, PT. Tsuzuki Ariene Indonesia, PT. Tubalex Indah, PT. Tuck Kong Indonesia, PT. Tuck Kong Indonesia, PT. Tunas Cemerlang Sarana, PT. Tunggal Kurnia Sejati, PT. Unilever Indonesia, PT. Unilever Indonesia Tbk., PT. Union Carbide Indonesia, PT. Union Electrindo Perdana, PT. Union Metal Product Manufacturing, PT. Uniplas Ika Pratama, PT. United Tractors, PT. Universal Blue Asia, PT. Usra Tampi Indonesia, PT. Video Display Glass Indonesia, PT. Viria Jaya Makmur Indonesia, PT. Visora Catur Divindo, PT. Webforge Indonesia, PT. Welltekindo Nusantara, PT. Wis Baru Utama, PT. World Cup Indonesia, PT. Yakin Maju Sentosa, PT. Yasufuku Indonesia, PT. Yohzu Indonesia, PT. Young Jin Indonesia, PT. Yuju Indonesia                                                                                            
+<br>Additional Sources: https://www.kilaskerja.com/2021/09/perusahaan-jababeka.html (Most comprehensive, October 13, 2022)
+Includes subset: https://www.dailytips.id/2020/03/553-daftar-perusahaan-di-kawasan.html
+https://www.daftar.co/alamat-perusahaan-di-kawasan-jababeka/<br>Foreign Founder or Manager: Germany<br>Foreign Tenants: nan<br>Foreign Company Involvement Notes: Developed jointly with Republic of Germany<br>Status Notes: In operation<br>Status (Operational, Operational with Continued Construction, Under Construction, Before Construction, Unclear, Stalled): Operational<br>Year Operations Began: 1989.0<br>Year Construction Began: nan<br>Year Founded : nan<br>Dispute: nan<br>Dispute Explanation: nan<br>Environmental Concerns: nan<br>Mention of renewable energy: nan<br>Electric Vehicle (Production Mentioned): nan<br>Nickel: nan<br>Main Industry: Mixed/General<br>Main Industry Notes: nan<br>August 2023 Sentinel Check: nan<br>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_bb0a35c0690c8efbc4ccaf539d434525 = L.marker(
+                [-6.327873, 107.122349],
+                {}
+            ).addTo(map_1cf1d1aa7fc7b4d357eda8c0fef36d83);
+        
+    
+            var icon_be4f025097ba306df8824246ebb86138 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_bb0a35c0690c8efbc4ccaf539d434525.setIcon(icon_be4f025097ba306df8824246ebb86138);
+        
+    
+            marker_bb0a35c0690c8efbc4ccaf539d434525.bindTooltip(
+                `<div>
+                     
+    <strong>East Jakarta Industrial Park</strong><br>
+    Industrial Park Name: East Jakarta Industrial Park<br>Name (Ministry): East Jakarta Industrial Park<br>Manager (Ministry): PT. East Jakarta Industrial Park<br>Location English: Sukaresmi, Bekasi Regency, West Java, Indonesia<br>Regency: Bekasi Regency<br>Province: West Java<br>Size (ha): 320.0<br>Latitude: -6.327873<br>Longitude: 107.122349<br>Location Notes: nan<br>General Background: The East Jakarta Industrial Park (EJIP) was established in 1990 as the frst private industrial park with foreign investment from Japan, being the main shareholders Sumitomo Corporation (49%), PT. Spinindo Mitradaya (46%) and PT. Lippo Cikarang Tbk (5%).
+Currently EJIP has a total developed area of about 320 ha, with about 120 companies consisting of electrical, automotive, metalworking, textile, construction equipment, plastic, pharmaceutical, food and beverage, logistics and warehousing companies, among others.
+The facilities provided by EJIP comprise offce management, fire brigade, restaurant, bank, security, clean water network, wastewater treatment, natural gas, industrial gas, communication facilities and various other means of necessity.<br>Electricity Provider: PT Cikarang Listrindo and PT PLN (Persero)<br>Captive Coal Power Plant: 1.0<br>Captive Gas Power Plant: 1.0<br>Electricity Capacity Notes: The electric power in EJIP is mainly supplied by the Independent Power Producer, PT. Cikarang Litrindo, Tbk and  partially by  PT. Perusahaan Listrik Negara (Persero). PT. Cikarang Listrindo, Tbk has its power generating capacity of 864 MW by gas combined cycle power plants in Cikarang area and is currently in the stage of commissioning  of newly built coal-fired power plant in north Bekasi area which will become the total capacity of 1,144 MW.<br>Electricity Capacity (MW): 864.0<br>Planned Electricity Capacity: 1144.0<br>Estimated Electricity Capacity (MW): nan<br>Website: https://www.ejip.co.id/<br>Tenants: CMK ASIA PTE LTD, IFM ELECTRONIC GMBH., MUFG Bank Ltd, PT. ABACUS KENCANA
+INDUSTRIES, PT. AIR LIQUIDE INDONESIA, PT. AISAN NASMOCO INDUSTRI, PT. AISIN INDONESIA, PT. ALVINY INDONESIA, PT. ARMSTRONG INDUSTRI INDONESIA, PT. ASTOM INDONESIA, PT. BANK RESONA PERDANIA, PT. BIMA INDO PRIMA, PT. CABININDO PUTRA, PT. EAGLE INDUSTRY INDONESIA, PT. EAGLEBURGMANN INDONESIA, PT. ELEKTRISOLA INDONESIA, PT. ETIKA MANUFACTURING INDONESIA, PT. FTS AUTOMOTIVE INDONESIA, PT. FUJI PRESISI-TOOL INDONESIA, PT. GLOBAL SHINSEI INDONESIA, PT. GUNZE INDONESIA, PT. HAIER ELECTRICAL APPLIANCES IND., PT. HIROSE ELECTRIC INDONESIA, PT. HIS TOURS & TRAVEL, PT. HITACHI POWER SYSTEMS
+INDONESIA, PT. INDONESIA CHEMI-CON, PT. INDONESIA EPSON INDUSTRY, PT. INDONESIA POLYMER COMPOUND,  PT. INDONESIA TRC INDUSTRY, PT. ITATSU INDONESIA, PT. JAGAD KARIMBANUSA, PT. JAKARTA KYOAI MEDICAL
+CENTER, PT. JAYA INDAH CASTING, PT. JAYA METAL TEKNIKA, PT. KAJI MACHINERY INDONESIA, PT. KANEFUSA INDONESIA, PT. KASEN INDONESIA, PT. KATOLEC INDONESIA, PT. KAWAI NIP, PT. KIYOKUNI INDONESIA, PT. KOHNO INDONESIA, PT. KOMODA INDONESIA, PT. KYOWA INDONESIA, PT. MAISON MAP PROPERTI, PT. MARSOL ABADI INDONESIA, PT. MARUHACHI INDONESIA, PT. MECOINDO, PT. MSK ENGINEERING INDONESIA, PT. MURAMOTO ELEKTRONIKA INDONESIA, PT. MUSASHI AUTO PARTS INDONESIA, PT. NAKAKIN INDONESIA, PT. NAMICOH INDONESIA COMPONENT, PT. NARUMI INDONESIA, PT. NGK CERAMICS INDONESIA, PT. OMRON MFG OF INDONESIA, PT. OTICS INDONESIA, PT. PATCO TEKNOLOGI INDONESIA, PT. PROGRESS DIECAST, PT. S-IK NDONESIA, PT. SAKAI INDONESIA, PT. SAKAI ROAD MACHINARY INDONESIA, PT. SAKURA JAVA INDONESIA, PT. SANSYU PRECISION INDONESIA, PT. SARI PANGAN INTI SEJAHTERA (EJIP SAKABA), PT. SAYAP BIRU EKSPRES (ANA CARGO), PT. SCHNEIDER INDONESIA, PT. SECOM INDONESIA, PT. SKYWORTH INDUSTRY INDONESIA, PT. SMC AUTOMATION INDONESIA, PT. SMEP PACIFIC, PT. SMT INDONESIA, PT. SPACE INDONESIA, PT. SPININDO MITRADAYA, PT. STANDARD INDONESIA INDUSTRY, PT. SUMISHO GLOBAL LOGISTICS INDONESIA, PT. SUMITRONICS INDONESIA, PT. SUPRA FERBINDO FARMA, PT. TAIYO MARSOL INDONESIA, PT. TELKOM INDONESIA, PT. TEMPO SCAN PACIFIC, PT. THREEBOND GARPAN SALES INDONESIA, PT. TOKAI KAGU INDONESIA, PT. TOSO INDUSTRY INDONESIA, PT. TS TECH INDONESIA, PT. TSUKASA MANUFACTURING OF INDONESIA, PT. WING INDONESIA, PT. YAMANI SPRING INDONESIA, PT. YAN-JIN INDONESIA, PT. YANMAR INDONESIA                           <br>Additional Sources: https://directorsdirectory.com/east-jakarta-industrial-park/<br>Foreign Founder or Manager: Japan<br>Foreign Tenants: nan<br>Foreign Company Involvement Notes: Japan
+Share holders:
+49% - Sumitomo Corporation (Japanese)
+46% - PT. Spinindo Mitradaya 
+5% - PT. Lippo Cikarang Tbk <br>Status Notes: In operation since 1990<br>Status (Operational, Operational with Continued Construction, Under Construction, Before Construction, Unclear, Stalled): Operational<br>Year Operations Began: 1990.0<br>Year Construction Began: nan<br>Year Founded : nan<br>Dispute: nan<br>Dispute Explanation: nan<br>Environmental Concerns: nan<br>Mention of renewable energy: nan<br>Electric Vehicle (Production Mentioned): nan<br>Nickel: nan<br>Main Industry: Mixed/General<br>Main Industry Notes: Electrical, automotive, metalworking, textile, construction equipment, plastic, pharmaceutical, food and beverage, logistics and warehousing companies<br>August 2023 Sentinel Check: nan<br>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_c2264b6acbad7da721b6cad8414c5405 = L.marker(
+                [-6.267104, 107.101176],
+                {}
+            ).addTo(map_1cf1d1aa7fc7b4d357eda8c0fef36d83);
+        
+    
+            var icon_4325d4e0546354cb0ed982a3ce4316ec = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_c2264b6acbad7da721b6cad8414c5405.setIcon(icon_4325d4e0546354cb0ed982a3ce4316ec);
+        
+    
+            marker_c2264b6acbad7da721b6cad8414c5405.bindTooltip(
+                `<div>
+                     
+    <strong>Kawasan Industri Gobel</strong><br>
+    Industrial Park Name: Kawasan Industri Gobel<br>Name (Ministry): Kawasan Industri Gobel<br>Manager (Ministry): PT. Gobel Dharma Nusantara<br>Location English: Telaga Asih, Bekasi Regency, West Java, Indonesia<br>Regency: Bekasi Regency<br>Province: West Java<br>Size (ha): 54.0<br>Latitude: -6.267104<br>Longitude: 107.101176<br>Location Notes: nan<br>General Background: nan<br>Electricity Provider: PLN<br>Captive Coal Power Plant: nan<br>Captive Gas Power Plant: nan<br>Electricity Capacity Notes: According to needs<br>Electricity Capacity (MW): nan<br>Planned Electricity Capacity: nan<br>Estimated Electricity Capacity (MW): 20.4174<br>Website: Website of developer: https://gdn.co.id/
+https://investasi.jabarprov.go.id/public/industries/kawasan-industry-gobel
+<br>Tenants: PT Patco Elektronik Teknologi (Cibitung plant), PT Panasonic Gobel Energy Indonesia, PT Panacipta Seinan, PT Torrecid Indonesia, PT Keichem Indonesia, Gobel Dharma Sarana Karya PT, PT Senjaya Soode Precision, PT. Tiger Sash Indonesia, PT. ATA Internasional Industri, PT SURTECKARIYA INDONESIA, PT Padama Bahtera Labelindo, PT. Allure Aluminio,   <br>Additional Sources: https://www.google.com/maps/search/Gobel+Cibitung+Industrial+Estate/@-6.2657438,107.0877133,18z 
+https://www.linkedin.com/company/gobel-dharma-nusantara/about/
+https://www.bkpm.go.id/images/uploads/investasi_indonesia/file/Data_of_Major_Indonesia_Industrial_Estate_West_Java.pdf
+https://directorsdirectory.com/gobel-industrial-estate/<br>Foreign Founder or Manager: nan<br>Foreign Tenants: nan<br>Foreign Company Involvement Notes: nan<br>Status Notes: In operation<br>Status (Operational, Operational with Continued Construction, Under Construction, Before Construction, Unclear, Stalled): Operational<br>Year Operations Began: nan<br>Year Construction Began: nan<br>Year Founded : nan<br>Dispute: nan<br>Dispute Explanation: nan<br>Environmental Concerns: nan<br>Mention of renewable energy: The park is committed to sustainability and has implemented various eco-friendly initiatives, including wastewater treatment systems and green energy solutions. This not only helps businesses reduce their environmental impact but also reduces operational costs.<br>Electric Vehicle (Production Mentioned): nan<br>Nickel: nan<br>Main Industry: Manufacturing<br>Main Industry Notes: Automotive, electronics, textiles<br>August 2023 Sentinel Check: nan<br>
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
+</html>

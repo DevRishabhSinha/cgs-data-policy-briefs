@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rishabh Sinha - Futuristic Portfolio</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vanta/0.5.21/vanta.net.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js"></script>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body, html { height: 100%; font-family: 'Arial', sans-serif; color: #fff; scroll-behavior: smooth; }
+        #vanta-bg { position: fixed; width: 100%; height: 100%; z-index: -1; }
+        .container { max-width: 1200px; margin: 0 auto; padding: 0 20px; }
+        nav { position: fixed; top: 0; width: 100%; background: rgba(0,0,0,0.7); backdrop-filter: blur(10px); z-index: 1000; }
+        nav ul { display: flex; justify-content: center; list-style-type: none; padding: 20px 0; }
+        nav ul li { margin: 0 15px; }
+        nav ul li a { color: #00ffff; text-decoration: none; font-weight: bold; transition: all 0.3s ease; }
+        nav ul li a:hover { text-shadow: 0 0 10px #00ffff; }
+        section { min-height: 100vh; display: flex; align-items: center; padding: 100px 0; }
+        .card { background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; padding: 30px; margin-bottom: 30px; transition: transform 0.3s ease; }
+        .card:hover { transform: translateY(-5px); }
+        h1, h2, h3 { color: #00ffff; }
+        .glitch { animation: glitch 1s infinite; }
+        @keyframes glitch {
+            0% { transform: translate(0); }
+            20% { transform: translate(-5px, 5px); }
+            40% { transform: translate(-5px, -5px); }
+            60% { transform: translate(5px, 5px); }
+            80% { transform: translate(5px, -5px); }
+            100% { transform: translate(0); }
+        }
+        .skill-tag { background: rgba(0, 255, 255, 0.2); padding: 5px 15px; border-radius: 20px; font-size: 0.9em; display: inline-block; margin: 5px; }
+        .btn { display: inline-block; background: #00ffff; color: #000; text-decoration: none; padding: 10px 20px; border-radius: 25px; font-weight: bold; transition: all 0.3s ease; margin: 10px; }
+        .btn:hover { transform: scale(1.1); box-shadow: 0 0 15px #00ffff; }
+        .project { margin-bottom: 20px; }
+        .timeline { position: relative; max-width: 1200px; margin: 0 auto; }
+        .timeline::after { content: ''; position: absolute; width: 6px; background-color: #00ffff; top: 0; bottom: 0; left: 50%; margin-left: -3px; }
+        .timeline-item { padding: 10px 40px; position: relative; background-color: inherit; width: 50%; }
+        .timeline-item::after { content: ''; position: absolute; width: 25px; height: 25px; right: -17px; background-color: #00ffff; border: 4px solid #000; top: 15px; border-radius: 50%; z-index: 1; }
+        .left { left: 0; }
+        .right { left: 50%; }
+        .right::after { left: -16px; }
+        .content { padding: 20px 30px; background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); position: relative; border-radius: 6px; }
+    </style>
+</head>
+<body>
+    <div id="vanta-bg"></div>
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#experience">Experience</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#education">Education</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id="home">
+        <div class="container">
+            <h1 class="glitch" style="font-size: 4em; margin-bottom: 20px;">Rishabh Sinha</h1>
+            <p style="font-size: 1.5em; margin-bottom: 30px;">Software Development Engineer | Machine Learning Enthusiast</p>
+            <div>
+                <a href="#contact" class="btn">Contact Me</a>
+                <a href="#projects" class="btn" style="background: transparent; border: 2px solid #00ffff; color: #00ffff;">View Projects</a>
+            </div>
+        </div>
+    </section>
+
+    <section id="about">
+        <div class="container">
+            <h2>About Me</h2>
+            <div class="card">
+                <p>Passionate software engineer with a strong background in AI, machine learning, and cloud technologies. Currently pursuing a dual major in Computer Science and Mathematics at the University of Maryland, with a minor in Computational Finance and Business.</p>
+            </div>
+            <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+                <div class="card">
+                    <h3>3.93</h3>
+                    <p>GPA</p>
+                </div>
+                <div class="card">
+                    <h3>3</h3>
+                    <p>Internships</p>
+                </div>
+                <div class="card">
+                    <h3>15+</h3>
+                    <p>Technologies</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="experience">
+        <div class="container">
+            <h2>Professional Experience</h2>
+            <div class="timeline">
+                <div class="timeline-item left">
+                    <div class="content">
+                        <h3>Amazon Web Services (AWS)</h3>
+                        <p>Software Development Engineer Intern</p>
+                        <p>May 2024 - Aug 2024</p>
+                        <ul>
+                            <li>Architected an ops tool with web API integration and OAuth for 150+ AWS services</li>
+                            <li>Reduced on-call ticketing by 35%, improving service-team operational efficiency</li>
+                            <li>Wrote 8 RPC APIs using Coral framework for AWS elastic load balancer endpoint</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="timeline-item right">
+                    <div class="content">
+                        <h3>National Institute of Standards and Technology</h3>
+                        <p>Software Engineering Intern</p>
+                        <p>May 2023 - Aug 2023</p>
+                        <ul>
+                            <li>Boosted signal processing speed by 85% using multiprocessing and NumPy</li>
+                            <li>Amplified image vector processing throughput by 720% with AWS EC2 72-core HPC instances</li>
+                            <li>Containerized tool with Docker and Kubernetes, implemented CI/CD pipelines</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="timeline-item left">
+                    <div class="content">
+                        <h3>University of Maryland Applied Research Laboratory</h3>
+                        <p>Machine Learning Research Intern</p>
+                        <p>Jan 2023 - May 2023</p>
+                        <ul>
+                            <li>Improved Lorenz Attractor model, cutting computational time by 20s</li>
+                            <li>Revamped prediction precision by 15% using KNN algorithm with Truncated SVD</li>
+                            <li>Employed PyEMD adaptive time-delay embedding for dimensionality reduction</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="timeline-item right">
+                    <div class="content">
+                        <h3>Clinia Remote Healthcare</h3>
+                        <p>Software Development Intern</p>
+                        <p>Jun 2021 - Aug 2021</p>
+                        <ul>
+                            <li>Led backend development using GraphQL for RDS querying</li>
+                            <li>Expanded customer reach by 15% using Node.js Puppeteer web-scraping</li>
+                            <li>Incorporated Kafka with RDS for real-time data streaming</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="skills">
+        <div class="container">
+            <h2>Skills</h2>
+            <div class="card">
+                <h3>Programming Languages</h3>
+                <div id="programming-languages"></div>
+            </div>
+            <div class="card">
+                <h3>Technologies</h3>
+                <div id="technologies"></div>
+            </div>
+            <div class="card">
+                <h3>Tools</h3>
+                <div id="tools"></div>
+            </div>
+        </div>
+    </section>
+
+    <section id="projects">
+        <div class="container">
+            <h2>Academic Projects</h2>
+            <div class="card project">
+                <h3>Bankruptcy Risk-Prediction using RL & LLMs</h3>
+                <p>Jan 2024 - May 2024</p>
+                <ul>
+                    <li>Enhanced bankruptcy risk prediction by 15% using GPT-3.5 via Chain of Thought prompting and few-shot learning</li>
+                    <li>Developed a multi-source Apache Airflow data integration pipeline</li>
+                    <li>Reached 92% accuracy by layering Reinforcement Learning on LLM</li>
+                </ul>
+            </div>
+            <div class="card project">
+                <h3>Deep Learning Sign Language Recognition</h3>
+                <p>Jan 2023 - May 2023</p>
+                <ul>
+                    <li>Designed a real-time CNN system using TensorFlow and MobileNetV2 architecture, achieving 89% prediction accuracy</li>
+                    <li>Built a low-latency video processing pipeline <2ms using MediaPipe Hands, OpenCV</li>
+                    <li>Leveraged hand's aspect ratio for optimizing detection field, leading to a 30% performance increase</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <section id="education">
+        <div class="container">
+            <h2>Education</h2>
+            <div class="card">
+                <h3>University of Maryland, College Park</h3>
+                <p>Aug 2022 - May 2025</p>
+                <p>Major in Computer Science and Mathematics</p>
+                <p>Minor in Computational Finance and Business</p>
+                <p>GPA: 3.93</p>
+                <h4>Relevant Courses:</h4>
+                <p>Artificial Intelligence, Machine Learning, Real Analysis, Linear Algebra, Data Science, Systems Programming, System Design, OOP II, Discrete Structures, Calculus III, Algorithms, Differential Equations, Financial Markets, Probability Theory</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <h2>Contact Me</h2>
+            <div class="card">
+                <p>Email: <a href="mailto:rsinha17@terpmail.umd.edu" style="color: #00ffff;">rsinha17@terpmail.umd.edu</a></p>
+                <p>LinkedIn: <a href="https://www.linkedin.com/in/rishabh-sinha1709/" target="_blank" style="color: #00ffff;">https://www.linkedin.com/in/rishabh-sinha1709/</a></p>
+                <p>GitHub: <a href="https://github.com/DevRishabhSinha" target="_blank" style="color: #00ffff;">https://github.com/DevRishabhSinha</a></p>
+                <p>Mobile: +1-732-829-7122</p>
+            </div>
+        </div>
+    </section>
+
+    <script>
+        // Initialize VANTA.NET
+        VANTA.NET({
+            el: "#vanta-bg",
+            mouseControls: false,
+            touchControls: true,
+            gyroControls: false,
+            minHeight: 200.00,
+            minWidth: 200.00,
+            scale: 1.00,
+            scaleMobile: 1.00,
+            color: 0x00ffff,
+            backgroundColor: 0x0,
+            points: 20.00,
+            maxDistance: 30.00,
+            spacing: 15.00
+        });
+
+        // Populate skills
+        const programmingLanguages = ["Python", "C++", "Java", "C", "JavaScript", "TypeScript", "Scala", "HTML", "CSS", "SQL", "Go", "Ruby", "Rust", "OCaml"];
+        const technologies = ["Keras-TensorFlow", "OpenCV", "Django", "Flask", "React", "Redux", "Node", "jQuery", "AWS", "Cassandra", "REST", "PostgreSQL"];
+        const tools = ["Docker", "Linux", "Jira", "Kubernetes", "Git", "Kafka", "Numpy", "Pandas", "Jenkins", "GitLab", "PyTorch", "Terraform", "Mockito", "Spring"];
+
+        function populateSkills(skills, elementId) {
+            const element = document.getElementById(elementId);
+            skills.forEach(skill => {
+                const span = document.createElement('span');
+                span.className = 'skill-tag';
+                span.textContent = skill;
+                element.appendChild(span);
+            });
+        }
+
+        populateSkills(programmingLanguages, 'programming-languages');
+        populateSkills(technologies, 'technologies');
+        populateSkills(tools, 'tools');
+
+// Animate elements on scroll
+function animateOnScroll() {
+            const elements = document.querySelectorAll('.card, .timeline-item, .skill-tag');
+            elements.forEach(element => {
+                const elementTop = element.getBoundingClientRect().top;
+                const elementBottom = element.getBoundingClientRect().bottom;
+                if (elementTop < window.innerHeight && elementBottom > 0) {
+                    element.style.opacity = '1';
+                    element.style.transform = 'translateY(0)';
+                }
+            });
+        }
+
+        // Set initial styles for animation
+        document.querySelectorAll('.card, .timeline-item, .skill-tag').forEach(element => {
+            element.style.opacity = '0';
+            element.style.transform = 'translateY(20px)';
+            element.style.transition = 'opacity 0.5s ease, transform 0.5s ease';
+        });
+
+        // Listen for scroll events
+        window.addEventListener('scroll', animateOnScroll);
+        // Trigger initial animation
+        animateOnScroll();
+
+        // Smooth scrolling for navigation
+        document.querySelectorAll('nav a').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+
+        // Typewriter effect for the main title
+        const titleElement = document.querySelector('#home h1');
+        const titleText = titleElement.textContent;
+        titleElement.textContent = '';
+        let i = 0;
+        function typeWriter() {
+            if (i < titleText.length) {
+                titleElement.textContent += titleText.charAt(i);
+                i++;
+                setTimeout(typeWriter, 100);
+            }
+        }
+        typeWriter();
+
+        // // Parallax effect for background
+        // window.addEventListener('scroll', () => {
+        //     const scrolled = window.pageYOffset;
+        //     const background = document.getElementById('vanta-bg');
+        //     background.style.transform = `translateY(${scrolled * 0.5}px)`;
+        // });
+
+        // Interactive skill tags
+        document.querySelectorAll('.skill-tag').forEach(tag => {
+            tag.addEventListener('mouseover', () => {
+                anime({
+                    targets: tag,
+                    scale: 1.1,
+                    duration: 300,
+                    easing: 'easeOutElastic(1, .8)'
+                });
+            });
+            tag.addEventListener('mouseout', () => {
+                anime({
+                    targets: tag,
+                    scale: 1,
+                    duration: 300,
+                    easing: 'easeInElastic(1, .8)'
+                });
+            });
+        });
+
+        // Animated counter for stats
+        function animateValue(obj, start, end, duration) {
+            let startTimestamp = null;
+            const step = (timestamp) => {
+                if (!startTimestamp) startTimestamp = timestamp;
+                const progress = Math.min((timestamp - startTimestamp) / duration, 1);
+                obj.innerHTML = Math.floor(progress * (end - start) + start);
+                if (progress < 1) {
+                    window.requestAnimationFrame(step);
+                }
+            };
+            window.requestAnimationFrame(step);
+        }
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach((entry) => {
+                if (entry.isIntersecting) {
+                    const countElements = entry.target.querySelectorAll('h3');
+                    countElements.forEach((el) => {
+                        const value = parseFloat(el.innerHTML);
+                        animateValue(el, 0, value, 2000);
+                    });
+                    observer.unobserve(entry.target);
+                }
+            });
+        }, { threshold: 0.5 });
+
+        document.querySelectorAll('#about .card').forEach((el) => observer.observe(el));
+
+        // 3D tilt effect for project cards
+        VanillaTilt.init(document.querySelectorAll(".project"), {
+            max: 25,
+            speed: 400,
+            glare: true,
+            "max-glare": 0.5,
+        });
+
+        // Particle effect for background (optional, can be resource-intensive)
+        particlesJS("vanta-bg", {
+            particles: {
+                number: { value: 80, density: { enable: true, value_area: 800 } },
+                color: { value: "#00ffff" },
+                shape: { type: "circle" },
+                opacity: { value: 0.5, random: false },
+                size: { value: 3, random: true },
+                line_linked: { enable: true, distance: 150, color: "#00ffff", opacity: 0.4, width: 1 },
+                move: { enable: true, speed: 6, direction: "none", random: false, straight: false, out_mode: "out", bounce: false }
+            },
+            interactivity: {
+                detect_on: "canvas",
+                events: { onhover: { enable: true, mode: "repulse" }, onclick: { enable: true, mode: "push" }, resize: true },
+                modes: { repulse: { distance: 100, duration: 0.4 }, push: { particles_nb: 4 } }
+            },
+            retina_detect: true
+        });
+    </script>
+</body>
+</html>

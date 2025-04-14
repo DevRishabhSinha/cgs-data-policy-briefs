@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Interactive Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+</head>
+<body>
+    <div id="mapid" style="height: 600px;"></div>
+
+    <script>
+        var map = L.map('mapid').setView([51.505, -0.09], 13);
+
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+        }).addTo(map);
+
+        var geojsonLayer1 = new L.GeoJSON.AJAX("IndustrialPark/Basic_Industrial_Parks.geojson"); 
+        var geojsonLayer2 = new L.GeoJSON.AJAX("IndustrialPark/Dispute_Industrial_Parks.geojson"); 
+
+        var baseMaps = {
+            "Layer 1": geojsonLayer1,
+            "Layer 2": geojsonLayer2
+        };
+
+        L.control.layers(baseMaps).addTo(map);
+    </script>
+</body>
+</html>

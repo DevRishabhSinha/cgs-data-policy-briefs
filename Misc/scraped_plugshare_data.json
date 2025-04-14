@@ -1,0 +1,3417 @@
+{
+  "https://www.plugshare.com/location/486405": {
+    "locationName": "",
+    "address": "",
+    "plugTypes": [],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": null,
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": ""
+    },
+    "parking": "Parking:",
+    "reviews": [],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486401": {
+    "locationName": "Kaiserbrauerei",
+    "address": "Am Deich 18/19, 28199 Bremen, Germany",
+    "plugTypes": [
+      "Type 2",
+      "EWE Go"
+    ],
+    "networkProvider": "EWE Go",
+    "chargingSpeed": "22 kW",
+    "numberOfChargers": "6 Plugs",
+    "poiType": "Restaurant",
+    "amenities": [
+      "Dining,",
+      "EV Parking"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486401"
+    },
+    "parking": "Parking: Free",
+    "reviews": [],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486402": {
+    "locationName": "Lützowstraße Parkplatz",
+    "address": "Lützowstraße 105, 10785 Berlin, Germany",
+    "plugTypes": [
+      "Type 2",
+      "EWE Go"
+    ],
+    "networkProvider": "EWE Go",
+    "chargingSpeed": "22 kW",
+    "numberOfChargers": "3 Plugs",
+    "poiType": "Parking Garage/Lot",
+    "amenities": [
+      "EV Parking"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486402"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": "Feb 2, 2023",
+        "user": "Savitha Adikesavan",
+        "vehicle": "Ather Energy Ather 450",
+        "rating": "Positive",
+        "comment": "No charge"
+      },
+      {
+        "date": "Feb 2, 2023",
+        "user": "Savitha Adikesavan",
+        "vehicle": "Ather Energy Ather 450",
+        "rating": "Positive",
+        "comment": "Charging"
+      }
+    ],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486404": {
+    "locationName": "Car Center Liberec",
+    "address": "Hodkovická 747, 460 06 Liberec, Czechia",
+    "plugTypes": [
+      "CCS2",
+      "Chargee eMobility a.s."
+    ],
+    "networkProvider": "Chargee eMobility a.s.",
+    "chargingSpeed": "45 kW",
+    "numberOfChargers": "1 Plug",
+    "poiType": "Dealership",
+    "amenities": [
+      "EV Parking,",
+      "Restrooms,",
+      "Shopping"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": "486404"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": "Dec 10, 2023",
+        "user": "Páv",
+        "vehicle": "Kia EV6 2022",
+        "rating": "Positive",
+        "comment": "Výkonový limit 42 kW. AC stanici jsem nenašel, možná je v zavřeném areálu za bránou"
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1263554.jpg",
+      "https://photos.plugshare.com/photos/1263553.jpg"
+    ]
+  },
+  "https://www.plugshare.com/location/486407": {
+    "locationName": "Moto Hlaváček",
+    "address": "669 Týnecká, Olomouc, Olomoucký kraj, 77900, CZE",
+    "plugTypes": [
+      "CCS2",
+      "Chargee eMobility a.s."
+    ],
+    "networkProvider": "Chargee eMobility a.s.",
+    "chargingSpeed": "25 kW",
+    "numberOfChargers": "1 Plug",
+    "poiType": "Car Service",
+    "amenities": [
+      "EV Parking,",
+      "Shopping,",
+      "Dining"
+    ],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486407"
+    },
+    "parking": "Parking: Free",
+    "reviews": [],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486408": {
+    "locationName": "via rail woodstock",
+    "address": "100 Victoria St S, Woodstock, ON N4S 8R4, Canada",
+    "plugTypes": [
+      "Wall"
+    ],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": "4 Plugs",
+    "poiType": "",
+    "amenities": [
+      "Restrooms"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": "486408"
+    },
+    "parking": "Parking:",
+    "reviews": [],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486406": {
+    "locationName": "AUTO Hlaváček",
+    "address": "Litomyšl 125, 570 01 Litomyšl, Czechia",
+    "plugTypes": [
+      "Type 2",
+      "Chargee eMobility a.s."
+    ],
+    "networkProvider": "Chargee eMobility a.s.",
+    "chargingSpeed": "22 kW",
+    "numberOfChargers": "1 Plug",
+    "poiType": "Dealership",
+    "amenities": [
+      "EV Parking,",
+      "Restrooms,",
+      "Shopping"
+    ],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486406"
+    },
+    "parking": "Parking: Free",
+    "reviews": [],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486403": {
+    "locationName": "Auto Strakonice",
+    "address": "Řepice 122, 386 01 Řepice, Czechia",
+    "plugTypes": [
+      "Type 2",
+      "Chargee eMobility a.s."
+    ],
+    "networkProvider": "Chargee eMobility a.s.",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "1 Plug",
+    "poiType": "Dealership",
+    "amenities": [
+      "Shopping,",
+      "Restrooms,",
+      "EV Parking"
+    ],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486403"
+    },
+    "parking": "Parking: Free",
+    "reviews": [],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486409": {
+    "locationName": "",
+    "address": "",
+    "plugTypes": [],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": null,
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": ""
+    },
+    "parking": "Parking:",
+    "reviews": [],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486400": {
+    "locationName": "",
+    "address": "",
+    "plugTypes": [],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": null,
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": ""
+    },
+    "parking": "Parking:",
+    "reviews": [],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486410": {
+    "locationName": "",
+    "address": "",
+    "plugTypes": [],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": null,
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": ""
+    },
+    "parking": "Parking:",
+    "reviews": [],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486411": {
+    "locationName": "",
+    "address": "",
+    "plugTypes": [],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": null,
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": ""
+    },
+    "parking": "Parking:",
+    "reviews": [],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486412": {
+    "locationName": "",
+    "address": "",
+    "plugTypes": [],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": null,
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": ""
+    },
+    "parking": "Parking:",
+    "reviews": [],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486413": {
+    "locationName": "",
+    "address": "",
+    "plugTypes": [],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": null,
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": ""
+    },
+    "parking": "Parking:",
+    "reviews": [],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486414": {
+    "locationName": "Woodstock park ebike charging",
+    "address": "Woodstock Pavilion, 219 Victoria St S, Woodstock, ON N4S 3K3, Canada",
+    "plugTypes": [
+      "Wall"
+    ],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": "4 Plugs",
+    "poiType": "",
+    "amenities": [
+      "Restrooms,",
+      "Park,",
+      "Hiking"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": "486414"
+    },
+    "parking": "Parking:",
+    "reviews": [],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486417": {
+    "locationName": "Strada Apolodor",
+    "address": "19 Strada Apolodor, Bucuresti, Bucuresti, 811 01, Romania",
+    "plugTypes": [
+      "Type 2"
+    ],
+    "networkProvider": null,
+    "chargingSpeed": "22 kW",
+    "numberOfChargers": "1 Plug",
+    "poiType": "Street Parking",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": "486417"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": "Mar 25, 2023",
+        "user": "Sasha Dovbnia",
+        "vehicle": "Nissan e-NV200",
+        "rating": "Positive",
+        "comment": "Access to the stations restricted."
+      },
+      {
+        "date": "Mar 25, 2023",
+        "user": "Sasha Dovbnia",
+        "vehicle": "Nissan e-NV200",
+        "rating": "Positive",
+        "comment": "Entrance closed by the gates. May be open during workdays."
+      }
+    ],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486416": {
+    "locationName": "",
+    "address": "",
+    "plugTypes": [],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": null,
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": ""
+    },
+    "parking": "Parking:",
+    "reviews": [],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486422": {
+    "locationName": "Siemens AG",
+    "address": "Paul-Gossen-Straße 85, Erlangen, Bayern, 91058, Germany",
+    "plugTypes": [
+      "Type 2",
+      "Siemens"
+    ],
+    "networkProvider": "Siemens",
+    "chargingSpeed": "21 kW",
+    "numberOfChargers": "2 Plugs",
+    "poiType": "Workplace",
+    "amenities": [
+      "EV Parking"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486422"
+    },
+    "parking": "Parking: Free",
+    "reviews": [],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486419": {
+    "locationName": "NAO EXISTE",
+    "address": "NAO EXISTE",
+    "plugTypes": [
+      "Type 2",
+      "Sollus Indústria Eletrônica LTDA"
+    ],
+    "networkProvider": "Sollus Indústria Eletrônica LTDA",
+    "chargingSpeed": "7 kW",
+    "numberOfChargers": "1 Plug",
+    "poiType": "Street Parking",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": "486419"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": "Oct 10, 2024",
+        "user": "Vicente Salgueiro Filho",
+        "vehicle": "Chery iCar",
+        "rating": "Positive",
+        "comment": ""
+      }
+    ],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486421": {
+    "locationName": "",
+    "address": "",
+    "plugTypes": [],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": null,
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": ""
+    },
+    "parking": "Parking:",
+    "reviews": [],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486415": {
+    "locationName": "Riznerova",
+    "address": "19 Riznerova, Bratislava, Bratislava, 811 01, Slovakia",
+    "plugTypes": [
+      "Type 2"
+    ],
+    "networkProvider": null,
+    "chargingSpeed": "22 kW",
+    "numberOfChargers": "1 Plug",
+    "poiType": "Street Parking",
+    "amenities": [
+      "EV Parking"
+    ],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": "486415"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": "Jul 6, 2023",
+        "user": "Ksenija",
+        "vehicle": "",
+        "rating": "Positive",
+        "comment": "You cant charge here because it is PRIVATE house!!!😅"
+      },
+      {
+        "date": "May 4, 2023",
+        "user": "Marek",
+        "vehicle": "Tesla Model 3",
+        "rating": "Positive",
+        "comment": "Tato stanica sa na danej adrese zial nenachadza."
+      }
+    ],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486424": {
+    "locationName": "Railway Station - GoCharge 60kW",
+    "address": "FF-127 Siddhi Vinayak complex Farmaji Road, near Hotel Harmony, Alkapuri, Vadodara, Gujarat 390005, India",
+    "plugTypes": [
+      "CCS2,",
+      "Wall (BS1363)"
+    ],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": "2 Plugs",
+    "poiType": "",
+    "amenities": [
+      "Valet Parking"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486424"
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": "May 8, 2024",
+        "user": "Mehul Shukla",
+        "vehicle": "Tata Tiago EV 2022",
+        "rating": "Positive",
+        "comment": "Good service"
+      },
+      {
+        "date": "Apr 27, 2024",
+        "user": "Bhavik Degadwala",
+        "vehicle": "Tata Nexon EV 2020",
+        "rating": "Positive",
+        "comment": "Perfect location. They also depute 1 person there to guide which is impressive. Overall experience was good. There is only 1 car charging possible at time so have to hand over car key. So do not keep valuables"
+      },
+      {
+        "date": "Jan 10, 2024",
+        "user": "JOY kariya",
+        "vehicle": "",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Jan 2, 2024",
+        "user": "meet kotecha",
+        "vehicle": "Tata Nexon EV 2020",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Oct 27, 2023",
+        "user": "Harsh Patel",
+        "vehicle": "MG Motor ZS EV",
+        "rating": "Positive",
+        "comment": "Full"
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1234716.jpg",
+      "https://photos.plugshare.com/photos/1234712.jpg",
+      "https://photos.plugshare.com/photos/1098710.jpg"
+    ]
+  },
+  "https://www.plugshare.com/location/486423": {
+    "locationName": "Circle K - Dover",
+    "address": "3 Sierra Hill Dr, Dover, NH 03820, USA",
+    "plugTypes": [
+      "CCS1",
+      "CircleK Charge"
+    ],
+    "networkProvider": "CircleK Charge",
+    "chargingSpeed": "120 kW",
+    "numberOfChargers": "2 Plugs",
+    "poiType": "Gas Station",
+    "amenities": [
+      "Dining,",
+      "Restrooms,",
+      "EV Parking,",
+      "Grocery,",
+      "Shopping"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486423"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": "Nov 16, 2024",
+        "user": "Dejuvent",
+        "vehicle": "Audi e-tron Sportback 2021",
+        "rating": "Positive",
+        "comment": "I’m not sure what happen to the charger, but i was here 3 times need to reset the machine manually. And now it doesn’t seem to be working. Both line seems broken. So unfortunately! This station use to be my only reliable fast charger. Time to buy NACS adapter and try supercharger nearby"
+      },
+      {
+        "date": "Nov 4, 2024",
+        "user": "Dejuvent",
+        "vehicle": "Audi e-tron Sportback 2021",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Nov 2, 2024",
+        "user": "Dejuvent",
+        "vehicle": "Audi e-tron Sportback 2021",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Oct 29, 2024",
+        "user": "Dejuvent",
+        "vehicle": "Audi e-tron Sportback 2021",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Oct 25, 2024",
+        "user": "Dejuvent",
+        "vehicle": "Audi e-tron Sportback 2021",
+        "rating": "Positive",
+        "comment": ""
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1134887.jpg",
+      "https://photos.plugshare.com/photos/1069765.jpg",
+      "https://photos.plugshare.com/photos/1429602.jpg"
+    ]
+  },
+  "https://www.plugshare.com/location/486425": {
+    "locationName": "501 Lake Ave Garage",
+    "address": "501 Lake Ave, Racine, WI 53403, USA",
+    "plugTypes": [
+      "J-1772"
+    ],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": "8 Plugs",
+    "poiType": "Lodging",
+    "amenities": [
+      "Shopping,",
+      "Lodging,",
+      "Dining,",
+      "Restrooms,",
+      "EV Parking"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486425"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": "Feb 10, 2024",
+        "user": "Spencer Flores",
+        "vehicle": "Ford Mustang Mach-E 2023",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Dec 2, 2023",
+        "user": "Greg H",
+        "vehicle": "Subaru Solterra 2023",
+        "rating": "Positive",
+        "comment": "$3.50 weekend parking and free charging"
+      },
+      {
+        "date": "Oct 9, 2023",
+        "user": "Krystal",
+        "vehicle": "Tesla Model Y",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Aug 29, 2023",
+        "user": "Liit",
+        "vehicle": "Volvo C40 Recharge 2023",
+        "rating": "Positive",
+        "comment": "Parked overnight for $1, charged from 11% to 100%!"
+      },
+      {
+        "date": "Aug 22, 2023",
+        "user": "Joshua Groen",
+        "vehicle": "Rivian R1S 2023",
+        "rating": "Positive",
+        "comment": "Free charging, $1 parking fee!"
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1365517.jpg",
+      "https://photos.plugshare.com/photos/1191178.jpg",
+      "https://photos.plugshare.com/photos/1123125.jpg"
+    ]
+  },
+  "https://www.plugshare.com/location/486426": {
+    "locationName": "Holiday Inn Express & Suites Langley",
+    "address": "8750 204 St, Langley, BC V1M 2Y5",
+    "plugTypes": [
+      "NACS (Tesla)",
+      "Supercharger"
+    ],
+    "networkProvider": "Supercharger",
+    "chargingSpeed": "250 kW",
+    "numberOfChargers": "16 Plugs",
+    "poiType": "Lodging",
+    "amenities": [
+      "Lodging,",
+      "Restrooms,",
+      "EV Parking,",
+      "Dining"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486426"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": "Nov 16, 2024",
+        "user": "g_khor",
+        "vehicle": "Tesla Model 3",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Nov 12, 2024",
+        "user": "Jason",
+        "vehicle": "Tesla Model 3",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Sep 22, 2024",
+        "user": "Brolin01",
+        "vehicle": "Chevrolet Equinox EV 2024",
+        "rating": "Positive",
+        "comment": "First time using a Tesla supercharger. Worked great!"
+      },
+      {
+        "date": "Jul 28, 2024",
+        "user": "bikeirguy",
+        "vehicle": "Rivian R1T 2023",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Jul 20, 2024",
+        "user": "Swindle",
+        "vehicle": "Tesla Model Y",
+        "rating": "Positive",
+        "comment": "Busy today"
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1080408.jpeg",
+      "https://photos.plugshare.com/photos/1069068.jpg"
+    ]
+  },
+  "https://www.plugshare.com/location/486420": {
+    "locationName": "Posto Ipiranga",
+    "address": "R. Pereira Leite, 27 - Alto de Pinheiros, São Paulo - SP, 05442-000, Brazil",
+    "plugTypes": [
+      "Type 2",
+      "Sollus Indústria Eletrônica LTDA"
+    ],
+    "networkProvider": "Sollus Indústria Eletrônica LTDA",
+    "chargingSpeed": "7 kW",
+    "numberOfChargers": "1 Plug",
+    "poiType": "Gas Station",
+    "amenities": [
+      "Shopping,",
+      "Dining,",
+      "EV Parking"
+    ],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": "486420"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": "Oct 24, 2023",
+        "user": "Leonardo",
+        "vehicle": "Mini Cooper Countryman Plug-In Hybrid",
+        "rating": "Positive",
+        "comment": "Não existe mais"
+      },
+      {
+        "date": "Jun 11, 2023",
+        "user": "Luisinho Luis",
+        "vehicle": "BMW i3",
+        "rating": "Positive",
+        "comment": "Desativado. Não tem mais. 11-06-23."
+      },
+      {
+        "date": "Jun 11, 2023",
+        "user": "Erick",
+        "vehicle": "Volvo XC60 Recharge Plug-in Hybrid 2022",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Jun 5, 2023",
+        "user": "Erick",
+        "vehicle": "Volvo XC60 Recharge Plug-in Hybrid 2022",
+        "rating": "Positive",
+        "comment": "Não há mais estação de carregamento"
+      },
+      {
+        "date": "Feb 16, 2023",
+        "user": "Alexandre L. de Miranda",
+        "vehicle": "",
+        "rating": "Positive",
+        "comment": ""
+      }
+    ],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486427": {
+    "locationName": "ETIMINAS",
+    "address": "R. Cornélio Vernizzi, 205 - Estiva, MG, 37542-000, Brasil",
+    "plugTypes": [
+      "Type 2"
+    ],
+    "networkProvider": null,
+    "chargingSpeed": "7 kW",
+    "numberOfChargers": "1 Plug",
+    "poiType": "Workplace",
+    "amenities": [],
+    "hours": "Seg - Sex 9 - 17hs",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": "486427"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": "Aug 13, 2024",
+        "user": "Sandi car",
+        "vehicle": "JAC E-JS1",
+        "rating": "Positive",
+        "comment": "Pessoal muito simpático, e prestativo me atender muito bem estão de parabéns toda equipe"
+      },
+      {
+        "date": "Apr 2, 2024",
+        "user": "SAVIO FERREIRA",
+        "vehicle": "BYD Yuan",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Jun 29, 2023",
+        "user": "SAVIO FERREIRA",
+        "vehicle": "Renault KWID E-Tech Electric",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Jun 29, 2023",
+        "user": "SAVIO FERREIRA",
+        "vehicle": "BYD Yuan",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Jan 24, 2023",
+        "user": "SAVIO FERREIRA",
+        "vehicle": "Renault KWID E-Tech Electric",
+        "rating": "Positive",
+        "comment": "Funcionando a 7kw"
+      }
+    ],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486429": {
+    "locationName": "Jomcharge @ Lagoon View Resort Condominium (11kW AC)",
+    "address": "26, Jalan Universiti, Pjs 11, 47500 Subang Jaya, Selangor, Malaysia",
+    "plugTypes": [
+      "Type 2",
+      "JomCharge"
+    ],
+    "networkProvider": "JomCharge",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "1 Plug",
+    "poiType": "",
+    "amenities": [
+      "EV Parking"
+    ],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486429"
+    },
+    "parking": "Parking:",
+    "reviews": [],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486431": {
+    "locationName": "Busseys - Fakenham",
+    "address": "Enterprise Way, Fakenham NR21 8SN, UK",
+    "plugTypes": [
+      "Type 2",
+      "Fuuse"
+    ],
+    "networkProvider": "Fuuse",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "4 Plugs",
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486431"
+    },
+    "parking": "Parking:",
+    "reviews": [],
+    "photos": [
+      "https://photos.plugshare.com/photos/1069072.jpg"
+    ]
+  },
+  "https://www.plugshare.com/location/486432": {
+    "locationName": "",
+    "address": "",
+    "plugTypes": [],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": null,
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": ""
+    },
+    "parking": "Parking:",
+    "reviews": [],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486434": {
+    "locationName": "Szuszuwary",
+    "address": "Róg Pierkunowski 2, 11-500 Giżycko",
+    "plugTypes": [
+      "Type 2"
+    ],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": "1 Plug",
+    "poiType": "",
+    "amenities": [
+      "Lodging,",
+      "Park,",
+      "Hiking,",
+      "Camping"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486434"
+    },
+    "parking": "Parking:",
+    "reviews": [],
+    "photos": [
+      "https://photos.plugshare.com/photos/1069075.jpg"
+    ]
+  },
+  "https://www.plugshare.com/location/486440": {
+    "locationName": "bp Ingleburn",
+    "address": "89 Williamson Road, MacDonald Rd, Ingleburn NSW 2565, Australia",
+    "plugTypes": [
+      "CCS2",
+      "bp pulse Australia"
+    ],
+    "networkProvider": "bp pulse Australia",
+    "chargingSpeed": "75.25 kW",
+    "numberOfChargers": "4 Plugs",
+    "poiType": "Gas Station",
+    "amenities": [
+      "Dining,",
+      "Restrooms,",
+      "EV Parking,",
+      "WiFi,",
+      "Shopping,",
+      "Grocery"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486440"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": "Nov 22, 2024",
+        "user": "DeborahA",
+        "vehicle": "MG Motor MG4 EV 2023",
+        "rating": "Positive",
+        "comment": "Charging quite fast. Not much around except servo food tho"
+      },
+      {
+        "date": "Oct 19, 2024",
+        "user": "bike",
+        "vehicle": "Hyundai Ioniq 5 2021",
+        "rating": "Positive",
+        "comment": "Charging until ~8.45am"
+      },
+      {
+        "date": "Oct 12, 2024",
+        "user": "Andrew",
+        "vehicle": "MG Motor ZS EV 2022",
+        "rating": "Positive",
+        "comment": "Only getting 25kw charge. Will be here for another 30 mins"
+      },
+      {
+        "date": "Oct 6, 2024",
+        "user": "Richard Montgomery",
+        "vehicle": "MG Motor ZS EV",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Sep 13, 2024",
+        "user": "AJ Cullen",
+        "vehicle": "Polestar 2 2024",
+        "rating": "Positive",
+        "comment": "Getting 75kw but the second station was only offering 50kw even with no one charging"
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1111104.jpg",
+      "https://photos.plugshare.com/photos/1393858.jpg",
+      "https://photos.plugshare.com/photos/1358479.jpg"
+    ]
+  },
+  "https://www.plugshare.com/location/486439": {
+    "locationName": "Suntec City - Tower 3 & 4",
+    "address": "8 Temasek Blvd, Singapore 038988",
+    "plugTypes": [
+      "Type 2,",
+      "CCS2",
+      "Shell Recharge"
+    ],
+    "networkProvider": "Shell Recharge",
+    "chargingSpeed": "22 - 120 kW",
+    "numberOfChargers": "5 Plugs",
+    "poiType": "Shopping Center",
+    "amenities": [
+      "Restrooms,",
+      "Dining,",
+      "EV Parking,",
+      "Shopping"
+    ],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486439"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": "Aug 18, 2024",
+        "user": "ORA Good Cat",
+        "vehicle": "GWM Ora Good Cat 2023",
+        "rating": "Positive",
+        "comment": "near to Aston / Ya Kun entrance"
+      },
+      {
+        "date": "Aug 10, 2024",
+        "user": "Lim MH",
+        "vehicle": "BYD Atto 3 2024",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Dec 10, 2023",
+        "user": "Keith Lim",
+        "vehicle": "BYD Atto 3 2023",
+        "rating": "Positive",
+        "comment": "Slow for some reason"
+      },
+      {
+        "date": "Nov 16, 2023",
+        "user": "stanley ang",
+        "vehicle": "",
+        "rating": "Positive",
+        "comment": "120w not compatible with polestar model. 4th attempt"
+      },
+      {
+        "date": "Aug 31, 2023",
+        "user": "Clarence",
+        "vehicle": "Mazda MX-30",
+        "rating": "Positive",
+        "comment": "Offline or Faulty. Shell has the worst performance / system."
+      }
+    ],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486441": {
+    "locationName": "PTT Bypass Wiangburapa",
+    "address": "VVH2+Q89 ชร.5023 Tambon Wiang Chai, Amphoe Wiang Chai, Chang Wat Chiang Rai 57210, Thailand",
+    "plugTypes": [
+      "CCS2,",
+      "Type 2",
+      "PTT EV Station PluZ"
+    ],
+    "networkProvider": "PTT EV Station PluZ",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "2 Plugs",
+    "poiType": "Gas Station",
+    "amenities": [
+      "Shopping,",
+      "Dining,",
+      "EV Parking"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486441"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": "Aug 11, 2024",
+        "user": "Nattasapat Pinid",
+        "vehicle": "MG Motor EP EV",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Dec 6, 2023",
+        "user": "Nattasapat Pinid",
+        "vehicle": "",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Nov 29, 2023",
+        "user": "tatum4258@gmail.com",
+        "vehicle": "",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Oct 15, 2023",
+        "user": "mc4056",
+        "vehicle": "MG Motor ES 2023",
+        "rating": "Positive",
+        "comment": "สถานีขึ้นว่าปิดบริการ ต้องไปชาร์จ elex ที่ pt ฝั่งตรงข้ามเยื้องๆ กัน"
+      },
+      {
+        "date": "Oct 11, 2023",
+        "user": "Nattasapat Pinid",
+        "vehicle": "",
+        "rating": "Positive",
+        "comment": ""
+      }
+    ],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486442": {
+    "locationName": "Shilparamam (Jatara)",
+    "address": "R943+38H, Madhurawada, Visakhapatnam, Andhra Pradesh 530041, India",
+    "plugTypes": [
+      "CCS2",
+      "Plugeasy"
+    ],
+    "networkProvider": "Plugeasy",
+    "chargingSpeed": "30 kW",
+    "numberOfChargers": "1 Plug",
+    "poiType": "Tourist Attraction",
+    "amenities": [
+      "Restrooms,",
+      "EV Parking,",
+      "Park"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486442"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": "May 30, 2024",
+        "user": "narasimha",
+        "vehicle": "Tata Nexon EV 2020",
+        "rating": "Positive",
+        "comment": "Nice charging"
+      },
+      {
+        "date": "May 24, 2024",
+        "user": "Chandu Kancherla",
+        "vehicle": "Tata Nexon EV 2020",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "May 22, 2024",
+        "user": "Siva Dev",
+        "vehicle": "Tata Punch EV 2024",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Nov 24, 2023",
+        "user": "Kiran",
+        "vehicle": "Tata Nexon EV 2020",
+        "rating": "Positive",
+        "comment": "Charged Successfully"
+      },
+      {
+        "date": "Nov 7, 2023",
+        "user": "Naresh Vadday",
+        "vehicle": "Tata Nexon EV 2023",
+        "rating": "Positive",
+        "comment": "Yes"
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1360505.jpg",
+      "https://photos.plugshare.com/photos/1109758.jpg",
+      "https://photos.plugshare.com/photos/1107899.jpg"
+    ]
+  },
+  "https://www.plugshare.com/location/486443": {
+    "locationName": "Sheraton Harrisburg Hershey",
+    "address": "4650 Lindle Rd, Harrisburg, PA 17111, USA",
+    "plugTypes": [
+      "Wall"
+    ],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": "1 Plug",
+    "poiType": "Lodging",
+    "amenities": [
+      "Dining,",
+      "EV Parking,",
+      "Restrooms,",
+      "Lodging"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": "486443"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": "Jan 25, 2023",
+        "user": "Kegan",
+        "vehicle": "Tesla Model 3",
+        "rating": "Positive",
+        "comment": ""
+      }
+    ],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486444": {
+    "locationName": "Biblioteca Comunale Di Orio Al Serio \"Giulia Gabrieli\"",
+    "address": "Via Dante Alighieri, 2, 24050 Orio al Serio BG, Italy",
+    "plugTypes": [
+      "Type 2,",
+      "CHAdeMO,",
+      "CCS2"
+    ],
+    "networkProvider": null,
+    "chargingSpeed": "22 - 50 kW",
+    "numberOfChargers": "1 Plug",
+    "poiType": "Library",
+    "amenities": [
+      "EV Parking"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486444"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": "Jan 25, 2023",
+        "user": "ForumElettrico.it",
+        "vehicle": "Opel Corsa-e 2020",
+        "rating": "Positive",
+        "comment": "Situata nel parcheggio di fronte alla scuola elementare e dotata di cavi lunghi 5 metri. Leggi la recensione completa https://www.forumelettrico.it/forum/colonnina-a2a-fast-orio-al-serio-via-dante-alighieri-t24581.html"
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1069126.jpg"
+    ]
+  },
+  "https://www.plugshare.com/location/486448": {
+    "locationName": "Crocus Hall 35А",
+    "address": "29 I. Mazepa str/ Tsarichanka Dnypropetrovsk rg. Ukraine",
+    "plugTypes": [
+      "Wall (Euro),",
+      "J-1772",
+      "ChargeUP"
+    ],
+    "networkProvider": "ChargeUP",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "1 Plug",
+    "poiType": "Workplace",
+    "amenities": [
+      "WiFi,",
+      "Restrooms,",
+      "Park"
+    ],
+    "hours": "9:00 - 17:00",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486448"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": "May 6, 2024",
+        "user": "Crocus Hall",
+        "vehicle": "Nissan LEAF 2016",
+        "rating": "Positive",
+        "comment": "32 А спокойно. Тип1"
+      },
+      {
+        "date": "Mar 12, 2024",
+        "user": "Crocus Hall",
+        "vehicle": "Nissan LEAF 2016",
+        "rating": "Positive",
+        "comment": "Звоните 0503201516"
+      },
+      {
+        "date": "Feb 15, 2024",
+        "user": "Crocus Hall",
+        "vehicle": "Nissan LEAF 2016",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Feb 15, 2024",
+        "user": "Crocus Hall",
+        "vehicle": "",
+        "rating": "Positive",
+        "comment": "32 Ампера. Розетка на 380в и простая на 220"
+      },
+      {
+        "date": "Nov 21, 2023",
+        "user": "Ілля",
+        "vehicle": "BMW i3",
+        "rating": "Positive",
+        "comment": ""
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1069278.jpg",
+      "https://photos.plugshare.com/photos/1069140.png"
+    ]
+  },
+  "https://www.plugshare.com/location/486447": {
+    "locationName": "AB Sapes",
+    "address": "Αλκιβιάδου 7, Σάπες 693 00, Ελλάδα",
+    "plugTypes": [
+      "Type 2",
+      "DEI Blue"
+    ],
+    "networkProvider": "DEI Blue",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "4 Plugs",
+    "poiType": "Workplace",
+    "amenities": [
+      "EV Parking"
+    ],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486447"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": "Mar 18, 2023",
+        "user": "Theodoros Pitakoudis",
+        "vehicle": "Hyundai Kona Electric 2022",
+        "rating": "Positive",
+        "comment": "Σε λειτουργία όλοι οι φορτιστές"
+      },
+      {
+        "date": "Mar 14, 2023",
+        "user": "Theodoros Pitakoudis",
+        "vehicle": "Hyundai Kona Electric 2022",
+        "rating": "Positive",
+        "comment": "Το ένα ζεύγος φορτιστών δουλεύει κανονικά -- checkin created before location officially marked open"
+      }
+    ],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486450": {
+    "locationName": "Aeroporto do Galeão RJ",
+    "address": "Aeroporto Internacional Do Galeao, 3 - Galeão, Rio de Janeiro - RJ, 21941-570, Brazil",
+    "plugTypes": [
+      "Type 2"
+    ],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": "2 Plugs",
+    "poiType": "",
+    "amenities": [
+      "Dining,",
+      "Restrooms,",
+      "Valet Parking,",
+      "WiFi"
+    ],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": "486450"
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": "Nov 23, 2024",
+        "user": "Fabio Michel",
+        "vehicle": "BYD Dolphin 2023",
+        "rating": "Positive",
+        "comment": "Cinco estações de recarga tupinambá e todas “em manutenção “. Num piso de estacionamento “premium” que já é caro e os carregadores não funcionam fica difícil acreditar na infraestrutura de elétricos no Brasil"
+      },
+      {
+        "date": "Nov 14, 2024",
+        "user": "Lucas Packness",
+        "vehicle": "BYD Dolphin Mini 2025",
+        "rating": "Positive",
+        "comment": "Liguei para a concessionária e consta como indisponível"
+      },
+      {
+        "date": "Nov 14, 2024",
+        "user": "Lucas Packness",
+        "vehicle": "BYD Dolphin Mini 2025",
+        "rating": "Positive",
+        "comment": "Liguei para a concessionária e consta como indisponível"
+      },
+      {
+        "date": "Sep 29, 2024",
+        "user": "W Filho",
+        "vehicle": "Volvo XC60 Recharge Plug-in Hybrid 2022",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Sep 29, 2024",
+        "user": "W Filho",
+        "vehicle": "Volvo XC60 Recharge Plug-in Hybrid 2022",
+        "rating": "Positive",
+        "comment": ""
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1467501.jpg",
+      "https://photos.plugshare.com/photos/1381906.jpg"
+    ]
+  },
+  "https://www.plugshare.com/location/486449": {
+    "locationName": "Holland Resort Phuket",
+    "address": "69/80 Ruampattana Road, Ratsada, Phuket, Thailand",
+    "plugTypes": [
+      "Wall,",
+      "Type 2"
+    ],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": "4 Plugs",
+    "poiType": "",
+    "amenities": [
+      "WiFi,",
+      "Lodging"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486449"
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": "Feb 20, 2023",
+        "user": "Natto",
+        "vehicle": "MG Motor MG5 EV 2023",
+        "rating": "Positive",
+        "comment": "เข้าใช้ผ่านแอปพลิเคชั่น onecharge"
+      },
+      {
+        "date": "Jan 25, 2023",
+        "user": "Vitawat Wonnakittikun",
+        "vehicle": "Mercedes E350e Plug-In Hybrid",
+        "rating": "Positive",
+        "comment": ""
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1083154.jpg",
+      "https://photos.plugshare.com/photos/1076717.jpg",
+      "https://photos.plugshare.com/photos/1069139.jpg"
+    ]
+  },
+  "https://www.plugshare.com/location/486452": {
+    "locationName": "Wolterton Hall",
+    "address": "Wolterton, Norwich NR11 7LY, UK",
+    "plugTypes": [
+      "Type 2",
+      "Fuuse"
+    ],
+    "networkProvider": "Fuuse",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "2 Plugs",
+    "poiType": "",
+    "amenities": [
+      "Restrooms,",
+      "EV Parking,",
+      "Dining,",
+      "Lodging"
+    ],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486452"
+    },
+    "parking": "Parking:",
+    "reviews": [],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486453": {
+    "locationName": "Somatne Phata",
+    "address": "PM4P+427, NH 48, Somatne Phata, Tukaram Nagar, Talegaon Dabhade, Maharashtra 410506, India",
+    "plugTypes": [
+      "CCS2,",
+      "Type 2"
+    ],
+    "networkProvider": null,
+    "chargingSpeed": "30 - 60 kW",
+    "numberOfChargers": "5 Plugs",
+    "poiType": "Parking Garage/Lot",
+    "amenities": [
+      "Restrooms,",
+      "Dining,",
+      "Park,",
+      "EV Parking"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486453"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": "Nov 19, 2024",
+        "user": "Shashank Shastri",
+        "vehicle": "Tata Nexon EV 2020",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Oct 8, 2024",
+        "user": "Ojas",
+        "vehicle": "Tata Tiago EV 2023",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Sep 15, 2024",
+        "user": "Ashutosh R",
+        "vehicle": "",
+        "rating": "Positive",
+        "comment": "Located right next to Somatane Phata (look for DVG Dosa)"
+      },
+      {
+        "date": "Sep 13, 2024",
+        "user": "Santosh Jadhav",
+        "vehicle": "Tata Nexon EV 2020",
+        "rating": "Positive",
+        "comment": "Always working"
+      },
+      {
+        "date": "Aug 28, 2024",
+        "user": "Santosh Jadhav",
+        "vehicle": "Tata Nexon EV 2020",
+        "rating": "Positive",
+        "comment": "Working as usual"
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1203389.jpg",
+      "https://photos.plugshare.com/photos/1203388.jpg",
+      "https://photos.plugshare.com/photos/1149404.jpg"
+    ]
+  },
+  "https://www.plugshare.com/location/486446": {
+    "locationName": "Eco Motors",
+    "address": "32 Farg'ona Kichik Xalqa Yo'li, Farg'ona, Uzbekistan",
+    "plugTypes": [
+      "Type 2"
+    ],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": "1 Plug",
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486446"
+    },
+    "parking": "Parking:",
+    "reviews": [],
+    "photos": [
+      "https://photos.plugshare.com/photos/1076895.jpg",
+      "https://photos.plugshare.com/photos/1074615.jpg"
+    ]
+  },
+  "https://www.plugshare.com/location/486454": {
+    "locationName": "Longo Lexus",
+    "address": "3530 Peck Rd, El Monte, CA 91731",
+    "plugTypes": [
+      "J-1772",
+      "ChargePoint"
+    ],
+    "networkProvider": "ChargePoint",
+    "chargingSpeed": "6.48 kW",
+    "numberOfChargers": "11 Plugs",
+    "poiType": "Dealership",
+    "amenities": [
+      "Shopping,",
+      "EV Parking,",
+      "WiFi,",
+      "Restrooms"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": "486454"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": "Sep 11, 2024",
+        "user": "RussellTesla",
+        "vehicle": "Tesla Model Y",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Aug 2, 2024",
+        "user": "BamBam",
+        "vehicle": "Toyota Prius Prime 2024",
+        "rating": "Positive",
+        "comment": "@ Toyota near Starbucks"
+      },
+      {
+        "date": "Jun 23, 2024",
+        "user": "Timothy Truong",
+        "vehicle": "",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Jun 10, 2024",
+        "user": "Bryan20",
+        "vehicle": "Tesla Model 3",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Jun 10, 2024",
+        "user": "Bryan20",
+        "vehicle": "Tesla Model 3",
+        "rating": "Positive",
+        "comment": ""
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1406539.jpg",
+      "https://photos.plugshare.com/photos/1069149.jpg"
+    ]
+  },
+  "https://www.plugshare.com/location/486456": {
+    "locationName": "Co-op Fifers Lane",
+    "address": "Fifers Lane , Norwich , NR6 6GB, UK",
+    "plugTypes": [
+      "Type 2"
+    ],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": "2 Plugs",
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486456"
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": "May 10, 2023",
+        "user": "jays-ev",
+        "vehicle": "Volkswagen ID.3 2020",
+        "rating": "Positive",
+        "comment": ""
+      }
+    ],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486458": {
+    "locationName": "",
+    "address": "",
+    "plugTypes": [],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": null,
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": ""
+    },
+    "parking": "Parking:",
+    "reviews": [],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486455": {
+    "locationName": "AB Supermarket",
+    "address": "Λ. Δημοκρατίας, Ειρήνης, Mirina 814 00, Greece",
+    "plugTypes": [
+      "Type 2",
+      "DEI Blue"
+    ],
+    "networkProvider": "DEI Blue",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "4 Plugs",
+    "poiType": "",
+    "amenities": [],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486455"
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": "Jul 30, 2024",
+        "user": "Fragiskos",
+        "vehicle": "Opel Corsa-e 2020",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Jul 4, 2024",
+        "user": "Dan",
+        "vehicle": "Tesla Model 3",
+        "rating": "Positive",
+        "comment": "Nice chargers. 0.4 euro / kWh ok price"
+      },
+      {
+        "date": "Sep 7, 2023",
+        "user": "Atanas Parapanov",
+        "vehicle": "Tesla Model Y",
+        "rating": "Positive",
+        "comment": "Type 2 11 kw"
+      },
+      {
+        "date": "Aug 25, 2023",
+        "user": "Paul",
+        "vehicle": "Tesla Model 3",
+        "rating": "Positive",
+        "comment": "Works perfectly, app DeiBlue is needed."
+      },
+      {
+        "date": "Aug 11, 2023",
+        "user": "vl lout",
+        "vehicle": "Cupra Born",
+        "rating": "Positive",
+        "comment": "All good"
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1404673.jpg",
+      "https://photos.plugshare.com/photos/1160177.jpg",
+      "https://photos.plugshare.com/photos/1160176.jpg"
+    ]
+  },
+  "https://www.plugshare.com/location/486457": {
+    "locationName": "Orwell Truck & Van Centre",
+    "address": "39 Hurricane Way, Norwich , NR6 6HE, UK",
+    "plugTypes": [
+      "Type 2",
+      "VendElectric"
+    ],
+    "networkProvider": "VendElectric",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "2 Plugs",
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486457"
+    },
+    "parking": "Parking:",
+    "reviews": [],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486460": {
+    "locationName": "Asteri Greek Bakery",
+    "address": "RF6V+47C, Ванадзор, Армения",
+    "plugTypes": [
+      "Type 2,",
+      "J-1772"
+    ],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": "1 Plug",
+    "poiType": "Restaurant",
+    "amenities": [
+      "EV Parking,",
+      "Restrooms,",
+      "Shopping,",
+      "Grocery,",
+      "Dining,",
+      "Lodging"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486460"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": "Sep 8, 2024",
+        "user": "Artem Saribekyan",
+        "vehicle": "Mercedes EQV 2022",
+        "rating": "Positive",
+        "comment": "Գոհ եմ կայանից"
+      },
+      {
+        "date": "Apr 28, 2024",
+        "user": "Gayane Aslanyan",
+        "vehicle": "Chevrolet Volt",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Jan 22, 2024",
+        "user": "Hayk Petrosyan",
+        "vehicle": "Mercedes EQC400",
+        "rating": "Positive",
+        "comment": "կոդ չի ուղարկվում, որ գրանցվենք, անհասկանալ ա ոնց գումար մուտք արվի..."
+      },
+      {
+        "date": "Jul 30, 2023",
+        "user": "Taron Kaplanyan",
+        "vehicle": "Honda e:NS1 2022",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Feb 11, 2023",
+        "user": "Arthur",
+        "vehicle": "Volkswagen ID.4",
+        "rating": "Positive",
+        "comment": ""
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1069160.jpeg",
+      "https://photos.plugshare.com/photos/1069159.jpeg",
+      "https://photos.plugshare.com/photos/1069158.jpeg"
+    ]
+  },
+  "https://www.plugshare.com/location/486462": {
+    "locationName": "Co-op Dereham Road",
+    "address": "58-62 Dereham Rd, Norwich NR2 4BT, UK",
+    "plugTypes": [
+      "Type 2"
+    ],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": "2 Plugs",
+    "poiType": "",
+    "amenities": [
+      "WiFi,",
+      "EV Parking,",
+      "Shopping,",
+      "Dining,",
+      "Grocery"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486462"
+    },
+    "parking": "Parking:",
+    "reviews": [],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486461": {
+    "locationName": "Co-op Earlham Green",
+    "address": "3 Cadge Rd, Norwich NR5 8AT, UK",
+    "plugTypes": [
+      "Type 2"
+    ],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": "2 Plugs",
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486461"
+    },
+    "parking": "Parking:",
+    "reviews": [],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486459": {
+    "locationName": "Norwich Community Hospital",
+    "address": "Bowthorpe Rd, Norwich , NR2 3TU, UK",
+    "plugTypes": [
+      "Type 2",
+      "Fuuse"
+    ],
+    "networkProvider": "Fuuse",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "2 Plugs",
+    "poiType": "",
+    "amenities": [
+      "EV Parking,",
+      "Restrooms"
+    ],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486459"
+    },
+    "parking": "Parking:",
+    "reviews": [],
+    "photos": [
+      "https://photos.plugshare.com/photos/1200510.jpg"
+    ]
+  },
+  "https://www.plugshare.com/location/486463": {
+    "locationName": "Central World (3)",
+    "address": "4, 4/5 Ratchadamri Rd, Khwaeng Pathum Wan, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+    "plugTypes": [
+      "CCS2",
+      "Supercharger"
+    ],
+    "networkProvider": "Supercharger",
+    "chargingSpeed": "250 kW",
+    "numberOfChargers": "9 Plugs",
+    "poiType": "Shopping Center",
+    "amenities": [
+      "Shopping,",
+      "Grocery,",
+      "WiFi,",
+      "Valet Parking,",
+      "Park,",
+      "EV Parking,",
+      "Restrooms,",
+      "Dining,",
+      "Lodging"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486463"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": "May 8, 2024",
+        "user": "Map",
+        "vehicle": "Tesla Model 3",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Mar 30, 2024",
+        "user": "PW-EV",
+        "vehicle": "Tesla Model Y",
+        "rating": "Positive",
+        "comment": "ขึ้นลิฟไปกินซูชิ ระหว่างรอชาร์จ ชาร์จเสร็จก่อนกิน"
+      },
+      {
+        "date": "Mar 27, 2024",
+        "user": "Sujit",
+        "vehicle": "BMW iX 2024",
+        "rating": "Positive",
+        "comment": "EVolt AC (7kW) Charger stopped charging at 67% (car setting at 100%) but the charging fee per hour was still running for another 2.5 hours Need to pay extra 100+ baht for nothing Since I complained to EVolt one week now, the answer was “still investigating “ such a slow response from EVolt."
+      },
+      {
+        "date": "Nov 12, 2023",
+        "user": "Brian",
+        "vehicle": "BYD Seal 2023",
+        "rating": "Positive",
+        "comment": "Onion is good"
+      },
+      {
+        "date": "Aug 7, 2023",
+        "user": "Prasit Lasan",
+        "vehicle": "Tesla Model Y",
+        "rating": "Positive",
+        "comment": "Today I charged from battery 20% to 98% with peak power current at 194kW."
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1326901.jpg",
+      "https://photos.plugshare.com/photos/1326900.jpg",
+      "https://photos.plugshare.com/photos/1246259.jpg"
+    ]
+  },
+  "https://www.plugshare.com/location/486464": {
+    "locationName": "EVCuzz - FX Sudirman",
+    "address": "FX Lifestyle Centre Fl. 02, Jl. Jenderal Sudirman Jl. Pintu Satu Senayan, RT.1/RW.3, Gelora, Tanah Abang, Central Jakarta City, Jakarta 10270, Indonesia",
+    "plugTypes": [
+      "Type 2"
+    ],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": "2 Plugs",
+    "poiType": "",
+    "amenities": [
+      "Shopping,",
+      "Grocery,",
+      "Dining,",
+      "Restrooms,",
+      "EV Parking"
+    ],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486464"
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": "Jan 25, 2023",
+        "user": "kevins718",
+        "vehicle": "Hyundai Ioniq 5 2022",
+        "rating": "Positive",
+        "comment": ""
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1278039.jpg",
+      "https://photos.plugshare.com/photos/1069174.jpg",
+      "https://photos.plugshare.com/photos/1069172.jpg"
+    ]
+  },
+  "https://www.plugshare.com/location/486465": {
+    "locationName": "חדר יולדות - ביה״ח פוריה",
+    "address": "Poriya Medical Center/Outpatient Clinics, Israel",
+    "plugTypes": [
+      "Type 2"
+    ],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": "4 Plugs",
+    "poiType": "",
+    "amenities": [
+      "EV Parking,",
+      "Lodging,",
+      "Dining,",
+      "Restrooms,",
+      "WiFi,",
+      "Park"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486465"
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": "May 15, 2023",
+        "user": "David",
+        "vehicle": "BYD Atto 3 2023",
+        "rating": "Positive",
+        "comment": "Slow but steady"
+      },
+      {
+        "date": "Feb 3, 2023",
+        "user": "TómerZuitlin5755",
+        "vehicle": "MG Motor ZS EV",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Feb 2, 2023",
+        "user": "TómerZuitlin5755",
+        "vehicle": "MG Motor ZS EV",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Jan 26, 2023",
+        "user": "TómerZuitlin5755",
+        "vehicle": "MG Motor ZS EV",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Jan 25, 2023",
+        "user": "TómerZuitlin5755",
+        "vehicle": "MG Motor ZS EV",
+        "rating": "Positive",
+        "comment": "עובד מעולה!"
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1073262.jpg",
+      "https://photos.plugshare.com/photos/1073200.jpg",
+      "https://photos.plugshare.com/photos/1073199.jpg"
+    ]
+  },
+  "https://www.plugshare.com/location/486468": {
+    "locationName": "BIOTECHNIK",
+    "address": "str. Abatorului nr. 2, Cisnadie",
+    "plugTypes": [
+      "CCS2,",
+      "Type 2"
+    ],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": "1 Plug",
+    "poiType": "",
+    "amenities": [],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486468"
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": "Sep 27, 2023",
+        "user": "MPX",
+        "vehicle": "Volkswagen e-Up! 2020",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Sep 27, 2023",
+        "user": "MPX",
+        "vehicle": "Volkswagen e-Up! 2020",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Feb 12, 2023",
+        "user": "sergiu1989",
+        "vehicle": "e-Golf",
+        "rating": "Positive",
+        "comment": "Scump !!!! Când au montat stația era 1,9 lei kw acum au scumpit la 2,5 lei kw! Pentru a se putea incarca blochezi trotuarul !"
+      },
+      {
+        "date": "Feb 8, 2023",
+        "user": "Silviu",
+        "vehicle": "Renault ZOE Z.E. 2019",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Jan 25, 2023",
+        "user": "Ev-Mag .ro",
+        "vehicle": "Hyundai Kona Electric 2021",
+        "rating": "Positive",
+        "comment": ""
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1105441.jpg",
+      "https://photos.plugshare.com/photos/1069204.jpeg"
+    ]
+  },
+  "https://www.plugshare.com/location/486470": {
+    "locationName": "",
+    "address": "",
+    "plugTypes": [],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": null,
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": ""
+    },
+    "parking": "Parking:",
+    "reviews": [],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486469": {
+    "locationName": "tankE",
+    "address": "Theodor-Heuss-Straße 7, 51149 Köln, Germany",
+    "plugTypes": [
+      "Type 2"
+    ],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": "2 Plugs",
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": "486469"
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": "Jul 28, 2024",
+        "user": "A former PlugShare member",
+        "vehicle": "Mercedes A250e Plug-In Hybrid",
+        "rating": "Positive",
+        "comment": ""
+      }
+    ],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486471": {
+    "locationName": "Vivanta By Taj, Surajkund, Tata Power 60KW",
+    "address": "Shooting Range Road, Surajkund, Faridabad",
+    "plugTypes": [
+      "Type 2,",
+      "CCS2",
+      "Tata Power"
+    ],
+    "networkProvider": "Tata Power",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "1 Plug",
+    "poiType": "",
+    "amenities": [
+      "Lodging,",
+      "Dining,",
+      "Restrooms"
+    ],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": "486471"
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": "Jun 24, 2024",
+        "user": "Amit Kumar",
+        "vehicle": "Tata Nexon EV 2020",
+        "rating": "Positive",
+        "comment": "Working is good but too much costly tata power Jio bp charge is lowest price"
+      },
+      {
+        "date": "May 7, 2024",
+        "user": "Mayank Mehta",
+        "vehicle": "Tata Nexon EV 2023",
+        "rating": "Positive",
+        "comment": "Perfect charging station, inside the basement parking lot"
+      },
+      {
+        "date": "Jan 3, 2024",
+        "user": "Anil Choudhry",
+        "vehicle": "Mahindra XUV400",
+        "rating": "Positive",
+        "comment": "Charger working fine , 60 kw fast charger,"
+      },
+      {
+        "date": "Dec 24, 2023",
+        "user": "Bishal Anand",
+        "vehicle": "",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Sep 14, 2023",
+        "user": "Sangita's EV",
+        "vehicle": "Tata Nexon EV 2023",
+        "rating": "Positive",
+        "comment": "Unable to activate the payment on the app"
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1351711.jpg"
+    ]
+  },
+  "https://www.plugshare.com/location/486476": {
+    "locationName": "Коме ЦБА Мотописта (Voltspot)",
+    "address": "ж.к. Гоце Делчев 23, 1404 Motopista, Sofia, Bulgaria",
+    "plugTypes": [
+      "Type 2,",
+      "Wall (Euro)"
+    ],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": "1 Plug",
+    "poiType": "",
+    "amenities": [
+      "Grocery"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486476"
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": "Oct 13, 2024",
+        "user": "Schenker",
+        "vehicle": "",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Sep 17, 2024",
+        "user": "raverman",
+        "vehicle": "Tesla Model Y",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Sep 1, 2024",
+        "user": "Just Commuter",
+        "vehicle": "Cupra Leon Estate Plug-In Hybrid",
+        "rating": "Positive",
+        "comment": "Тайп2 кабела на самата станция е много къс. Със кабела на самата станция. Оже да се зарежда само от съседното място, което е заето от не EV. Трябва да зареждам със шуко кабела на самата кола."
+      },
+      {
+        "date": "Apr 5, 2024",
+        "user": "Slavi Yordanov",
+        "vehicle": "ZOE",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Mar 14, 2024",
+        "user": "Slavi Yordanov",
+        "vehicle": "ZOE",
+        "rating": "Positive",
+        "comment": "Works great."
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1425276.jpg",
+      "https://photos.plugshare.com/photos/1069219.jpg"
+    ]
+  },
+  "https://www.plugshare.com/location/486473": {
+    "locationName": "kafe SOY 120kW",
+    "address": "XRJF+47 Alty-Gul, Узбекистан",
+    "plugTypes": [
+      "GB/T (Fast)"
+    ],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": "2 Plugs",
+    "poiType": "Parking Garage/Lot",
+    "amenities": [
+      "Shopping,",
+      "Restrooms,",
+      "EV Parking"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486473"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": "Mar 26, 2024",
+        "user": "akrom asqarov",
+        "vehicle": "",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Mar 20, 2024",
+        "user": "Nodir Xidoyatov",
+        "vehicle": "BYD e2 2022",
+        "rating": "Positive",
+        "comment": "Бирон ишлайдиган тел койингла вечна тел киламан хеч ким кутармайди"
+      },
+      {
+        "date": "Nov 2, 2023",
+        "user": "akrom asqarov",
+        "vehicle": "",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Oct 11, 2023",
+        "user": "Dilmurod Razzakov",
+        "vehicle": "Hozon Neta U Pro 2023",
+        "rating": "Positive",
+        "comment": "Яхши станция 30 дакикада 100% зарядлайди."
+      },
+      {
+        "date": "Sep 30, 2023",
+        "user": "Ulugbek Ruzibayev",
+        "vehicle": "BYD Seagull 2023",
+        "rating": "Positive",
+        "comment": "Ok"
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1227032.jpg",
+      "https://photos.plugshare.com/photos/1165305.jpg",
+      "https://photos.plugshare.com/photos/1115976.jpg"
+    ]
+  },
+  "https://www.plugshare.com/location/486472": {
+    "locationName": "Fastned Parsons Road",
+    "address": "19 Parsons Road, Washington, NE37 1EZ, UK",
+    "plugTypes": [
+      "CCS2,",
+      "CHAdeMO"
+    ],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": "8 Plugs",
+    "poiType": "",
+    "amenities": [
+      "Dining,",
+      "EV Parking,",
+      "Shopping,",
+      "Grocery"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486472"
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": "Sep 2, 2023",
+        "user": "Douglas Baird",
+        "vehicle": "Hyundai Tucson Plug-In Hybrid 2023",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Aug 25, 2023",
+        "user": "TrickyTS24",
+        "vehicle": "BMW iX3 2024",
+        "rating": "Positive",
+        "comment": "Great location and fast charging. Nice go have a Greggs opposite"
+      },
+      {
+        "date": "Jun 5, 2023",
+        "user": "feev",
+        "vehicle": "MG Motor MG4 EV",
+        "rating": "Positive",
+        "comment": "My local"
+      },
+      {
+        "date": "May 29, 2023",
+        "user": "feev",
+        "vehicle": "MG Motor MG4 EV",
+        "rating": "Positive",
+        "comment": "Nice place no issue's"
+      },
+      {
+        "date": "May 14, 2023",
+        "user": "Garyrobinson800",
+        "vehicle": "Tesla Model 3",
+        "rating": "Positive",
+        "comment": "No issues"
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1069304.jpg"
+    ]
+  },
+  "https://www.plugshare.com/location/486475": {
+    "locationName": "",
+    "address": "",
+    "plugTypes": [],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": null,
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": ""
+    },
+    "parking": "Parking:",
+    "reviews": [],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486479": {
+    "locationName": "New York State Office of Children and Family Services",
+    "address": "164 Columbia Turnpike, Rensselaer, NY 12144",
+    "plugTypes": [
+      "J-1772"
+    ],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": "4 Plugs",
+    "poiType": "Civic",
+    "amenities": [
+      "EV Parking"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486479"
+    },
+    "parking": "Parking: Free",
+    "reviews": [],
+    "photos": [
+      "https://photos.plugshare.com/photos/1069225.jpg"
+    ]
+  },
+  "https://www.plugshare.com/location/486482": {
+    "locationName": "Sale Saukkola",
+    "address": "Turuntie 2180, 09430 Saukkola, Finland",
+    "plugTypes": [
+      "CCS2"
+    ],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": "2 Plugs",
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486482"
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": "Nov 2, 2023",
+        "user": "Liina Veera",
+        "vehicle": "Volkswagen Golf (VI) Blue-e-motion",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Sep 7, 2023",
+        "user": "brwzzard",
+        "vehicle": "Hyundai Ioniq Electric 2020",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Jul 31, 2023",
+        "user": "Xdenderiv",
+        "vehicle": "Hyundai Ioniq Electric 2020",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Jan 31, 2023",
+        "user": "Harb",
+        "vehicle": "BMW i3",
+        "rating": "Positive",
+        "comment": ""
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1179979.jpg"
+    ]
+  },
+  "https://www.plugshare.com/location/486481": {
+    "locationName": "Telpark Peniscola Diputacio De Castello",
+    "address": "9C53+F7 Peniscola, Spain",
+    "plugTypes": [
+      "Type 2"
+    ],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": "1 Plug",
+    "poiType": "",
+    "amenities": [],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486481"
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": "Sep 10, 2023",
+        "user": "Andras Grepaly",
+        "vehicle": "Tesla Model Y",
+        "rating": "Positive",
+        "comment": "Works with telpark app. 0.38€/kWh Parking fee applies."
+      },
+      {
+        "date": "Apr 5, 2023",
+        "user": "beegh",
+        "vehicle": "Mercedes EQC400",
+        "rating": "Positive",
+        "comment": ""
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1069230.jpg"
+    ]
+  },
+  "https://www.plugshare.com/location/486478": {
+    "locationName": "MEO Loulé - Mar Shopping Algarve (3)",
+    "address": "32X2+6V Loulé, Portugal",
+    "plugTypes": [
+      "Type 2,",
+      "CCS2,",
+      "CHAdeMO"
+    ],
+    "networkProvider": null,
+    "chargingSpeed": "60 kW",
+    "numberOfChargers": "2 Plugs",
+    "poiType": "Shopping Center",
+    "amenities": [
+      "Shopping,",
+      "Dining,",
+      "Restrooms,",
+      "EV Parking"
+    ],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": "486478"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": "Sep 24, 2024",
+        "user": "Almaz -",
+        "vehicle": "Porsche Taycan 2022",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Dec 31, 2023",
+        "user": "Yannick",
+        "vehicle": "Tesla Model X",
+        "rating": "Positive",
+        "comment": "Only worked after third try"
+      },
+      {
+        "date": "Dec 4, 2023",
+        "user": "4elEVate",
+        "vehicle": "Tesla Model Y",
+        "rating": "Positive",
+        "comment": "AC Type2 0,043€/nim/7kW🤔"
+      },
+      {
+        "date": "Oct 28, 2023",
+        "user": "Cbarth",
+        "vehicle": "Peugeot 3008 Plug-In Hybrid",
+        "rating": "Positive",
+        "comment": ""
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1438608.jpg",
+      "https://photos.plugshare.com/photos/1069222.jpg"
+    ]
+  },
+  "https://www.plugshare.com/location/486474": {
+    "locationName": "",
+    "address": "",
+    "plugTypes": [],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": null,
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": ""
+    },
+    "parking": "Parking:",
+    "reviews": [],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486486": {
+    "locationName": "Days Inn Wildwood",
+    "address": "551 FL-44, Wildwood, FL 34785, USA",
+    "plugTypes": [
+      "Wall"
+    ],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": "1 Plug",
+    "poiType": "Lodging",
+    "amenities": [
+      "Lodging,",
+      "Dining,",
+      "Restrooms,",
+      "WiFi,",
+      "EV Parking"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": "486486"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": "Jan 25, 2023",
+        "user": "Days Inn I-75 Exit 329",
+        "vehicle": "",
+        "rating": "Positive",
+        "comment": "NEW 50 AMP WALL PLUG ONLY"
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1069250.jpg",
+      "https://photos.plugshare.com/photos/1069248.jpg",
+      "https://photos.plugshare.com/photos/1069245.jpg"
+    ]
+  },
+  "https://www.plugshare.com/location/486483": {
+    "locationName": "Village at Sandhill",
+    "address": "49402 Town Center Pl, Columbia, SC 29229, USA",
+    "plugTypes": [
+      "NACS (Tesla)",
+      "Supercharger"
+    ],
+    "networkProvider": "Supercharger",
+    "chargingSpeed": "250 kW",
+    "numberOfChargers": "12 Plugs",
+    "poiType": "Shopping Center",
+    "amenities": [
+      "Shopping,",
+      "EV Parking,",
+      "Restrooms,",
+      "Dining"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486483"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": "Oct 31, 2024",
+        "user": "Dann",
+        "vehicle": "Tesla Model Y",
+        "rating": "Positive",
+        "comment": "Open. No bathrooms available unless u go in a store"
+      },
+      {
+        "date": "Oct 26, 2024",
+        "user": "Donald Griggs",
+        "vehicle": "Tesla Model 3",
+        "rating": "Positive",
+        "comment": "Working well"
+      },
+      {
+        "date": "Jun 16, 2024",
+        "user": "Donald Griggs",
+        "vehicle": "Tesla Model 3",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Jun 13, 2024",
+        "user": "mooney11x@yahoo.com",
+        "vehicle": "Tesla Model S",
+        "rating": "Positive",
+        "comment": "Couldn’t get into chargers. They had new vehicles blocking them."
+      },
+      {
+        "date": "May 18, 2024",
+        "user": "richster64",
+        "vehicle": "Tesla Model Y",
+        "rating": "Positive",
+        "comment": ""
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1183764.jpg",
+      "https://photos.plugshare.com/photos/1104503.jpg",
+      "https://photos.plugshare.com/photos/1082465.jpg"
+    ]
+  },
+  "https://www.plugshare.com/location/486484": {
+    "locationName": "THE PLANT PLACE GC LTD",
+    "address": "169 Fleetwood Rd , S Thornton-Cleveleys , FY5 5NS ,UK",
+    "plugTypes": [
+      "Type 2",
+      "Clenergy EV"
+    ],
+    "networkProvider": "Clenergy EV",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "1 Plug",
+    "poiType": "",
+    "amenities": [
+      "Restrooms,",
+      "EV Parking"
+    ],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486484"
+    },
+    "parking": "Parking:",
+    "reviews": [],
+    "photos": [
+      "https://photos.plugshare.com/photos/1069239.png"
+    ]
+  },
+  "https://www.plugshare.com/location/486485": {
+    "locationName": "",
+    "address": "",
+    "plugTypes": [],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": null,
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": ""
+    },
+    "parking": "Parking:",
+    "reviews": [],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486488": {
+    "locationName": "Hampton Inn & Suites Ardmore",
+    "address": "526 Railway Express Street, Ardmore, Oklahoma, 73401",
+    "plugTypes": [
+      "J-1772"
+    ],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": "3 Plugs",
+    "poiType": "Lodging",
+    "amenities": [
+      "Restrooms,",
+      "WiFi,",
+      "EV Parking,",
+      "Lodging,",
+      "Dining,",
+      "Park"
+    ],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": "486488"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": "Aug 1, 2024",
+        "user": "Aashish Dhungana",
+        "vehicle": "Ford Mustang Mach-E 2023",
+        "rating": "Positive",
+        "comment": "Awesome L2 charger"
+      },
+      {
+        "date": "Oct 15, 2023",
+        "user": "kmuller192",
+        "vehicle": "Tesla Model 3",
+        "rating": "Positive",
+        "comment": "EV Passport Charger #1221 - worked perfectly and took two seconds to start : Scanned QR code, paid with Apple Pay. Max 207V @ 48A"
+      },
+      {
+        "date": "Mar 15, 2023",
+        "user": "wsorens",
+        "vehicle": "Tesla Model 3",
+        "rating": "Positive",
+        "comment": "Spending the night, tried for 20 min to charge and failed. Called “help line” and the person who answered was worthless. He said he would contact their ‘response team’. He also suggested I call the number on the side of the charger. (I had called the number in the App). Called the number on the charger, got a “this number has been disconnected”. Don’t reply on this charger. (EV Passport)"
+      },
+      {
+        "date": "Jan 30, 2023",
+        "user": "LexFloruss",
+        "vehicle": "Chevrolet Bolt EV 2017",
+        "rating": "Positive",
+        "comment": "I am posting again since my first checkin did not post. Nowhere on the hotel's website does it say the chargers have some network where you have to scan in some code on your phone and pay for charging. Tried to scan and it Did Not Work. It is 22 degrees outside and almost midnight. We picked this hotel only so we could plug in and go to bed. The front desk person is calling the manager to deal with it but as far as I am concerned the damage is done."
+      },
+      {
+        "date": "Jan 30, 2023",
+        "user": "LexFloruss",
+        "vehicle": "Chevrolet Bolt EV 2017",
+        "rating": "Positive",
+        "comment": "This is not accurate. It is some strange network that according to the front desk requires you to scan the barcode with your phone. It. Doesn't. Work. Front desk person had to call the manager. It's almost midnight, I need to get to sleep, and it is nowhere mentioned anywhere on the hotel's website that the chargers are anything but plug in and it goes."
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1229906.jpg"
+    ]
+  },
+  "https://www.plugshare.com/location/486490": {
+    "locationName": "Q8",
+    "address": "Grande Raccordo Anulare km 36+636, 00169 Roma RM, Italy",
+    "plugTypes": [
+      "CCS2"
+    ],
+    "networkProvider": null,
+    "chargingSpeed": "50 kW",
+    "numberOfChargers": "4 Plugs",
+    "poiType": "Gas Station",
+    "amenities": [
+      "EV Parking"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486490"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": "Jan 25, 2023",
+        "user": "ForumElettrico.it",
+        "vehicle": "Opel Corsa-e 2020",
+        "rating": "Positive",
+        "comment": "4 CCS Combo 2 da 50 kW installate nell'area di servizio sul Grande Raccordo Anulare. Leggi la recensione completa https://www.forumelettrico.it/forum/colonnina-fast-ads-q8-casilina-interna-roma-gra-t24625.html"
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1069247.jpg",
+      "https://photos.plugshare.com/photos/1069246.jpg"
+    ]
+  },
+  "https://www.plugshare.com/location/486489": {
+    "locationName": "Welcome Break Sarn Park Services M4 (3)",
+    "address": "Welcome Break Sarn Park (Bridgend Cardiff, M4, Sarn, Bridgend CF32 9SY, UK",
+    "plugTypes": [
+      "CCS2",
+      "Applegreen Electric"
+    ],
+    "networkProvider": "Applegreen Electric",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "8 Plugs",
+    "poiType": "Rest Stop",
+    "amenities": [
+      "Grocery,",
+      "Shopping,",
+      "WiFi,",
+      "Lodging,",
+      "Dining,",
+      "Restrooms,",
+      "EV Parking"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486489"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": "Jul 13, 2024",
+        "user": "Andy P",
+        "vehicle": "Toyota bZ4x 2023",
+        "rating": "Positive",
+        "comment": "Worked without problems. Only minor issue is the bays are quite short. The back of my car was sticking out."
+      },
+      {
+        "date": "Mar 16, 2024",
+        "user": "Camper",
+        "vehicle": "Volvo XC40 Recharge 2023",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Jan 6, 2024",
+        "user": "Jack Venables",
+        "vehicle": "Ford Mustang Mach-E 2022",
+        "rating": "Positive",
+        "comment": "They look to be all working fine 🙌"
+      },
+      {
+        "date": "Oct 15, 2023",
+        "user": "IrishEVs",
+        "vehicle": "Peugeot e-208",
+        "rating": "Positive",
+        "comment": "Good fast charge. Nice and easy with contactless payment"
+      },
+      {
+        "date": "Aug 3, 2023",
+        "user": "Sivart",
+        "vehicle": "Renault ZOE Z.E. 2019",
+        "rating": "Positive",
+        "comment": "Started to charge, then I got a notification that it had stopped and then couldn’t restart it."
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1073164.jpg"
+    ]
+  },
+  "https://www.plugshare.com/location/486492": {
+    "locationName": "S/M My Market Atalanti",
+    "address": "Kato Pellis 5, Atalanti 352 00, Greece",
+    "plugTypes": [
+      "Type 2",
+      "NRG inCharge"
+    ],
+    "networkProvider": "NRG inCharge",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "2 Plugs",
+    "poiType": "Store",
+    "amenities": [
+      "Restrooms,",
+      "WiFi,",
+      "Grocery,",
+      "Shopping"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486492"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": "May 30, 2024",
+        "user": "Βασιλειος Ευθυμιοπουλος",
+        "vehicle": "Skoda CITIGOᵉ iV",
+        "rating": "Positive",
+        "comment": "Όχι"
+      },
+      {
+        "date": "Apr 8, 2024",
+        "user": "G-Man",
+        "vehicle": "Nissan LEAF 2016",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Oct 12, 2023",
+        "user": "G-Man",
+        "vehicle": "Nissan LEAF 2016",
+        "rating": "Positive",
+        "comment": "Δυστυχώς οι θέσεις καταλαμβάνονται αρκετές φορές από θερμικά που παρκάρουν εκεί γιατί δε θέλουν να περπατήσουν 20 μέτρα."
+      },
+      {
+        "date": "Jun 17, 2023",
+        "user": "G-Man",
+        "vehicle": "Nissan LEAF 2016",
+        "rating": "Positive",
+        "comment": "Μερικές φορές ο σταθμός φαίνεται offline στην εφαρμογή."
+      },
+      {
+        "date": "Jan 27, 2023",
+        "user": "G-Man",
+        "vehicle": "Nissan LEAF 2016",
+        "rating": "Positive",
+        "comment": ""
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1072752.jpg"
+    ]
+  },
+  "https://www.plugshare.com/location/486491": {
+    "locationName": "",
+    "address": "",
+    "plugTypes": [],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": null,
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": ""
+    },
+    "parking": "Parking:",
+    "reviews": [],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486493": {
+    "locationName": "Haven Quay West Holiday Park",
+    "address": "New Quay , SA45 9SE ,UK",
+    "plugTypes": [
+      "Type 2",
+      "VendElectric"
+    ],
+    "networkProvider": "VendElectric",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "4 Plugs",
+    "poiType": "",
+    "amenities": [
+      "Lodging,",
+      "Restrooms,",
+      "EV Parking,",
+      "Dining"
+    ],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486493"
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": "Aug 8, 2024",
+        "user": "steve.sjm1472",
+        "vehicle": "",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Mar 26, 2024",
+        "user": "Dexter Willis",
+        "vehicle": "",
+        "rating": "Positive",
+        "comment": "Very easy to use , just inside the park , you need your own cable and it costs £0.50 Kw and you will require the Monta app"
+      },
+      {
+        "date": "Aug 3, 2023",
+        "user": "Roy",
+        "vehicle": "Vauxhall Mokka-e 2021",
+        "rating": "Positive",
+        "comment": "Nice and easy but make sure you have the app downloaded first."
+      },
+      {
+        "date": "Jul 26, 2023",
+        "user": "Simon Barrett",
+        "vehicle": "Tesla Model 3",
+        "rating": "Positive",
+        "comment": "Had to download an app as I haven’t used this charger before. All very easy."
+      },
+      {
+        "date": "Jul 13, 2023",
+        "user": "Stuart Emery",
+        "vehicle": "Hyundai Kona Electric 2023",
+        "rating": "Positive",
+        "comment": "Straight forward and worked seamlessly. No other cars charging at the time."
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1069254.png",
+      "https://photos.plugshare.com/photos/1069253.png"
+    ]
+  },
+  "https://www.plugshare.com/location/486494": {
+    "locationName": "",
+    "address": "",
+    "plugTypes": [],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": null,
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": ""
+    },
+    "parking": "Parking:",
+    "reviews": [],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486496": {
+    "locationName": "Haven - Allhallows Holiday Park",
+    "address": "Allhallows, Rochester, ME3 9QD , UK",
+    "plugTypes": [
+      "Type 2",
+      "VendElectric"
+    ],
+    "networkProvider": "VendElectric",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "4 Plugs",
+    "poiType": "",
+    "amenities": [
+      "Restrooms,",
+      "Lodging"
+    ],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486496"
+    },
+    "parking": "Parking:",
+    "reviews": [],
+    "photos": [
+      "https://photos.plugshare.com/photos/1176710.jpg"
+    ]
+  },
+  "https://www.plugshare.com/location/486495": {
+    "locationName": "",
+    "address": "",
+    "plugTypes": [],
+    "networkProvider": null,
+    "chargingSpeed": "kW",
+    "numberOfChargers": null,
+    "poiType": "",
+    "amenities": [],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": ""
+    },
+    "parking": "Parking:",
+    "reviews": [],
+    "photos": []
+  },
+  "https://www.plugshare.com/location/486497": {
+    "locationName": "Hopton Holiday Park",
+    "address": "Warren Road, Hopton , NR31 9BW ,UK",
+    "plugTypes": [
+      "Type 2",
+      "VendElectric"
+    ],
+    "networkProvider": "VendElectric",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "4 Plugs",
+    "poiType": "",
+    "amenities": [
+      "Dining,",
+      "Lodging,",
+      "Restrooms"
+    ],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486497"
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": "Apr 1, 2024",
+        "user": "neil harris",
+        "vehicle": "Tesla Model Y",
+        "rating": "Positive",
+        "comment": "You have the scan the qr code. It puts a hold of £40 on your car"
+      },
+      {
+        "date": "Apr 1, 2024",
+        "user": "neil harris",
+        "vehicle": "Tesla Model Y",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Oct 6, 2023",
+        "user": "Carol Crawley",
+        "vehicle": "Volvo XC40 Recharge 2022",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Oct 6, 2023",
+        "user": "Carol Crawley",
+        "vehicle": "Volvo XC40 Recharge 2022",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Jul 9, 2023",
+        "user": "MC",
+        "vehicle": "Opel Corsa-e 2021",
+        "rating": "Positive",
+        "comment": ""
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1069259.png"
+    ]
+  },
+  "https://www.plugshare.com/location/486499": {
+    "locationName": "Trlith Studios - Building 109",
+    "address": "461 Sandy Creek Rd, Fayetteville, GA 30214, USA",
+    "plugTypes": [
+      "J-1772",
+      "ChargePoint"
+    ],
+    "networkProvider": "ChargePoint",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "2 Plugs",
+    "poiType": "Workplace",
+    "amenities": [
+      "EV Parking"
+    ],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": null,
+      "rate": "486499"
+    },
+    "parking": "Parking: Free",
+    "reviews": [
+      {
+        "date": "Jan 25, 2023",
+        "user": "A former PlugShare member",
+        "vehicle": "Rivian R1T 2022",
+        "rating": "Positive",
+        "comment": ""
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1069261.jpg"
+    ]
+  },
+  "https://www.plugshare.com/location/486498": {
+    "locationName": "GO EC Power Zone EV Charging Station",
+    "address": "North Paravur, Ernakulam, Kerala 683513",
+    "plugTypes": [
+      "CCS2",
+      "GOEC"
+    ],
+    "networkProvider": "GOEC",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "1 Plug",
+    "poiType": "",
+    "amenities": [
+      "EV Parking"
+    ],
+    "hours": "Open 24/7",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486498"
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": "Apr 29, 2024",
+        "user": "AR",
+        "vehicle": "",
+        "rating": "Positive",
+        "comment": ""
+      },
+      {
+        "date": "Dec 26, 2023",
+        "user": "Mohammed Rizin",
+        "vehicle": "Tata Tiago EV 2023",
+        "rating": "Positive",
+        "comment": "Charged my tiago ev successfully 🤗"
+      },
+      {
+        "date": "Dec 25, 2023",
+        "user": "Govind Kaniyath",
+        "vehicle": "Tata Nexon EV 2020",
+        "rating": "Positive",
+        "comment": "Charged successfully using RFID card. But there is no security here, no restaurant or washroom. Had to take an auto to nearby restaurant."
+      },
+      {
+        "date": "Jul 14, 2023",
+        "user": "Anoop Ravi Kattukandathil",
+        "vehicle": "",
+        "rating": "Positive",
+        "comment": "Charging is fast. But no area to wait"
+      },
+      {
+        "date": "Jun 28, 2023",
+        "user": "Sarath chandran",
+        "vehicle": "Tata Tigor EV",
+        "rating": "Positive",
+        "comment": ""
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1273069.jpg",
+      "https://photos.plugshare.com/photos/1167522.jpg",
+      "https://photos.plugshare.com/photos/1167290.jpg"
+    ]
+  },
+  "https://www.plugshare.com/location/486500": {
+    "locationName": "The Reef Leisure Centre",
+    "address": "Weybourne Rd , Sheringham , NR26 8WD ,UK",
+    "plugTypes": [
+      "Type 2",
+      "VendElectric"
+    ],
+    "networkProvider": "VendElectric",
+    "chargingSpeed": "kW",
+    "numberOfChargers": "6 Plugs",
+    "poiType": "",
+    "amenities": [
+      "Restrooms,",
+      "EV Parking"
+    ],
+    "hours": "",
+    "pricing": {
+      "paymentRequired": "Payment Required",
+      "rate": "486500"
+    },
+    "parking": "Parking:",
+    "reviews": [
+      {
+        "date": "Mar 29, 2024",
+        "user": "Gmincca",
+        "vehicle": "Kia Niro EV 2021",
+        "rating": "Positive",
+        "comment": "These chargers use Monta system and app now (not Vendelectric). Sadly it is useless, so be very careful or you could lose serious money."
+      }
+    ],
+    "photos": [
+      "https://photos.plugshare.com/photos/1069262.png"
+    ]
+  }
+}
